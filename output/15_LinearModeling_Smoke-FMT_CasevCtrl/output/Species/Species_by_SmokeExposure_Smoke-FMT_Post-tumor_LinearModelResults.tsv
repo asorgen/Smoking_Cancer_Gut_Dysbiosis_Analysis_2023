@@ -1,0 +1,15 @@
+"Taxa"	"pValue"	"R2"	"direction"	"Adj_pValue"
+"d__Bacteria.p__Actinobacteriota.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Bifidobacterium.__"	0.0340514107656048	0.251316986970818	"Smoke"	0.0529688611909408
+"d__Bacteria.p__Actinobacteriota.c__Coriobacteriia.o__Coriobacteriales.f__Atopobiaceae.g__Olsenella.__"	9.39283969883635e-05	0.625112735790557	"Smoke"	0.000187856793976727
+"d__Bacteria.p__Bacteroidota.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.__"	1.51531808883637e-10	0.927702790053252	"Smoke"	1.06072266218546e-09
+"d__Bacteria.p__Bacteroidota.c__Bacteroidia.o__Bacteroidales.f__Prevotellaceae.g__Prevotella.__"	1.68444796753271e-17	0.99019534639119	"Smoke"	2.3582271545458e-16
+"d__Bacteria.p__Bacteroidota.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.__"	0.00185696325457724	0.463951108732042	"Smoke"	0.00324968569551017
+"d__Bacteria.p__Bacteroidota.c__Bacteroidia.o__Bacteroidales.f__Tannerellaceae.g__Parabacteroides.__"	8.84588260113045e-10	0.909959253801206	"Smoke"	4.12807854719421e-09
+"d__Bacteria.p__Campilobacterota.c__Campylobacteria.o__Campylobacterales.f__Helicobacteraceae.g__Helicobacter.__"	0.0674322151911168	0.193889346731993	"Smoke"	0.0944051012675634
+"d__Bacteria.p__Desulfobacterota.c__Desulfovibrionia.o__Desulfovibrionales.f__Desulfovibrionaceae.g__Desulfovibrio.__"	1.7991664444349e-05	0.693397508239585	"Smoke"	4.19805503701476e-05
+"d__Bacteria.p__Firmicutes.c__Bacilli.o__Erysipelotrichales.f__Erysipelatoclostridiaceae.__.__"	0.659482378732122	0.0124410416335272	"Smoke"	0.659482378732122
+"d__Bacteria.p__Firmicutes.c__Bacilli.o__Erysipelotrichales.f__Erysipelotrichaceae.g__Erysipelothrix.__"	0.179051555667833	0.109868215875014	"Smoke"	0.227883798122696
+"d__Bacteria.p__Firmicutes.c__Clostridia.o__Lachnospirales.f__Lachnospiraceae.__.__"	7.82488869317774e-08	0.842978021548865	"Smoke"	2.73871104261221e-07
+"d__Bacteria.p__Firmicutes.c__Clostridia.o__Oscillospirales.f__Oscillospiraceae.__.__"	0.521569686494749	0.0261391375360245	"Smoke"	0.608497967577207
+"d__Bacteria.p__Verrucomicrobiota.c__Chlamydiae.o__Chlamydiales.f__Chlamydiaceae.g__Chlamydia.__"	7.44147845204324e-06	0.724780591370408	"Smoke"	2.08361396657211e-05
+"Other"	0.566011322092495	0.0210155475762173	"Control"	0.609550654561148

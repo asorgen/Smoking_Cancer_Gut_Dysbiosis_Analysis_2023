@@ -1,0 +1,216 @@
+------------------------------------------------------------
+Module:  00_TaxaMetaMerge
+Module class:  biolockj.module.diy.GenMod
+Module version:  1.1.0
+Runtime:  00 hours : 00 minutes : 06 seconds
+--------------------------------------------------
+# Files Output:  36
+Mean Output File Size:  12 KB
+Main Script:  /mnt/efs/pipelines/mouseSmoke_analysis_2024Dec09/00_TaxaMetaMerge/script/MAIN_00_TaxaMetaMerge.sh
+Executed 1/1 worker scripts [1 successful]
+Average worker script runtime: <1 minute
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------
+Module:  01_CountConversion
+Module class:  biolockj.module.diy.GenMod
+Module version:  1.1.0
+Runtime:  00 hours : 00 minutes : 17 seconds
+--------------------------------------------------
+# Files Output:  108
+Mean Output File Size:  15 KB
+Main Script:  /mnt/efs/pipelines/mouseSmoke_analysis_2024Dec09/01_CountConversion/script/MAIN_01_CountConversion.sh
+Executed 1/1 worker scripts [1 successful]
+Average worker script runtime: <1 minute
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Module:  02_TableGather
+Module class:  biolockj.module.diy.GenMod
+Module version:  1.1.0
+Runtime:  00 hours : 00 minutes : 08 seconds
+--------------------------------------------------
+# Files Output:  30
+Mean Output File Size:  322 KB
+Main Script:  /mnt/efs/pipelines/mouseSmoke_analysis_2024Dec09/02_TableGather/script/MAIN_02_TableGather.sh
+Executed 1/1 worker scripts [1 successful]
+Average worker script runtime: <1 minute
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Module:  03_PCoA_Abx-Pancreatic_CSEvCtrl
+Module class:  biolockj.module.diy.GenMod
+Module version:  1.1.0
+Runtime:  00 hours : 00 minutes : 08 seconds
+--------------------------------------------------
+# Files Output:  9
+Mean Output File Size:  23 KB
+Main Script:  /mnt/efs/pipelines/mouseSmoke_analysis_2024Dec09/03_PCoA_Abx-Pancreatic_CSEvCtrl/script/MAIN_03_PCoA_Abx-Pancreatic_CSEvCtrl.sh
+Executed 1/1 worker scripts [1 successful]
+Average worker script runtime: <1 minute
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Module:  04_PCoA_Abx-Colon_CSEvCtrl
+Module class:  biolockj.module.diy.GenMod
+Module version:  1.1.0
+Runtime:  00 hours : 00 minutes : 08 seconds
+--------------------------------------------------
+# Files Output:  6
+Mean Output File Size:  17 KB
+Main Script:  /mnt/efs/pipelines/mouseSmoke_analysis_2024Dec09/04_PCoA_Abx-Colon_CSEvCtrl/script/MAIN_04_PCoA_Abx-Colon_CSEvCtrl.sh
+Executed 1/1 worker scripts [1 successful]
+Average worker script runtime: <1 minute
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Module:  05_PCoA_Abx-Bladder_CSEvCtrl
+Module class:  biolockj.module.diy.GenMod
+Module version:  1.1.0
+Runtime:  00 hours : 00 minutes : 09 seconds
+--------------------------------------------------
+# Files Output:  6
+Mean Output File Size:  18 KB
+Main Script:  /mnt/efs/pipelines/mouseSmoke_analysis_2024Dec09/05_PCoA_Abx-Bladder_CSEvCtrl/script/MAIN_05_PCoA_Abx-Bladder_CSEvCtrl.sh
+Executed 1/1 worker scripts [1 successful]
+Average worker script runtime: <1 minute
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Module:  06_PCoA_Neo-Pancreatic_CSEvCtrl
+Module class:  biolockj.module.diy.GenMod
+Module version:  1.1.0
+Runtime:  00 hours : 00 minutes : 08 seconds
+--------------------------------------------------
+# Files Output:  6
+Mean Output File Size:  19 KB
+Main Script:  /mnt/efs/pipelines/mouseSmoke_analysis_2024Dec09/06_PCoA_Neo-Pancreatic_CSEvCtrl/script/MAIN_06_PCoA_Neo-Pancreatic_CSEvCtrl.sh
+Executed 1/1 worker scripts [1 successful]
+Average worker script runtime: <1 minute
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Module:  07_LinearModeling_Abx-Pancreatic_CSEvCtrl
+Module class:  biolockj.module.diy.GenMod
+Module version:  1.1.0
+Runtime:  00 hours : 00 minutes : 17 seconds
+--------------------------------------------------
+# Files Output:  18
+Mean Output File Size:  5 KB
+Main Script:  /mnt/efs/pipelines/mouseSmoke_analysis_2024Dec09/07_LinearModeling_Abx-Pancreatic_CSEvCtrl/script/MAIN_07_LinearModeling_Abx-Pancreatic_CSEvCtrl.sh
+Executed 1/1 worker scripts [1 successful]
+Average worker script runtime: <1 minute
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Module:  08_LinearModeling_Abx-Colon_CSEvCtrl
+Module class:  biolockj.module.diy.GenMod
+Module version:  1.1.0
+Runtime:  00 hours : 00 minutes : 11 seconds
+--------------------------------------------------
+# Files Output:  9
+Mean Output File Size:  5 KB
+Main Script:  /mnt/efs/pipelines/mouseSmoke_analysis_2024Dec09/08_LinearModeling_Abx-Colon_CSEvCtrl/script/MAIN_08_LinearModeling_Abx-Colon_CSEvCtrl.sh
+Executed 1/1 worker scripts [1 successful]
+Average worker script runtime: <1 minute
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Module:  09_LinearModeling_Abx-Bladder_CSEvCtrl
+Module class:  biolockj.module.diy.GenMod
+Module version:  1.1.0
+Runtime:  00 hours : 00 minutes : 11 seconds
+--------------------------------------------------
+# Files Output:  9
+Mean Output File Size:  5 KB
+Main Script:  /mnt/efs/pipelines/mouseSmoke_analysis_2024Dec09/09_LinearModeling_Abx-Bladder_CSEvCtrl/script/MAIN_09_LinearModeling_Abx-Bladder_CSEvCtrl.sh
+Executed 1/1 worker scripts [1 successful]
+Average worker script runtime: <1 minute
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Module:  10_LinearModeling_Neo-Pancreatic_CSEvCtrl
+Module class:  biolockj.module.diy.GenMod
+Module version:  1.1.0
+Runtime:  00 hours : 00 minutes : 10 seconds
+--------------------------------------------------
+# Files Output:  9
+Mean Output File Size:  4 KB
+Main Script:  /mnt/efs/pipelines/mouseSmoke_analysis_2024Dec09/10_LinearModeling_Neo-Pancreatic_CSEvCtrl/script/MAIN_10_LinearModeling_Neo-Pancreatic_CSEvCtrl.sh
+Executed 1/1 worker scripts [1 successful]
+Average worker script runtime: <1 minute
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Module:  11_PCoA_NNK-FMT_CasevCtrl
+Module class:  biolockj.module.diy.GenMod
+Module version:  1.1.0
+Runtime:  00 hours : 00 minutes : 08 seconds
+--------------------------------------------------
+# Files Output:  12
+Mean Output File Size:  18 KB
+Main Script:  /mnt/efs/pipelines/mouseSmoke_analysis_2024Dec09/11_PCoA_NNK-FMT_CasevCtrl/script/MAIN_11_PCoA_NNK-FMT_CasevCtrl.sh
+Executed 1/1 worker scripts [1 successful]
+Average worker script runtime: <1 minute
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Module:  12_PCoA_Smoke-FMT_CasevCtrl
+Module class:  biolockj.module.diy.GenMod
+Module version:  1.1.0
+Runtime:  00 hours : 00 minutes : 09 seconds
+--------------------------------------------------
+# Files Output:  12
+Mean Output File Size:  18 KB
+Main Script:  /mnt/efs/pipelines/mouseSmoke_analysis_2024Dec09/12_PCoA_Smoke-FMT_CasevCtrl/script/MAIN_12_PCoA_Smoke-FMT_CasevCtrl.sh
+Executed 1/1 worker scripts [1 successful]
+Average worker script runtime: <1 minute
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Module:  13_PCoA_Smoke-FMT_DonorRecipient-CasevCtrl
+Module class:  biolockj.module.diy.GenMod
+Module version:  1.1.0
+Runtime:  00 hours : 00 minutes : 08 seconds
+--------------------------------------------------
+# Files Output:  18
+Mean Output File Size:  32 KB
+Main Script:  /mnt/efs/pipelines/mouseSmoke_analysis_2024Dec09/13_PCoA_Smoke-FMT_DonorRecipient-CasevCtrl/script/MAIN_13_PCoA_Smoke-FMT_DonorRecipient-CasevCtrl.sh
+Executed 1/1 worker scripts [1 successful]
+Average worker script runtime: <1 minute
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Module:  14_PCoA_NNK-FMT_DonorRecipient-CasevCtrl
+Module class:  biolockj.module.diy.GenMod
+Module version:  1.1.0
+Runtime:  00 hours : 00 minutes : 09 seconds
+--------------------------------------------------
+# Files Output:  18
+Mean Output File Size:  28 KB
+Main Script:  /mnt/efs/pipelines/mouseSmoke_analysis_2024Dec09/14_PCoA_NNK-FMT_DonorRecipient-CasevCtrl/script/MAIN_14_PCoA_NNK-FMT_DonorRecipient-CasevCtrl.sh
+Executed 1/1 worker scripts [1 successful]
+Average worker script runtime: <1 minute
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Module:  15_LinearModeling_Smoke-FMT_CasevCtrl
+Module class:  biolockj.module.diy.GenMod
+Module version:  1.1.0
+Runtime:  00 hours : 00 minutes : 17 seconds
+--------------------------------------------------
+# Files Output:  18
+Mean Output File Size:  5 KB
+Main Script:  /mnt/efs/pipelines/mouseSmoke_analysis_2024Dec09/15_LinearModeling_Smoke-FMT_CasevCtrl/script/MAIN_15_LinearModeling_Smoke-FMT_CasevCtrl.sh
+Executed 1/1 worker scripts [1 successful]
+Average worker script runtime: <1 minute
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Module:  16_LinearModeling_NNK-FMT_CasevCtrl
+Module class:  biolockj.module.diy.GenMod
+Module version:  1.1.0
+Runtime:  00 hours : 00 minutes : 19 seconds
+--------------------------------------------------
+# Files Output:  18
+Mean Output File Size:  5 KB
+Main Script:  /mnt/efs/pipelines/mouseSmoke_analysis_2024Dec09/16_LinearModeling_NNK-FMT_CasevCtrl/script/MAIN_16_LinearModeling_NNK-FMT_CasevCtrl.sh
+Executed 1/1 worker scripts [1 successful]
+Average worker script runtime: <1 minute
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Module:  17_LinearModeling_Smoke-FMT_DonorvRecipient
+Module class:  biolockj.module.diy.GenMod
+Module version:  1.1.0
+Runtime:  00 hours : 00 minutes : 17 seconds
+--------------------------------------------------
+# Files Output:  18
+Mean Output File Size:  5 KB
+Main Script:  /mnt/efs/pipelines/mouseSmoke_analysis_2024Dec09/17_LinearModeling_Smoke-FMT_DonorvRecipient/script/MAIN_17_LinearModeling_Smoke-FMT_DonorvRecipient.sh
+Executed 1/1 worker scripts [1 successful]
+Average worker script runtime: <1 minute
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Module:  18_LinearModeling_NNK-FMT_DonorvRecipient
+Module class:  biolockj.module.diy.GenMod
+Module version:  1.1.0
+Runtime:  00 hours : 00 minutes : 13 seconds
+--------------------------------------------------
+# Files Output:  9
+Mean Output File Size:  6 KB
+Main Script:  /mnt/efs/pipelines/mouseSmoke_analysis_2024Dec09/18_LinearModeling_NNK-FMT_DonorvRecipient/script/MAIN_18_LinearModeling_NNK-FMT_DonorvRecipient.sh
+Executed 1/1 worker scripts [1 successful]
+Average worker script runtime: <1 minute
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Pipeline Status:     SUCCESS
+Pipeline Runtime:    00 hours : 03 minutes : 40 seconds
+Master Config:       /mnt/efs/pipelines/mouseSmoke_analysis_2024Dec09/MASTER_mouseSmoke_analysis_2024Dec09.properties
+Final Metadata:      N/A

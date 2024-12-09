@@ -1,0 +1,113 @@
+Domain	Phylum	SampleID	MouseModel	MouseID	Cancer	SmokeExp	AntibioticExp	TumorImp	Treatment	TumorWeight_avg	TumorWeight_sd	Study	Taxon	NormalizedCounts	RelativeAbundance	PercentAbundance	RawCounts
+Bacteria	Actinobacteriota	POSTMC38CT2-S63	WT	MC38-CT2	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Bacteria_/_Actinobacteriota	1.08432088570004	0.00324783477681546	0.324783477681546	78
+Bacteria	Actinobacteriota	POSTMC38CT3-S64	WT	MC38-CT3	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Bacteria_/_Actinobacteriota	0.359021942641668	0.000549551199853453	0.0549551199853453	9
+Bacteria	Actinobacteriota	POSTMC38CT4-S65	WT	MC38-CT4	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Bacteria_/_Actinobacteriota	0.98097676268657	0.00259134490800726	0.259134490800726	60
+Bacteria	Actinobacteriota	POSTMC38CT5-S66	WT	MC38-CT5	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Bacteria_/_Actinobacteriota	0.535113201697349	0.00105806933466111	0.105806933466111	17
+Bacteria	Actinobacteriota	POSTMC38CT6-S67	WT	MC38-CT6	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Bacteria_/_Actinobacteriota	0.552841968657781	0.00140252454417952	0.140252454417952	18
+Bacteria	Actinobacteriota	POSTMC38CT8-S69	WT	MC38-CT8	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Bacteria_/_Actinobacteriota	0.234083206033368	0.000457038391224863	0.0457038391224863	5
+Bacteria	Actinobacteriota	POSTMC38SM1D-S70	WT	MC38-SM1	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Actinobacteriota	1.92057051474476	0.0428475786654765	4.28475786654765	576
+Bacteria	Actinobacteriota	POSTMC38SM2E-S72	WT	MC38-SM3	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Actinobacteriota	2.03969732393472	0.0323997101078569	3.23997101078569	760
+Bacteria	Actinobacteriota	POSTMC38SM3A-S73	WT	MC38-SM4	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Actinobacteriota	2.05087669234481	0.0141957558329997	1.41957558329997	780
+Bacteria	Actinobacteriota	POSTMC38SM3C-S74	WT	MC38-SM5	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Actinobacteriota	1.63202321470541	0.00521343036600772	0.521343036600772	293
+Bacteria	Actinobacteriota	POSTMC38SM5A-S75	WT	MC38-SM6	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Actinobacteriota	2.26346698371858	0.0261460658053684	2.61460658053684	1277
+Bacteria	Actinobacteriota	POSTMC38SM5C-S76	WT	MC38-SM7	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Actinobacteriota	2.29978737827289	0.0235559474951667	2.35559474951667	1389
+Bacteria	Actinobacteriota	POSTMC38SM6C-S77	WT	MC38-SM8	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Actinobacteriota	2.54742304991768	0.0405000822503701	4.05000822503701	2462
+Bacteria	Actinobacteriota	POSTMC38SM7B-S78	WT	MC38-SM9	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Actinobacteriota	2.09442121260436	0.0172734733091812	1.72734733091812	863
+Bacteria	Actinobacteriota	POSTMC38SM7D-S79	WT	MC38-SM10	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Actinobacteriota	2.23190628677909	0.0240585350034456	2.40585350034456	1187
+Bacteria	Actinobacteriota	POSTMC38SM8C-S80	WT	MC38-SM11	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Actinobacteriota	1.88729571980871	0.0101504475338031	1.01504475338031	533
+Bacteria	Bacteroidota	POSTMC38CT2-S63	WT	MC38-CT2	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Bacteria_/_Bacteroidota	3.06472532963666	0.338024650233178	33.8024650233178	8118
+Bacteria	Bacteroidota	POSTMC38CT3-S64	WT	MC38-CT3	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Bacteria_/_Bacteroidota	2.98285248828837	0.410453685046101	41.0453685046101	6722
+Bacteria	Bacteroidota	POSTMC38CT4-S65	WT	MC38-CT4	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Bacteria_/_Bacteroidota	3.11365690985483	0.392459186317699	39.2459186317699	9087
+Bacteria	Bacteroidota	POSTMC38CT5-S66	WT	MC38-CT5	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Bacteria_/_Bacteroidota	2.89392020586922	0.340822804506131	34.0822804506131	5476
+Bacteria	Bacteroidota	POSTMC38CT6-S67	WT	MC38-CT6	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Bacteria_/_Bacteroidota	2.90487004349515	0.437587657784011	43.7587657784011	5616
+Bacteria	Bacteroidota	POSTMC38CT8-S69	WT	MC38-CT8	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Bacteria_/_Bacteroidota	2.66838591669	0.297531992687386	29.7531992687386	3255
+Bacteria	Bacteroidota	POSTMC38SM1D-S70	WT	MC38-SM1	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Bacteroidota	2.80159969128508	0.32924198467604	32.924198467604	4426
+Bacteria	Bacteroidota	POSTMC38SM2E-S72	WT	MC38-SM3	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Bacteroidota	3.02577385505349	0.316366116724219	31.6366116724219	7421
+Bacteria	Bacteroidota	POSTMC38SM3A-S73	WT	MC38-SM4	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Bacteroidota	3.52495219706061	0.426564263094675	42.6564263094675	23438
+Bacteria	Bacteroidota	POSTMC38SM3C-S74	WT	MC38-SM5	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Bacteroidota	3.49130164897183	0.385936193306169	38.5936193306169	21690
+Bacteria	Bacteroidota	POSTMC38SM5A-S75	WT	MC38-SM6	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Bacteroidota	3.44245737062808	0.396838721565898	39.6838721565898	19382
+Bacteria	Bacteroidota	POSTMC38SM5C-S76	WT	MC38-SM7	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Bacteroidota	3.53817861039339	0.409778516433199	40.9778516433199	24163
+Bacteria	Bacteroidota	POSTMC38SM6C-S77	WT	MC38-SM8	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Bacteroidota	3.58355500524775	0.441273235729561	44.1273235729561	26825
+Bacteria	Bacteroidota	POSTMC38SM7B-S78	WT	MC38-SM9	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Bacteroidota	3.48409637507419	0.426993054582574	42.6993054582574	21333
+Bacteria	Bacteroidota	POSTMC38SM7D-S79	WT	MC38-SM10	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Bacteroidota	3.50301202846598	0.451639709757185	45.1639709757185	22283
+Bacteria	Bacteroidota	POSTMC38SM8C-S80	WT	MC38-SM11	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Bacteroidota	3.55075233600452	0.47368120358027	47.368120358027	24873
+Bacteria	Firmicutes	POSTMC38CT2-S63	WT	MC38-CT2	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Bacteria_/_Firmicutes	3.32026501068312	0.609052298467688	60.9052298467688	14627
+Bacteria	Firmicutes	POSTMC38CT3-S64	WT	MC38-CT3	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Bacteria_/_Firmicutes	3.11284429543115	0.553825486963424	55.3825486963424	9070
+Bacteria	Firmicutes	POSTMC38CT4-S65	WT	MC38-CT4	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Bacteria_/_Firmicutes	3.22671035181887	0.509242463505226	50.9242463505226	11791
+Bacteria	Firmicutes	POSTMC38CT5-S66	WT	MC38-CT5	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Bacteria_/_Firmicutes	3.13125193898902	0.588971183170474	58.8971183170474	9463
+Bacteria	Firmicutes	POSTMC38CT6-S67	WT	MC38-CT6	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Bacteria_/_Firmicutes	2.95678566711098	0.493221131369799	49.3221131369799	6330
+Bacteria	Firmicutes	POSTMC38CT8-S69	WT	MC38-CT8	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Bacteria_/_Firmicutes	3.0252473310667	0.677513711151737	67.7513711151737	7412
+Bacteria	Firmicutes	POSTMC38SM1D-S70	WT	MC38-SM1	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Firmicutes	3.02337005900673	0.548984601651417	54.8984601651417	7380
+Bacteria	Firmicutes	POSTMC38SM2E-S72	WT	MC38-SM3	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Firmicutes	3.2322698652699	0.509144391865967	50.9144391865967	11943
+Bacteria	Firmicutes	POSTMC38SM3A-S73	WT	MC38-SM4	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Firmicutes	3.56768160080604	0.470680304298766	47.0680304298766	25862
+Bacteria	Firmicutes	POSTMC38SM3C-S74	WT	MC38-SM5	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Firmicutes	3.62773151669845	0.528424761125247	52.8424761125247	29698
+Bacteria	Firmicutes	POSTMC38SM5A-S75	WT	MC38-SM6	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Firmicutes	3.52374646681156	0.478552855183145	47.8552855183145	23373
+Bacteria	Firmicutes	POSTMC38SM5C-S76	WT	MC38-SM7	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Firmicutes	3.55676756718535	0.427704100668182	42.7704100668182	25220
+Bacteria	Firmicutes	POSTMC38SM6C-S77	WT	MC38-SM8	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Firmicutes	3.60263350162172	0.461095574930087	46.1095574930087	28030
+Bacteria	Firmicutes	POSTMC38SM7B-S78	WT	MC38-SM9	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Firmicutes	3.44286036584589	0.38830287624347	38.830287624347	19400
+Bacteria	Firmicutes	POSTMC38SM7D-S79	WT	MC38-SM10	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Firmicutes	3.53959579350396	0.491345413271718	49.1345413271718	24242
+Bacteria	Firmicutes	POSTMC38SM8C-S80	WT	MC38-SM11	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Firmicutes	3.5250262866214	0.446429251571129	44.6429251571129	23442
+Bacteria	Patescibacteria	POSTMC38CT2-S63	WT	MC38-CT2	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Bacteria_/_Patescibacteria	0.154901959985743	0.00012491672218521	0.012491672218521	3
+Bacteria	Patescibacteria	POSTMC38CT3-S64	WT	MC38-CT3	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	POSTMC38CT4-S65	WT	MC38-CT4	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	POSTMC38CT5-S66	WT	MC38-CT5	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	POSTMC38CT6-S67	WT	MC38-CT6	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	POSTMC38CT8-S69	WT	MC38-CT8	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	POSTMC38SM1D-S70	WT	MC38-SM1	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	POSTMC38SM2E-S72	WT	MC38-SM3	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Patescibacteria	0.632023214705406	0.000980517542737775	0.0980517542737775	23
+Bacteria	Patescibacteria	POSTMC38SM3A-S73	WT	MC38-SM4	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Patescibacteria	0.433655560938572	0.00021839624358461	0.021839624358461	12
+Bacteria	Patescibacteria	POSTMC38SM3C-S74	WT	MC38-SM5	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Patescibacteria	0.778151250383644	0.000622764719488977	0.0622764719488977	35
+Bacteria	Patescibacteria	POSTMC38SM5A-S75	WT	MC38-SM6	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	POSTMC38SM5C-S76	WT	MC38-SM7	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	POSTMC38SM6C-S77	WT	MC38-SM8	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	POSTMC38SM7B-S78	WT	MC38-SM9	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	POSTMC38SM7D-S79	WT	MC38-SM10	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	POSTMC38SM8C-S80	WT	MC38-SM11	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Proteobacteria	POSTMC38CT2-S63	WT	MC38-CT2	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Bacteria_/_Proteobacteria	1.88162916901232	0.0219020652898068	2.19020652898068	526
+Bacteria	Proteobacteria	POSTMC38CT3-S64	WT	MC38-CT3	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Bacteria_/_Proteobacteria	1.33099321904142	0.00873175795322709	0.873175795322709	143
+Bacteria	Proteobacteria	POSTMC38CT4-S65	WT	MC38-CT4	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Bacteria_/_Proteobacteria	1.67077580369742	0.0138636952578388	1.38636952578388	321
+Bacteria	Proteobacteria	POSTMC38CT5-S66	WT	MC38-CT5	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Bacteria_/_Proteobacteria	1.83432985659786	0.0293147445073754	2.93147445073754	471
+Bacteria	Proteobacteria	POSTMC38CT6-S67	WT	MC38-CT6	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Bacteria_/_Proteobacteria	1.10429196663066	0.00638927847904005	0.638927847904005	82
+Bacteria	Proteobacteria	POSTMC38CT8-S69	WT	MC38-CT8	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Bacteria_/_Proteobacteria	0.778151250383644	0.00319926873857404	0.319926873857404	35
+Bacteria	Proteobacteria	POSTMC38SM1D-S70	WT	MC38-SM1	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Proteobacteria	1.34242268082221	0.0109350591385851	1.09350591385851	147
+Bacteria	Proteobacteria	POSTMC38SM2E-S72	WT	MC38-SM3	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Proteobacteria	1.49335845359035	0.00899518267468133	0.899518267468133	211
+Bacteria	Proteobacteria	POSTMC38SM3A-S73	WT	MC38-SM4	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Proteobacteria	1.9046382755548	0.0101008262657882	1.01008262657882	555
+Bacteria	Proteobacteria	POSTMC38SM3C-S74	WT	MC38-SM5	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Proteobacteria	1.71480858502186	0.00633440686108788	0.633440686108788	356
+Bacteria	Proteobacteria	POSTMC38SM5A-S75	WT	MC38-SM6	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Proteobacteria	1.8824432170143	0.0107901148625131	1.07901148625131	527
+Bacteria	Proteobacteria	POSTMC38SM5C-S76	WT	MC38-SM7	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Proteobacteria	1.72777356218622	0.00622392565207068	0.622392565207068	367
+Bacteria	Proteobacteria	POSTMC38SM6C-S77	WT	MC38-SM8	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Proteobacteria	1.74596656701224	0.00630037835170258	0.630037835170258	383
+Bacteria	Proteobacteria	POSTMC38SM7B-S78	WT	MC38-SM9	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Proteobacteria	1.61879494897165	0.00568443385840956	0.568443385840956	284
+Bacteria	Proteobacteria	POSTMC38SM7D-S79	WT	MC38-SM10	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Proteobacteria	1.6172999578847	0.00573594389719891	0.573594389719891	283
+Bacteria	Proteobacteria	POSTMC38SM8C-S80	WT	MC38-SM11	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Proteobacteria	1.82792286711464	0.00883641211197867	0.883641211197867	464
+Bacteria	Verrucomicrobiota	POSTMC38CT2-S63	WT	MC38-CT2	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Bacteria_/_Verrucomicrobiota	1.97575994942544	0.0272734843437708	2.72734843437708	655
+Bacteria	Verrucomicrobiota	POSTMC38CT3-S64	WT	MC38-CT3	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Bacteria_/_Verrucomicrobiota	1.79835463647193	0.0264395188373939	2.64395188373939	433
+Bacteria	Verrucomicrobiota	POSTMC38CT4-S65	WT	MC38-CT4	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Bacteria_/_Verrucomicrobiota	2.43205257394954	0.0814546082750281	8.14546082750281	1886
+Bacteria	Verrucomicrobiota	POSTMC38CT5-S66	WT	MC38-CT5	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Bacteria_/_Verrucomicrobiota	1.96580624065444	0.0398331984813593	3.98331984813593	640
+Bacteria	Verrucomicrobiota	POSTMC38CT6-S67	WT	MC38-CT6	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Bacteria_/_Verrucomicrobiota	2.05252905127618	0.0610098176718093	6.10098176718093	783
+Bacteria	Verrucomicrobiota	POSTMC38CT8-S69	WT	MC38-CT8	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Bacteria_/_Verrucomicrobiota	1.53511320169735	0.0212979890310786	2.12979890310786	233
+Bacteria	Verrucomicrobiota	POSTMC38SM1D-S70	WT	MC38-SM1	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Verrucomicrobiota	2.11916159018259	0.0679907758684817	6.79907758684817	914
+Bacteria	Verrucomicrobiota	POSTMC38SM2E-S72	WT	MC38-SM3	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Verrucomicrobiota	2.64232317134522	0.130664620369186	13.0664620369186	3065
+Bacteria	Verrucomicrobiota	POSTMC38SM3A-S73	WT	MC38-SM4	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Verrucomicrobiota	2.77815125038364	0.0763112874458559	7.63112874458559	4193
+Bacteria	Verrucomicrobiota	POSTMC38SM3C-S74	WT	MC38-SM5	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Verrucomicrobiota	2.72086777743241	0.0653725022686429	6.53725022686429	3674
+Bacteria	Verrucomicrobiota	POSTMC38SM5A-S75	WT	MC38-SM6	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Verrucomicrobiota	2.77462122559747	0.0851538666284474	8.51538666284474	4159
+Bacteria	Verrucomicrobiota	POSTMC38SM5C-S76	WT	MC38-SM7	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Verrucomicrobiota	3.04190000565684	0.130617644066072	13.0617644066072	7702
+Bacteria	Verrucomicrobiota	POSTMC38SM6C-S77	WT	MC38-SM8	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Verrucomicrobiota	2.62028481143416	0.0479190656357954	4.79190656357954	2913
+Bacteria	Verrucomicrobiota	POSTMC38SM7B-S78	WT	MC38-SM9	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Verrucomicrobiota	3.05723126584406	0.15970456956426	15.970456956426	7979
+Bacteria	Verrucomicrobiota	POSTMC38SM7D-S79	WT	MC38-SM10	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Verrucomicrobiota	2.27875360095283	0.0268150310105801	2.68150310105801	1323
+Bacteria	Verrucomicrobiota	POSTMC38SM8C-S80	WT	MC38-SM11	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Bacteria_/_Verrucomicrobiota	2.6457029119966	0.0588268901161683	5.88268901161683	3089
+Other	Other	POSTMC38CT2-S63	WT	MC38-CT2	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Other_/_Other	0.359021942641668	0.00037475016655563	0.037475016655563	9
+Other	Other	POSTMC38CT3-S64	WT	MC38-CT3	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Other_/_Other	0	0	0	0
+Other	Other	POSTMC38CT4-S65	WT	MC38-CT4	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Other_/_Other	0.359021942641668	0.000388701736201088	0.0388701736201088	9
+Other	Other	POSTMC38CT5-S66	WT	MC38-CT5	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Other_/_Other	0	0	0	0
+Other	Other	POSTMC38CT6-S67	WT	MC38-CT6	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Other_/_Other	0.234083206033368	0.000389590151160979	0.0389590151160979	5
+Other	Other	POSTMC38CT8-S69	WT	MC38-CT8	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	Other_/_Other	0	0	0	0
+Other	Other	POSTMC38SM1D-S70	WT	MC38-SM1	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Other_/_Other	0	0	0	0
+Other	Other	POSTMC38SM2E-S72	WT	MC38-SM3	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Other_/_Other	0.767685816705479	0.00144946071535149	0.144946071535149	34
+Other	Other	POSTMC38SM3A-S73	WT	MC38-SM4	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Other_/_Other	1.20798040346916	0.00192916681833072	0.192916681833072	106
+Other	Other	POSTMC38SM3C-S74	WT	MC38-SM5	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Other_/_Other	1.81954393554187	0.0080959413533567	0.80959413533567	455
+Other	Other	POSTMC38SM5A-S75	WT	MC38-SM6	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Other_/_Other	1.26884531229258	0.00251837595462828	0.251837595462828	123
+Other	Other	POSTMC38SM5C-S76	WT	MC38-SM7	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Other_/_Other	1.27547589119159	0.00211986568531018	0.211986568531018	125
+Other	Other	POSTMC38SM6C-S77	WT	MC38-SM8	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Other_/_Other	1.41971978299528	0.00291166310248396	0.291166310248396	177
+Other	Other	POSTMC38SM7B-S78	WT	MC38-SM9	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Other_/_Other	1.19232845792637	0.00204159244210484	0.204159244210484	102
+Other	Other	POSTMC38SM7D-S79	WT	MC38-SM10	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Other_/_Other	0.58626572414473	0.000405367059872715	0.0405367059872715	20
+Other	Other	POSTMC38SM8C-S80	WT	MC38-SM11	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	Other_/_Other	1.21935994921266	0.00207579508665016	0.207579508665016	109

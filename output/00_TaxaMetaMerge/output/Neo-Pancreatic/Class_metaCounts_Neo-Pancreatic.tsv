@@ -1,0 +1,36 @@
+SampleID	MouseModel	MouseID	Cancer	SmokeExp	AntibioticExp	TumorImp	Treatment	TumorWeight_avg	TumorWeight_sd	Study	Unassigned.__.__	d__Bacteria.p__Actinobacteriota.c__Actinobacteria	d__Bacteria.p__Actinobacteriota.c__Coriobacteriia	d__Bacteria.p__Bacteroidota.c__Bacteroidia	d__Bacteria.p__Firmicutes.c__Bacilli	d__Bacteria.p__Firmicutes.c__Clostridia	d__Bacteria.p__Proteobacteria.c__Gammaproteobacteria	d__Bacteria.p__Verrucomicrobiota.c__Verrucomicrobiae
+CTRL1-S106	WT	CTRL1	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	368	0	455	5013	14791	2669	223	185
+CTRL10-S112	WT	CTRL10	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	264	0	609	3043	13118	2216	50	208
+CTRL2-S111	WT	CTRL2	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	230	0	435	4047	12388	2446	131	113
+CTRL3-S116	WT	CTRL3	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	667	0	167	5768	15705	4112	76	78
+CTRL4-S121	WT	CTRL4	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	953	0	200	5229	13206	4682	201	80
+CTRL6-S131	WT	CTRL6	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	733	0	171	3516	13494	2992	28	90
+CTRL7-S136	WT	CTRL7	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	884	0	321	5138	13664	3943	397	88
+CTRL8-S141	WT	CTRL8	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	286	0	148	3878	11539	3427	101	122
+CTRL9-S107	WT	CTRL9	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	453	0	110	2515	10081	1478	18	104
+Neo1-S133	WT	Neo1	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	0	11	0	2613	8625	3	0	71
+Neo2-S138	WT	Neo2	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	30	169	0	10290	15998	2326	68	1067
+Neo3-S143	WT	Neo3	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	209	97	0	6567	10658	823	58	528
+Neo4-S109	WT	Neo4	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	7	114	0	5350	13427	674	32	581
+Neo5-S114	WT	Neo5	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	19	143	0	7825	15393	1064	33	510
+Neo6-S119	WT	Neo6	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	281	136	0	8355	18088	1009	85	800
+Neo7-S124	WT	Neo7	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	13	123	0	8511	16097	1230	0	382
+Neo8-S129	WT	Neo8	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	15	268	0	7941	16972	1192	21	828
+Neo9-S134	WT	Neo9	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	335	148	0	5353	15094	1541	35	748
+SMK-Neo1-S139	WT	SMK_Neo1	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	119	0	0	12817	13930	1522	6	86
+SMK-Neo3-S110	WT	SMK_Neo3	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	371	0	0	14661	1149	3873	12	302
+SMK-Neo4-S115	WT	SMK_Neo4	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	98	0	0	12438	11865	1369	0	223
+SMK-Neo5-S120	WT	SMK_Neo5	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	169	0	0	8567	6585	3262	10	196
+SMK-Neo6-S125	WT	SMK_Neo6	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	646	0	0	15576	2785	7066	13	1373
+SMK-Neo7-S130	WT	SMK_Neo7	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	78	0	0	8530	8152	394	8	668
+SMK-Neo8-S135	WT	SMK_Neo8	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	476	0	0	17398	1630	3134	0	615
+SMK1-S117	WT	SMK1	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	267	0	86	4831	7585	3402	214	105
+SMK10-S123	WT	SMK10	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	354	0	110	7792	8559	5983	344	59
+SMK11-S128	WT	SMK11	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	1188	0	303	6274	11054	4383	60	283
+SMK2-S122	WT	SMK2	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	370	0	196	5435	6580	6076	108	119
+SMK3-S127	WT	SMK3	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	650	0	151	4387	10693	2352	49	87
+SMK4-S132	WT	SMK4	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	477	0	111	2976	6049	2237	0	0
+SMK5-S137	WT	SMK5	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	1067	0	230	3634	8251	2454	16	109
+SMK7-S108	WT	SMK7	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	395	0	235	4563	5626	3337	89	42
+SMK8-S113	WT	SMK8	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	196	0	238	6702	8444	5296	437	224
+SMK9-S118	WT	SMK9	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	575	0	109	5165	10767	3897	216	88

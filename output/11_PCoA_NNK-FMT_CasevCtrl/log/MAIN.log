@@ -1,0 +1,270 @@
+WARNING: The requested image's platform (linux/amd64) does not match the detected host platform (linux/arm64/v8) and no specific platform was requested
+Launched docker image: asorgen/gg-tidyr:v5
+To execute module: GenMod
+Docker container id: cca542c07a5e4aa48c97ed7016fe0475aacbcf29274f71aee8e2cded446ab5f9
+[
+    {
+        "Id": "cca542c07a5e4aa48c97ed7016fe0475aacbcf29274f71aee8e2cded446ab5f9",
+        "Created": "2024-12-09T14:32:41.877938968Z",
+        "Path": "/bin/bash",
+        "Args": [
+            "-c",
+            "/mnt/efs/pipelines/mouseSmoke_analysis_2024Dec09/11_PCoA_NNK-FMT_CasevCtrl/script/11.0_GenMod.sh"
+        ],
+        "State": {
+            "Status": "running",
+            "Running": true,
+            "Paused": false,
+            "Restarting": false,
+            "OOMKilled": false,
+            "Dead": false,
+            "Pid": 7503,
+            "ExitCode": 0,
+            "Error": "",
+            "StartedAt": "2024-12-09T14:32:41.912898468Z",
+            "FinishedAt": "0001-01-01T00:00:00Z"
+        },
+        "Image": "sha256:b189ef009711932ccd65054175e440b6d9dcdf01e269c811487af73a8439d5b6",
+        "ResolvConfPath": "/var/lib/docker/containers/cca542c07a5e4aa48c97ed7016fe0475aacbcf29274f71aee8e2cded446ab5f9/resolv.conf",
+        "HostnamePath": "/var/lib/docker/containers/cca542c07a5e4aa48c97ed7016fe0475aacbcf29274f71aee8e2cded446ab5f9/hostname",
+        "HostsPath": "/var/lib/docker/containers/cca542c07a5e4aa48c97ed7016fe0475aacbcf29274f71aee8e2cded446ab5f9/hosts",
+        "LogPath": "/var/lib/docker/containers/cca542c07a5e4aa48c97ed7016fe0475aacbcf29274f71aee8e2cded446ab5f9/cca542c07a5e4aa48c97ed7016fe0475aacbcf29274f71aee8e2cded446ab5f9-json.log",
+        "Name": "/distracted_hellman",
+        "RestartCount": 0,
+        "Driver": "overlay2",
+        "Platform": "linux",
+        "MountLabel": "",
+        "ProcessLabel": "",
+        "AppArmorProfile": "",
+        "ExecIDs": null,
+        "HostConfig": {
+            "Binds": [
+                "/Users/aliciasorgen/BioLockJ_pipelines:/mnt/efs/pipelines:delegated",
+                "/Users/aliciasorgen/git/Dudeja_Projects/Smoking_Cancer_Gut_Dysbiosis_Analysis_2023/analysis/BLJ_config_files:/mnt/efs/vol_1:ro",
+                "/Users/aliciasorgen/git/Dudeja_Projects/Smoking_Cancer_Gut_Dysbiosis_Analysis_2023/analysis/RScripts:/mnt/efs/vol_2:ro",
+                "/Users/aliciasorgen/git/Dudeja_Projects/Smoking_Cancer_Gut_Dysbiosis_Analysis_2023/analysis/data:/mnt/efs/vol_3:ro"
+            ],
+            "ContainerIDFile": "",
+            "LogConfig": {
+                "Type": "json-file",
+                "Config": {}
+            },
+            "NetworkMode": "bridge",
+            "PortBindings": {},
+            "RestartPolicy": {
+                "Name": "no",
+                "MaximumRetryCount": 0
+            },
+            "AutoRemove": true,
+            "VolumeDriver": "",
+            "VolumesFrom": null,
+            "ConsoleSize": [
+                0,
+                0
+            ],
+            "CapAdd": null,
+            "CapDrop": null,
+            "CgroupnsMode": "private",
+            "Dns": [],
+            "DnsOptions": [],
+            "DnsSearch": [],
+            "ExtraHosts": null,
+            "GroupAdd": null,
+            "IpcMode": "shareable",
+            "Cgroup": "",
+            "Links": null,
+            "OomScoreAdj": 0,
+            "PidMode": "",
+            "Privileged": false,
+            "PublishAllPorts": false,
+            "ReadonlyRootfs": false,
+            "SecurityOpt": null,
+            "UTSMode": "",
+            "UsernsMode": "",
+            "ShmSize": 67108864,
+            "Runtime": "runc",
+            "Isolation": "",
+            "CpuShares": 0,
+            "Memory": 0,
+            "NanoCpus": 0,
+            "CgroupParent": "",
+            "BlkioWeight": 0,
+            "BlkioWeightDevice": [],
+            "BlkioDeviceReadBps": null,
+            "BlkioDeviceWriteBps": null,
+            "BlkioDeviceReadIOps": null,
+            "BlkioDeviceWriteIOps": null,
+            "CpuPeriod": 0,
+            "CpuQuota": 0,
+            "CpuRealtimePeriod": 0,
+            "CpuRealtimeRuntime": 0,
+            "CpusetCpus": "",
+            "CpusetMems": "",
+            "Devices": [],
+            "DeviceCgroupRules": null,
+            "DeviceRequests": null,
+            "MemoryReservation": 0,
+            "MemorySwap": 0,
+            "MemorySwappiness": null,
+            "OomKillDisable": null,
+            "PidsLimit": null,
+            "Ulimits": null,
+            "CpuCount": 0,
+            "CpuPercent": 0,
+            "IOMaximumIOps": 0,
+            "IOMaximumBandwidth": 0,
+            "MaskedPaths": [
+                "/proc/asound",
+                "/proc/acpi",
+                "/proc/kcore",
+                "/proc/keys",
+                "/proc/latency_stats",
+                "/proc/timer_list",
+                "/proc/timer_stats",
+                "/proc/sched_debug",
+                "/proc/scsi",
+                "/sys/firmware",
+                "/sys/devices/virtual/powercap"
+            ],
+            "ReadonlyPaths": [
+                "/proc/bus",
+                "/proc/fs",
+                "/proc/irq",
+                "/proc/sys",
+                "/proc/sysrq-trigger"
+            ]
+        },
+        "GraphDriver": {
+            "Data": {
+                "LowerDir": "/var/lib/docker/overlay2/0a7fd2a13409b2df45cc1fb28d833dd8840ed1aae7f63c187476566e931c863d-init/diff:/var/lib/docker/overlay2/17f0c5cca7ca73391b779eff9b662171d5809175e919a27f7f196eac7adf43f8/diff:/var/lib/docker/overlay2/73d7a22a61312824df9ee8c001896dca3a98269995b8aa40698f937c964abedf/diff:/var/lib/docker/overlay2/690da0926aa38c747a0f7eeccef1e0ac76196a8be585c9a529b7bf9e1e5d3908/diff:/var/lib/docker/overlay2/2b17c68c082ada8be58918dbca41e590e10c5672302e37b16378b223ca4bbd36/diff:/var/lib/docker/overlay2/bc7accb5a7c9c5f8eef874e6038fa32c2135742caef8c29917bf55f109ee8856/diff:/var/lib/docker/overlay2/846e300f7d13821b33441a6db195821bf9117f8c4ff1383ca7539db113dc22cd/diff:/var/lib/docker/overlay2/17709f67b287b3c321296669ab9c90ae91420c8e9253738e457fc4f253eb7baf/diff:/var/lib/docker/overlay2/d0baa4fc20cf17440f598cf6d5822805b9a7791cb85d4f922fa0cd08e24a497e/diff:/var/lib/docker/overlay2/42f155e62645f758ca0c040fce133e699bc79478a9ad9e29d3d9e06f54cc2ecb/diff:/var/lib/docker/overlay2/ea7dcf4facfa469c56245089412cb16918e57999e71ed63a9051577af880eaba/diff:/var/lib/docker/overlay2/a6940bcc404fce64c31f97d9dd93d8aeed03b393125a1b2a5764b8ec668fa9f1/diff:/var/lib/docker/overlay2/da180f1621d93203716e0cb4242f073a333a63134132b53e3840b9c30abd6420/diff:/var/lib/docker/overlay2/3e0b244fe7f94ac961e8d427708450c2ff25585c6e3d8fb74c50ea6dbf2bb392/diff:/var/lib/docker/overlay2/3569d61438c47b60409cd68004126f2befa9b01e4d0a4abd991b95598f0fde10/diff:/var/lib/docker/overlay2/d13ba8edf5c6ffeee2c56674e89444b85f643d3c46345bf9a2900eac7f59be20/diff:/var/lib/docker/overlay2/16db2643c9f7380f1ecef0b2d46e39e98e4a62129898a266d1205b922b36d937/diff:/var/lib/docker/overlay2/2e04bc96ec3a946354f8cb65ea7c6e2de43c21100713124f264720e87d3da1e0/diff:/var/lib/docker/overlay2/5a05b4ee68dba87bc9df41e1cef4720ecad6baa556b09f7afbcb15800aef9a56/diff:/var/lib/docker/overlay2/91c29a514c5b0d62bc7e3b9fc9d00e4c61b695252f8476e476b1c573bc68706c/diff:/var/lib/docker/overlay2/7f0f97dabe985dfaa879deb0e57e3973f540a76074c17628706e249eed7f716d/diff:/var/lib/docker/overlay2/91025f5748b3ad50c34ebda6586992fe844afbf6695ada50af6aaecb6563090c/diff:/var/lib/docker/overlay2/72fb5c52344449b42ebc407d6355d5349050a625d4521ca28a27488d8f5a8301/diff:/var/lib/docker/overlay2/64eba7af51925d1ebd803175c33786723f92fbf99313b22ae8b9d9ac72f3a122/diff:/var/lib/docker/overlay2/de1f9379146e7e0d2295b1bc4db505a6acbf4f0243e18136d7b8b67467f96206/diff:/var/lib/docker/overlay2/29e25906a6ddfae206107558d90f1a253ca47ec3bbb1aea7df0290bb84b5202d/diff:/var/lib/docker/overlay2/e494c65110aafe1302472f4460eb7aa2f012ea29e5fece099103f92d748914ce/diff:/var/lib/docker/overlay2/1acad0a7408333bbe64a04092191e92274170add4fe3698f0236e4a6538b2833/diff:/var/lib/docker/overlay2/413fe90b264f1271bc8d5b20d749bbafda92259098a246027c93a61f004985e5/diff:/var/lib/docker/overlay2/bbbe5161d76837dcc49c5b2c074d7aa45713825fa231b5510f0feb85c1d562aa/diff:/var/lib/docker/overlay2/8b51bb214e4f87be4e2f0162444bd00bc98fec1ec971150131f7ad5523d9d4af/diff:/var/lib/docker/overlay2/0eea7dcbe429c889fda09f719034d0ec3a82605c4da8cc77a879e716c53258b8/diff",
+                "MergedDir": "/var/lib/docker/overlay2/0a7fd2a13409b2df45cc1fb28d833dd8840ed1aae7f63c187476566e931c863d/merged",
+                "UpperDir": "/var/lib/docker/overlay2/0a7fd2a13409b2df45cc1fb28d833dd8840ed1aae7f63c187476566e931c863d/diff",
+                "WorkDir": "/var/lib/docker/overlay2/0a7fd2a13409b2df45cc1fb28d833dd8840ed1aae7f63c187476566e931c863d/work"
+            },
+            "Name": "overlay2"
+        },
+        "Mounts": [
+            {
+                "Type": "bind",
+                "Source": "/Users/aliciasorgen/BioLockJ_pipelines",
+                "Destination": "/mnt/efs/pipelines",
+                "Mode": "delegated",
+                "RW": true,
+                "Propagation": "rprivate"
+            },
+            {
+                "Type": "bind",
+                "Source": "/Users/aliciasorgen/git/Dudeja_Projects/Smoking_Cancer_Gut_Dysbiosis_Analysis_2023/analysis/BLJ_config_files",
+                "Destination": "/mnt/efs/vol_1",
+                "Mode": "ro",
+                "RW": false,
+                "Propagation": "rprivate"
+            },
+            {
+                "Type": "bind",
+                "Source": "/Users/aliciasorgen/git/Dudeja_Projects/Smoking_Cancer_Gut_Dysbiosis_Analysis_2023/analysis/RScripts",
+                "Destination": "/mnt/efs/vol_2",
+                "Mode": "ro",
+                "RW": false,
+                "Propagation": "rprivate"
+            },
+            {
+                "Type": "bind",
+                "Source": "/Users/aliciasorgen/git/Dudeja_Projects/Smoking_Cancer_Gut_Dysbiosis_Analysis_2023/analysis/data",
+                "Destination": "/mnt/efs/vol_3",
+                "Mode": "ro",
+                "RW": false,
+                "Propagation": "rprivate"
+            }
+        ],
+        "Config": {
+            "Hostname": "cca542c07a5e",
+            "Domainname": "",
+            "User": "",
+            "AttachStdin": false,
+            "AttachStdout": false,
+            "AttachStderr": false,
+            "ExposedPorts": {
+                "8787/tcp": {}
+            },
+            "Tty": false,
+            "OpenStdin": false,
+            "StdinOnce": false,
+            "Env": [
+                "BLJ=/app/biolockj",
+                "HOSTNAME=c6698da27901",
+                "PATH=/usr/lib/rstudio-server/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "R_VERSION=4.0.2",
+                "TERM=xterm",
+                "LC_ALL=en_US.UTF-8",
+                "LANG=en_US.UTF-8",
+                "R_HOME=/usr/local/lib/R",
+                "CRAN=https://packagemanager.rstudio.com/cran/__linux__/focal/2020-10-07",
+                "TZ=Etc/UTC",
+                "S6_VERSION=v2.1.0.2",
+                "RSTUDIO_VERSION=1.3.1093",
+                "DEFAULT_USER=rstudio"
+            ],
+            "Cmd": [
+                "/bin/bash",
+                "-c",
+                "/mnt/efs/pipelines/mouseSmoke_analysis_2024Dec09/11_PCoA_NNK-FMT_CasevCtrl/script/11.0_GenMod.sh"
+            ],
+            "Image": "asorgen/gg-tidyr:v5",
+            "Volumes": null,
+            "WorkingDir": "",
+            "Entrypoint": null,
+            "OnBuild": null,
+            "Labels": {
+                "org.opencontainers.image.authors": "Carl Boettiger \u003ccboettig@ropensci.org\u003e",
+                "org.opencontainers.image.base.name": "docker.io/rocker/rstudio:4.0.2",
+                "org.opencontainers.image.description": "Version-stable build of R, RStudio Server, and R packages.",
+                "org.opencontainers.image.licenses": "GPL-2.0-or-later",
+                "org.opencontainers.image.revision": "ea33fb2501654f06b72df42232a94a929292c7ee",
+                "org.opencontainers.image.source": "https://github.com/rocker-org/rocker-versioned2",
+                "org.opencontainers.image.title": "rocker/tidyverse",
+                "org.opencontainers.image.vendor": "Rocker Project",
+                "org.opencontainers.image.version": "4.0.2"
+            }
+        },
+        "NetworkSettings": {
+            "Bridge": "",
+            "SandboxID": "19bf67ba75a68121b8e5c5801edd8a94115b578be6c77c8f85d0d9ff128f8bf3",
+            "SandboxKey": "/var/run/docker/netns/19bf67ba75a6",
+            "Ports": {
+                "8787/tcp": null
+            },
+            "HairpinMode": false,
+            "LinkLocalIPv6Address": "",
+            "LinkLocalIPv6PrefixLen": 0,
+            "SecondaryIPAddresses": null,
+            "SecondaryIPv6Addresses": null,
+            "EndpointID": "540a1de97ffe75c43b04b8e882648bb819c312f4a4e387f55a5accbfc36c6141",
+            "Gateway": "172.17.0.1",
+            "GlobalIPv6Address": "",
+            "GlobalIPv6PrefixLen": 0,
+            "IPAddress": "172.17.0.3",
+            "IPPrefixLen": 16,
+            "IPv6Gateway": "",
+            "MacAddress": "02:42:ac:11:00:03",
+            "Networks": {
+                "bridge": {
+                    "IPAMConfig": null,
+                    "Links": null,
+                    "Aliases": null,
+                    "MacAddress": "02:42:ac:11:00:03",
+                    "DriverOpts": null,
+                    "NetworkID": "ae36292a8b07d298a98070d5a303c7b6dbba07902a53381dc4fb27c6353ae2d0",
+                    "EndpointID": "540a1de97ffe75c43b04b8e882648bb819c312f4a4e387f55a5accbfc36c6141",
+                    "Gateway": "172.17.0.1",
+                    "IPAddress": "172.17.0.3",
+                    "IPPrefixLen": 16,
+                    "IPv6Gateway": "",
+                    "GlobalIPv6Address": "",
+                    "GlobalIPv6PrefixLen": 0,
+                    "DNSNames": null
+                }
+            }
+        }
+    }
+]

@@ -1,0 +1,12 @@
+Permutation test for adonis under reduced model
+Terms added sequentially (first to last)
+Permutation: free
+Number of permutations: 999
+
+adonis2(formula = myT2[, taxaStart:ncol(myT2)] ~ myT2$Treatment, permutations = 999, method = "bray")
+               Df SumOfSqs      R2      F Pr(>F)    
+myT2$Treatment  2  1.67536 0.63806 22.918  0.001 ***
+Residual       26  0.95035 0.36194                  
+Total          28  2.62571 1.00000                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1

@@ -1,0 +1,211 @@
+Domain	Phylum	SampleID	MouseModel	MouseID	Cancer	SmokeExp	AntibioticExp	TumorImp	Treatment	TumorWeight_avg	TumorWeight_sd	Study	Taxon	NormalizedCounts	RelativeAbundance	PercentAbundance	RawCounts
+Bacteria	Actinobacteriota	CTRL1-S106	WT	CTRL1	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Actinobacteriota	1.885549675006	0.019195072561593	1.9195072561593	455
+Bacteria	Actinobacteriota	CTRL10-S112	WT	CTRL10	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Actinobacteriota	2.01072386539177	0.0312179618618003	3.12179618618003	609
+Bacteria	Actinobacteriota	CTRL2-S111	WT	CTRL2	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Actinobacteriota	1.86628733908419	0.0219807983830217	2.19807983830217	435
+Bacteria	Actinobacteriota	CTRL3-S116	WT	CTRL3	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Actinobacteriota	1.45989485274515	0.0062845745681707	0.62845745681707	167
+Bacteria	Actinobacteriota	CTRL4-S121	WT	CTRL4	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Actinobacteriota	1.53571596998551	0.0081463076860413	0.81463076860413	200
+Bacteria	Actinobacteriota	CTRL6-S131	WT	CTRL6	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Actinobacteriota	1.46982201597816	0.00813356164383562	0.813356164383562	171
+Bacteria	Actinobacteriota	CTRL7-S136	WT	CTRL7	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Actinobacteriota	1.73639650227664	0.0131368937998772	1.31368937998772	321
+Bacteria	Actinobacteriota	CTRL8-S141	WT	CTRL8	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Actinobacteriota	1.40936947045282	0.00758935439208246	0.758935439208246	148
+Bacteria	Actinobacteriota	CTRL9-S107	WT	CTRL9	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Actinobacteriota	1.28630673884327	0.00745307947692933	0.745307947692933	110
+Bacteria	Actinobacteriota	Neo1-S133	WT	Neo1	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Actinobacteriota	0.45229767099463	0.000971473990991787	0.0971473990991787	11
+Bacteria	Actinobacteriota	Neo2-S138	WT	Neo2	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Actinobacteriota	1.46488679830265	0.00564311473220248	0.564311473220248	169
+Bacteria	Actinobacteriota	Neo3-S143	WT	Neo3	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Actinobacteriota	1.23468597432153	0.00512143611404435	0.512143611404435	97
+Bacteria	Actinobacteriota	Neo4-S109	WT	Neo4	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Actinobacteriota	1.30102999566398	0.00564775823631409	0.564775823631409	114
+Bacteria	Actinobacteriota	Neo5-S114	WT	Neo5	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Actinobacteriota	1.39503501802863	0.0057229759474927	0.57229759474927	143
+Bacteria	Actinobacteriota	Neo6-S119	WT	Neo6	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Actinobacteriota	1.37413709399941	0.00472977672671628	0.472977672671628	136
+Bacteria	Actinobacteriota	Neo7-S124	WT	Neo7	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Actinobacteriota	1.33243845991561	0.00466686902413113	0.466686902413113	123
+Bacteria	Actinobacteriota	Neo8-S129	WT	Neo8	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Actinobacteriota	1.65959931243674	0.00983955648566288	0.983955648566288	268
+Bacteria	Actinobacteriota	Neo9-S134	WT	Neo9	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Actinobacteriota	1.40936947045282	0.0063644964307216	0.63644964307216	148
+Bacteria	Actinobacteriota	SMK-Neo1-S139	WT	SMK_Neo1	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Bacteria_/_Actinobacteriota	0	0	0	0
+Bacteria	Actinobacteriota	SMK-Neo3-S110	WT	SMK_Neo3	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Bacteria_/_Actinobacteriota	0	0	0	0
+Bacteria	Actinobacteriota	SMK-Neo4-S115	WT	SMK_Neo4	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Bacteria_/_Actinobacteriota	0	0	0	0
+Bacteria	Actinobacteriota	SMK-Neo5-S120	WT	SMK_Neo5	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Bacteria_/_Actinobacteriota	0	0	0	0
+Bacteria	Actinobacteriota	SMK-Neo6-S125	WT	SMK_Neo6	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Bacteria_/_Actinobacteriota	0	0	0	0
+Bacteria	Actinobacteriota	SMK-Neo7-S130	WT	SMK_Neo7	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Bacteria_/_Actinobacteriota	0	0	0	0
+Bacteria	Actinobacteriota	SMK-Neo8-S135	WT	SMK_Neo8	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Bacteria_/_Actinobacteriota	0	0	0	0
+Bacteria	Actinobacteriota	SMK1-S117	WT	SMK1	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Actinobacteriota	1.18563657696191	0.00521528198908429	0.521528198908429	86
+Bacteria	Actinobacteriota	SMK10-S123	WT	SMK10	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Actinobacteriota	1.28630673884327	0.00474117494935563	0.474117494935563	110
+Bacteria	Actinobacteriota	SMK11-S128	WT	SMK11	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Actinobacteriota	1.71180722904119	0.0128689743045233	1.28689743045233	303
+Bacteria	Actinobacteriota	SMK2-S122	WT	SMK2	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Actinobacteriota	1.52720011906298	0.0103791569582716	1.03791569582716	196
+Bacteria	Actinobacteriota	SMK3-S127	WT	SMK3	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Actinobacteriota	1.41774840202559	0.00822037127769612	0.822037127769612	151
+Bacteria	Actinobacteriota	SMK4-S132	WT	SMK4	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Actinobacteriota	1.29003461136252	0.00936708860759494	0.936708860759494	111
+Bacteria	Actinobacteriota	SMK5-S137	WT	SMK5	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Actinobacteriota	1.59476075258646	0.014592982678764	1.4592982678764	230
+Bacteria	Actinobacteriota	SMK7-S108	WT	SMK7	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Actinobacteriota	1.60386579219122	0.016448519633233	1.6448519633233	235
+Bacteria	Actinobacteriota	SMK8-S113	WT	SMK8	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Actinobacteriota	1.60923857595509	0.0110507498723128	1.10507498723128	238
+Bacteria	Actinobacteriota	SMK9-S118	WT	SMK9	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Actinobacteriota	1.28254658996997	0.00523610510640342	0.523610510640342	109
+Bacteria	Bacteroidota	CTRL1-S106	WT	CTRL1	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Bacteroidota	2.92246594529841	0.211483293958826	21.1483293958826	5013
+Bacteria	Bacteroidota	CTRL10-S112	WT	CTRL10	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Bacteroidota	2.70600617398174	0.155987287266762	15.5987287266762	3043
+Bacteria	Bacteroidota	CTRL2-S111	WT	CTRL2	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Bacteroidota	2.82962535335805	0.204497220818595	20.4497220818595	4047
+Bacteria	Bacteroidota	CTRL3-S116	WT	CTRL3	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Bacteroidota	2.98332552916106	0.217062431791668	21.7062431791668	5768
+Bacteria	Bacteroidota	CTRL4-S121	WT	CTRL4	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Bacteroidota	2.94076543563122	0.21298521445155	21.298521445155	5229
+Bacteria	Bacteroidota	CTRL6-S131	WT	CTRL6	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Bacteroidota	2.76863810124761	0.167237442922374	16.7237442922374	3516
+Bacteria	Bacteroidota	CTRL7-S136	WT	CTRL7	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Bacteroidota	2.93314970953252	0.210272150603642	21.0272150603642	5138
+Bacteria	Bacteroidota	CTRL8-S141	WT	CTRL8	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Bacteroidota	2.81112797085232	0.198861596841188	19.8861596841188	3878
+Bacteria	Bacteroidota	CTRL9-S107	WT	CTRL9	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Bacteroidota	2.6234215952928	0.170404498949793	17.0404498949793	2515
+Bacteria	Bacteroidota	Neo1-S133	WT	Neo1	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Bacteroidota	2.63998424804159	0.230769230769231	23.0769230769231	2613
+Bacteria	Bacteroidota	Neo2-S138	WT	Neo2	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Bacteroidota	3.23451728351269	0.343595565647122	34.3595565647122	10290
+Bacteria	Bacteroidota	Neo3-S143	WT	Neo3	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Bacteroidota	3.03961238189672	0.346726504751848	34.6726504751848	6567
+Bacteria	Bacteroidota	Neo4-S109	WT	Neo4	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Bacteroidota	2.95068931795633	0.265048303195442	26.5048303195442	5350
+Bacteria	Bacteroidota	Neo5-S114	WT	Neo5	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Bacteroidota	3.11566597358382	0.313162844679233	31.3162844679233	7825
+Bacteria	Bacteroidota	Neo6-S119	WT	Neo6	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Bacteroidota	3.14410697304932	0.290568268762607	29.0568268762607	8355
+Bacteria	Bacteroidota	Neo7-S124	WT	Neo7	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Bacteroidota	3.15213539686188	0.322924571255122	32.2924571255122	8511
+Bacteria	Bacteroidota	Neo8-S129	WT	Neo8	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Bacteroidota	3.12205196263325	0.291551933032272	29.1551933032272	7941
+Bacteria	Bacteroidota	Neo9-S134	WT	Neo9	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Bacteroidota	2.95093250665997	0.230196955362518	23.0196955362518	5353
+Bacteria	Bacteroidota	SMK-Neo1-S139	WT	SMK_Neo1	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Bacteria_/_Bacteroidota	3.32983839188387	0.450035112359551	45.0035112359551	12817
+Bacteria	Bacteroidota	SMK-Neo3-S110	WT	SMK_Neo3	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Bacteria_/_Bacteroidota	3.38819004159985	0.719805577376276	71.9805577376276	14661
+Bacteria	Bacteroidota	SMK-Neo4-S115	WT	SMK_Neo4	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Bacteria_/_Bacteroidota	3.31680875205302	0.47851344592775	47.851344592775	12438
+Bacteria	Bacteroidota	SMK-Neo5-S120	WT	SMK_Neo5	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Bacteria_/_Bacteroidota	3.15498157334309	0.455958273457874	45.5958273457874	8567
+Bacteria	Bacteroidota	SMK-Neo6-S125	WT	SMK_Neo6	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Bacteria_/_Bacteroidota	3.4144719496293	0.567245711788485	56.7245711788485	15576
+Bacteria	Bacteroidota	SMK-Neo7-S130	WT	SMK_Neo7	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Bacteria_/_Bacteroidota	3.15310315603277	0.478407178911946	47.8407178911946	8530
+Bacteria	Bacteroidota	SMK-Neo8-S135	WT	SMK_Neo8	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Bacteria_/_Bacteroidota	3.46249782423704	0.748204532748463	74.8204532748463	17398
+Bacteria	Bacteroidota	SMK1-S117	WT	SMK1	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Bacteroidota	2.90642483700481	0.292965433596119	29.2965433596119	4831
+Bacteria	Bacteroidota	SMK10-S123	WT	SMK10	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Bacteroidota	3.11383198046832	0.335847592776173	33.5847592776173	7792
+Bacteria	Bacteroidota	SMK11-S128	WT	SMK11	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Bacteroidota	3.01980839335355	0.266468464642175	26.6468464642175	6274
+Bacteria	Bacteroidota	SMK2-S122	WT	SMK2	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Bacteroidota	2.95752747552226	0.287809786062275	28.7809786062275	5435
+Bacteria	Bacteroidota	SMK3-S127	WT	SMK3	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Bacteroidota	2.86460995288168	0.238826283412271	23.8826283412271	4387
+Bacteria	Bacteroidota	SMK4-S132	WT	SMK4	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Bacteroidota	2.69635638873333	0.251139240506329	25.1139240506329	2976
+Bacteria	Bacteroidota	SMK5-S137	WT	SMK5	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Bacteroidota	2.78295013326541	0.230569126324472	23.0569126324472	3634
+Bacteria	Bacteroidota	SMK7-S108	WT	SMK7	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Bacteroidota	2.88166990767206	0.319381255686988	31.9381255686988	4563
+Bacteria	Bacteroidota	SMK8-S113	WT	SMK8	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Bacteroidota	3.0484418035504	0.311185401866555	31.1185401866555	6702
+Bacteria	Bacteroidota	SMK9-S118	WT	SMK9	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Bacteroidota	2.93542328738843	0.24811452178508	24.811452178508	5165
+Bacteria	Firmicutes	CTRL1-S106	WT	CTRL1	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Firmicutes	3.46404220543881	0.736584542693216	73.6584542693216	17460
+Bacteria	Firmicutes	CTRL10-S112	WT	CTRL10	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Firmicutes	3.40767410922932	0.786036497847037	78.6036497847037	15334
+Bacteria	Firmicutes	CTRL2-S111	WT	CTRL2	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Firmicutes	3.39328265055936	0.749570490146539	74.9570490146539	14834
+Bacteria	Firmicutes	CTRL3-S116	WT	CTRL3	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Firmicutes	3.51901813058559	0.745756971361909	74.5756971361909	19817
+Bacteria	Firmicutes	CTRL4-S121	WT	CTRL4	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Firmicutes	3.47455618262364	0.728605759439534	72.8605759439534	17888
+Bacteria	Firmicutes	CTRL6-S131	WT	CTRL6	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Firmicutes	3.43912207574568	0.784151445966514	78.4151445966514	16486
+Bacteria	Firmicutes	CTRL7-S136	WT	CTRL7	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Firmicutes	3.46768208471368	0.720564763658686	72.0564763658686	17607
+Bacteria	Firmicutes	CTRL8-S141	WT	CTRL8	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Firmicutes	3.39712856805874	0.767447823188554	76.7447823188554	14966
+Bacteria	Firmicutes	CTRL9-S107	WT	CTRL9	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Firmicutes	3.28499438672299	0.783183142489329	78.3183142489329	11559
+Bacteria	Firmicutes	Neo1-S133	WT	Neo1	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Firmicutes	3.15806079393661	0.761988872207012	76.1988872207012	8628
+Bacteria	Firmicutes	Neo2-S138	WT	Neo2	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Firmicutes	3.48501121457857	0.611860558301055	61.1860558301055	18324
+Bacteria	Firmicutes	Neo3-S143	WT	Neo3	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Firmicutes	3.28205537068371	0.606177402323126	60.6177402323126	11481
+Bacteria	Firmicutes	Neo4-S109	WT	Neo4	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Firmicutes	3.37128341595953	0.698588060440921	69.8588060440921	14101
+Bacteria	Firmicutes	Neo5-S114	WT	Neo5	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Firmicutes	3.43835772780296	0.65862248369152	65.862248369152	16457
+Bacteria	Firmicutes	Neo6-S119	WT	Neo6	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Firmicutes	3.50295032530051	0.664151074633095	66.4151074633095	19097
+Bacteria	Firmicutes	Neo7-S124	WT	Neo7	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Firmicutes	3.46072248663423	0.657421460009106	65.7421460009106	17327
+Bacteria	Firmicutes	Neo8-S129	WT	Neo8	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Firmicutes	3.48120367692439	0.666886955244704	66.6886955244704	18164
+Bacteria	Firmicutes	Neo9-S134	WT	Neo9	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Firmicutes	3.44302817021485	0.715360798142255	71.5360798142255	16635
+Bacteria	Firmicutes	SMK-Neo1-S139	WT	SMK_Neo1	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Bacteria_/_Firmicutes	3.41100205257825	0.542556179775281	54.2556179775281	15452
+Bacteria	Firmicutes	SMK-Neo3-S110	WT	SMK_Neo3	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Bacteria_/_Firmicutes	2.92324401863028	0.246563236449332	24.6563236449332	5022
+Bacteria	Firmicutes	SMK-Neo4-S115	WT	SMK_Neo4	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Bacteria_/_Firmicutes	3.34373673472004	0.509137075366445	50.9137075366445	13234
+Bacteria	Firmicutes	SMK-Neo5-S120	WT	SMK_Neo5	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Bacteria_/_Firmicutes	3.21541723240608	0.52408324019373	52.408324019373	9847
+Bacteria	Firmicutes	SMK-Neo6-S125	WT	SMK_Neo6	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Bacteria_/_Firmicutes	3.21559350617082	0.358753050001821	35.8753050001821	9851
+Bacteria	Firmicutes	SMK-Neo7-S130	WT	SMK_Neo7	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Bacteria_/_Firmicutes	3.15391644181708	0.479304542905216	47.9304542905216	8546
+Bacteria	Firmicutes	SMK-Neo8-S135	WT	SMK_Neo8	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Bacteria_/_Firmicutes	2.90036712865647	0.204876790091601	20.4876790091601	4764
+Bacteria	Firmicutes	SMK1-S117	WT	SMK1	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Firmicutes	3.26296497758584	0.666282595512432	66.6282595512432	10987
+Bacteria	Firmicutes	SMK10-S123	WT	SMK10	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Firmicutes	3.38465204199903	0.626783328304814	62.6783328304814	14542
+Bacteria	Firmicutes	SMK11-S128	WT	SMK11	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Firmicutes	3.4105804210621	0.655638139732427	65.5638139732427	15437
+Bacteria	Firmicutes	SMK2-S122	WT	SMK2	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Firmicutes	3.32435105880181	0.670196992162677	67.0196992162677	12656
+Bacteria	Firmicutes	SMK3-S127	WT	SMK3	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Firmicutes	3.3374925392863	0.710163863030105	71.0163863030105	13045
+Bacteria	Firmicutes	SMK4-S132	WT	SMK4	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Firmicutes	3.14050804303818	0.699240506329114	69.9240506329114	8286
+Bacteria	Firmicutes	SMK5-S137	WT	SMK5	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Firmicutes	3.25167876892702	0.6792081720703	67.92081720703	10705
+Bacteria	Firmicutes	SMK7-S108	WT	SMK7	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Firmicutes	3.17459277363125	0.627353538181564	62.7353538181564	8963
+Bacteria	Firmicutes	SMK8-S113	WT	SMK8	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Firmicutes	3.3600250891894	0.637971862376375	63.7971862376375	13740
+Bacteria	Firmicutes	SMK9-S118	WT	SMK9	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Firmicutes	3.38827886345964	0.704424268626603	70.4424268626603	14664
+Bacteria	Proteobacteria	CTRL1-S106	WT	CTRL1	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Proteobacteria	1.58168423195624	0.0094076949038137	0.94076949038137	223
+Bacteria	Proteobacteria	CTRL10-S112	WT	CTRL10	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Proteobacteria	0.970036776622557	0.00256305105597703	0.256305105597703	50
+Bacteria	Proteobacteria	CTRL2-S111	WT	CTRL2	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Proteobacteria	1.35856931677276	0.00661950480040424	0.661950480040424	131
+Bacteria	Proteobacteria	CTRL3-S116	WT	CTRL3	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Proteobacteria	1.13566260200007	0.00286004591126331	0.286004591126331	76
+Bacteria	Proteobacteria	CTRL4-S121	WT	CTRL4	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Proteobacteria	1.53781909507327	0.00818703922447151	0.818703922447151	201
+Bacteria	Proteobacteria	CTRL6-S131	WT	CTRL6	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Proteobacteria	0.753327666658612	0.00133181126331811	0.133181126331811	28
+Bacteria	Proteobacteria	CTRL7-S136	WT	CTRL7	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Proteobacteria	1.82715379575747	0.0162471864129323	1.62471864129323	397
+Bacteria	Proteobacteria	CTRL8-S141	WT	CTRL8	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Proteobacteria	1.25123252730157	0.0051792215783806	0.51792215783806	101
+Bacteria	Proteobacteria	CTRL9-S107	WT	CTRL9	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Proteobacteria	0.602059991327962	0.00121959482349753	0.121959482349753	18
+Bacteria	Proteobacteria	Neo1-S133	WT	Neo1	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Proteobacteria	0	0	0	0
+Bacteria	Proteobacteria	Neo2-S138	WT	Neo2	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Proteobacteria	1.09108046934733	0.00227060237745425	0.227060237745425	68
+Bacteria	Proteobacteria	Neo3-S143	WT	Neo3	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Proteobacteria	1.02802872360024	0.0030623020063358	0.30623020063358	58
+Bacteria	Proteobacteria	Neo4-S109	WT	Neo4	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Proteobacteria	0.801632346233166	0.00158533564528115	0.158533564528115	32
+Bacteria	Proteobacteria	Neo5-S114	WT	Neo5	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Proteobacteria	0.812913356642856	0.0013206867571137	0.13206867571137	33
+Bacteria	Proteobacteria	Neo6-S119	WT	Neo6	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Proteobacteria	1.18089014193745	0.00295611045419768	0.295611045419768	85
+Bacteria	Proteobacteria	Neo7-S124	WT	Neo7	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Proteobacteria	0	0	0	0
+Bacteria	Proteobacteria	Neo8-S129	WT	Neo8	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Proteobacteria	0.653212513775344	0.000771010023130301	0.0771010023130301	21
+Bacteria	Proteobacteria	Neo9-S134	WT	Neo9	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Proteobacteria	0.834632606336092	0.00150511739915713	0.150511739915713	35
+Bacteria	Proteobacteria	SMK-Neo1-S139	WT	SMK_Neo1	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Bacteria_/_Proteobacteria	0.301029995663981	0.000210674157303371	0.0210674157303371	6
+Bacteria	Proteobacteria	SMK-Neo3-S110	WT	SMK_Neo3	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Bacteria_/_Proteobacteria	0.477121254719662	0.000589159465828751	0.0589159465828751	12
+Bacteria	Proteobacteria	SMK-Neo4-S115	WT	SMK_Neo4	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Bacteria_/_Proteobacteria	0	0	0	0
+Bacteria	Proteobacteria	SMK-Neo5-S120	WT	SMK_Neo5	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Bacteria_/_Proteobacteria	0.425968732272281	0.000532226302623876	0.0532226302623876	10
+Bacteria	Proteobacteria	SMK-Neo6-S125	WT	SMK_Neo6	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Bacteria_/_Proteobacteria	0.500602350569185	0.000473433118467533	0.0473433118467533	13
+Bacteria	Proteobacteria	SMK-Neo7-S130	WT	SMK_Neo7	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Bacteria_/_Proteobacteria	0.367976785294594	0.000448681996634885	0.0448681996634885	8
+Bacteria	Proteobacteria	SMK-Neo8-S135	WT	SMK_Neo8	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Bacteria_/_Proteobacteria	0	0	0	0
+Bacteria	Proteobacteria	SMK1-S117	WT	SMK1	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Proteobacteria	1.56427143043856	0.0129775621588842	1.29775621588842	214
+Bacteria	Proteobacteria	SMK10-S123	WT	SMK10	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Proteobacteria	1.76591679396663	0.0148269471143485	1.48269471143485	344
+Bacteria	Proteobacteria	SMK11-S128	WT	SMK11	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Proteobacteria	1.04139268515822	0.00254831174346995	0.254831174346995	60
+Bacteria	Proteobacteria	SMK2-S122	WT	SMK2	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Proteobacteria	1.27875360095283	0.00571912730353739	0.571912730353739	108
+Bacteria	Proteobacteria	SMK3-S127	WT	SMK3	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Proteobacteria	0.9622114391106	0.00266753769938483	0.266753769938483	49
+Bacteria	Proteobacteria	SMK4-S132	WT	SMK4	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Proteobacteria	0	0	0	0
+Bacteria	Proteobacteria	SMK5-S137	WT	SMK5	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Proteobacteria	0.564271430438563	0.00101516401243576	0.101516401243576	16
+Bacteria	Proteobacteria	SMK7-S108	WT	SMK7	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Proteobacteria	1.1995723549052	0.00622943935045846	0.622943935045846	89
+Bacteria	Proteobacteria	SMK8-S113	WT	SMK8	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Proteobacteria	1.86825247583943	0.0202906625806751	2.02906625806751	437
+Bacteria	Proteobacteria	SMK9-S118	WT	SMK9	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Proteobacteria	1.56820172406699	0.0103761348897536	1.03761348897536	216
+Bacteria	Verrucomicrobiota	CTRL1-S106	WT	CTRL1	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Verrucomicrobiota	1.50288211686408	0.00780458994262572	0.780458994262572	185
+Bacteria	Verrucomicrobiota	CTRL10-S112	WT	CTRL10	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Verrucomicrobiota	1.55226252296555	0.0106622923928645	1.06622923928645	208
+Bacteria	Verrucomicrobiota	CTRL2-S111	WT	CTRL2	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Verrucomicrobiota	1.29739571100889	0.0057099545224861	0.57099545224861	113
+Bacteria	Verrucomicrobiota	CTRL3-S116	WT	CTRL3	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Verrucomicrobiota	1.14612803567824	0.00293531027734919	0.293531027734919	78
+Bacteria	Verrucomicrobiota	CTRL4-S121	WT	CTRL4	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Verrucomicrobiota	1.15634720085992	0.00325852307441652	0.325852307441652	80
+Bacteria	Verrucomicrobiota	CTRL6-S131	WT	CTRL6	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Verrucomicrobiota	1.20411998265592	0.00428082191780822	0.428082191780822	90
+Bacteria	Verrucomicrobiota	CTRL7-S136	WT	CTRL7	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Verrucomicrobiota	1.19497660321605	0.00360139144669531	0.360139144669531	88
+Bacteria	Verrucomicrobiota	CTRL8-S141	WT	CTRL8	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Verrucomicrobiota	1.32905871926422	0.00625608943131121	0.625608943131121	122
+Bacteria	Verrucomicrobiota	CTRL9-S107	WT	CTRL9	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Bacteria_/_Verrucomicrobiota	1.26324143477458	0.00704654786909682	0.704654786909682	104
+Bacteria	Verrucomicrobiota	Neo1-S133	WT	Neo1	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Verrucomicrobiota	1.10833947478884	0.00627042303276517	0.627042303276517	71
+Bacteria	Verrucomicrobiota	Neo2-S138	WT	Neo2	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Verrucomicrobiota	2.25244847158231	0.0356284225991719	3.56284225991719	1067
+Bacteria	Verrucomicrobiota	Neo3-S143	WT	Neo3	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Verrucomicrobiota	1.94939000664491	0.0278775079197466	2.78775079197466	528
+Bacteria	Verrucomicrobiota	Neo4-S109	WT	Neo4	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Verrucomicrobiota	1.99048685086397	0.0287837503096359	2.87837503096359	581
+Bacteria	Verrucomicrobiota	Neo5-S114	WT	Neo5	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Verrucomicrobiota	1.93449845124357	0.0204106135190299	2.04106135190299	510
+Bacteria	Verrucomicrobiota	Neo6-S119	WT	Neo6	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Verrucomicrobiota	2.12818379142145	0.0278222160395075	2.78222160395075	800
+Bacteria	Verrucomicrobiota	Neo7-S124	WT	Neo7	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Verrucomicrobiota	1.81068047521056	0.014493853392017	1.4493853392017	382
+Bacteria	Verrucomicrobiota	Neo8-S129	WT	Neo8	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Verrucomicrobiota	2.14301480025409	0.0303998237691376	3.03998237691376	828
+Bacteria	Verrucomicrobiota	Neo9-S134	WT	Neo9	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Bacteria_/_Verrucomicrobiota	2.09922009548613	0.032166508987701	3.2166508987701	748
+Bacteria	Verrucomicrobiota	SMK-Neo1-S139	WT	SMK_Neo1	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Bacteria_/_Verrucomicrobiota	1.18563657696191	0.00301966292134831	0.301966292134831	86
+Bacteria	Verrucomicrobiota	SMK-Neo3-S110	WT	SMK_Neo3	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Bacteria_/_Verrucomicrobiota	1.7103994661168	0.0148271798900236	1.48271798900236	302
+Bacteria	Verrucomicrobiota	SMK-Neo4-S115	WT	SMK_Neo4	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Bacteria_/_Verrucomicrobiota	1.58168423195624	0.00857923287038818	0.857923287038818	223
+Bacteria	Verrucomicrobiota	SMK-Neo5-S120	WT	SMK_Neo5	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Bacteria_/_Verrucomicrobiota	1.52720011906298	0.010431635531428	1.0431635531428	196
+Bacteria	Verrucomicrobiota	SMK-Neo6-S125	WT	SMK_Neo6	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Bacteria_/_Verrucomicrobiota	2.36141301579221	0.0500018208966095	5.00018208966095	1373
+Bacteria	Verrucomicrobiota	SMK-Neo7-S130	WT	SMK_Neo7	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Bacteria_/_Verrucomicrobiota	2.05050864615168	0.0374649467190129	3.74649467190129	668
+Bacteria	Verrucomicrobiota	SMK-Neo8-S135	WT	SMK_Neo8	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Bacteria_/_Verrucomicrobiota	2.01494034979294	0.0264482002322281	2.64482002322281	615
+Bacteria	Verrucomicrobiota	SMK1-S117	WT	SMK1	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Verrucomicrobiota	1.26717172840301	0.00636749545178896	0.636749545178896	105
+Bacteria	Verrucomicrobiota	SMK10-S123	WT	SMK10	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Verrucomicrobiota	1.03476210625921	0.00254299383647257	0.254299383647257	59
+Bacteria	Verrucomicrobiota	SMK11-S128	WT	SMK11	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Verrucomicrobiota	1.6827465923729	0.0120195370566999	1.20195370566999	283
+Bacteria	Verrucomicrobiota	SMK2-S122	WT	SMK2	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Verrucomicrobiota	1.31875876262441	0.00630163101037916	0.630163101037916	119
+Bacteria	Verrucomicrobiota	SMK3-S127	WT	SMK3	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Verrucomicrobiota	1.19033169817029	0.00473624040503021	0.473624040503021	87
+Bacteria	Verrucomicrobiota	SMK4-S132	WT	SMK4	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Verrucomicrobiota	0	0	0	0
+Bacteria	Verrucomicrobiota	SMK5-S137	WT	SMK5	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Verrucomicrobiota	1.28254658996997	0.00691580483471861	0.691580483471861	109
+Bacteria	Verrucomicrobiota	SMK7-S108	WT	SMK7	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Verrucomicrobiota	0.903089986991944	0.00293973542381186	0.293973542381186	42
+Bacteria	Verrucomicrobiota	SMK8-S113	WT	SMK8	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Verrucomicrobiota	1.58357658563395	0.0104007057621767	1.04007057621767	224
+Bacteria	Verrucomicrobiota	SMK9-S118	WT	SMK9	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Bacteria_/_Verrucomicrobiota	1.19497660321605	0.00422731421434405	0.422731421434405	88
+Other	Other	CTRL1-S106	WT	CTRL1	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Other_/_Other	1.79472035181684	0.0155248059399258	1.55248059399258	368
+Other	Other	CTRL10-S112	WT	CTRL10	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Other_/_Other	1.65321251377534	0.0135329095755587	1.35329095755587	264
+Other	Other	CTRL2-S111	WT	CTRL2	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Other_/_Other	1.59476075258646	0.011622031328954	1.1622031328954	230
+Other	Other	CTRL3-S116	WT	CTRL3	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Other_/_Other	2.04986381384033	0.0251006660896399	2.51006660896399	667
+Other	Other	CTRL4-S121	WT	CTRL4	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Other_/_Other	2.20366735678702	0.0388171561239868	3.88171561239868	953
+Other	Other	CTRL6-S131	WT	CTRL6	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Other_/_Other	2.09049318801118	0.0348649162861492	3.48649162861492	733
+Other	Other	CTRL7-S136	WT	CTRL7	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Other_/_Other	2.17123875626127	0.0361776140781666	3.61776140781666	884
+Other	Other	CTRL8-S141	WT	CTRL8	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Other_/_Other	1.68723160106477	0.0146659145684837	1.46659145684837	286
+Other	Other	CTRL9-S107	WT	CTRL9	Pancreatic	No	None	Post	Control	191.29	42.01	Neo-Pancreatic	Other_/_Other	1.88366143515362	0.0306931363913544	3.06931363913544	453
+Other	Other	Neo1-S133	WT	Neo1	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Other_/_Other	0	0	0	0
+Other	Other	Neo2-S138	WT	Neo2	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Other_/_Other	0.778151250383644	0.00100173634299452	0.100173634299452	30
+Other	Other	Neo3-S143	WT	Neo3	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Other_/_Other	1.55428720953196	0.0110348468848997	1.10348468848997	209
+Other	Other	Neo4-S109	WT	Neo4	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Other_/_Other	0.335792101923193	0.000346792172405251	0.0346792172405251	7
+Other	Other	Neo5-S114	WT	Neo5	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Other_/_Other	0.619788758288394	0.000760395405610918	0.0760395405610918	19
+Other	Other	Neo6-S119	WT	Neo6	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Other_/_Other	1.67973064635035	0.00977255338387703	0.977255338387703	281
+Other	Other	Neo7-S124	WT	Neo7	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Other_/_Other	0.500602350569185	0.000493246319623615	0.0493246319623615	13
+Other	Other	Neo8-S129	WT	Neo8	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Other_/_Other	0.544068044350276	0.000550721445093072	0.0550721445093072	15
+Other	Other	Neo9-S134	WT	Neo9	Pancreatic	No	Neomycin	Post	Neomycin only	NA	NA	Neo-Pancreatic	Other_/_Other	1.75460312860885	0.0144061236776469	1.44061236776469	335
+Other	Other	SMK-Neo1-S139	WT	SMK_Neo1	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Other_/_Other	1.31875876262441	0.00417837078651685	0.417837078651685	119
+Other	Other	SMK-Neo3-S110	WT	SMK_Neo3	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Other_/_Other	1.79819009982215	0.0182148468185389	1.82148468185389	371
+Other	Other	SMK-Neo4-S115	WT	SMK_Neo4	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Other_/_Other	1.23888208891514	0.00377024583541723	0.377024583541723	98
+Other	Other	SMK-Neo5-S120	WT	SMK_Neo5	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Other_/_Other	1.46488679830265	0.0089946245143435	0.89946245143435	169
+Other	Other	SMK-Neo6-S125	WT	SMK_Neo6	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Other_/_Other	2.03609634534828	0.0235259841946174	2.35259841946174	646
+Other	Other	SMK-Neo7-S130	WT	SMK_Neo7	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Other_/_Other	1.14612803567824	0.00437464946719013	0.437464946719013	78
+Other	Other	SMK-Neo8-S135	WT	SMK_Neo8	Pancreatic	Yes	Neomycin	Post	Smoke+Neomycin	198.35	37.94	Neo-Pancreatic	Other_/_Other	1.90489578785521	0.0204704769277083	2.04704769277083	476
+Other	Other	SMK1-S117	WT	SMK1	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Other_/_Other	1.65801139665711	0.0161916312916919	1.61916312916919	267
+Other	Other	SMK10-S123	WT	SMK10	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Other_/_Other	1.77815125038364	0.0152579630188354	1.52579630188354	354
+Other	Other	SMK11-S128	WT	SMK11	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Other_/_Other	2.29885307640971	0.050456572520705	5.0456572520705	1188
+Other	Other	SMK2-S122	WT	SMK2	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Other_/_Other	1.79703659454402	0.0195933065028596	1.95933065028596	370
+Other	Other	SMK3-S127	WT	SMK3	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Other_/_Other	2.03875258899202	0.0353857041755131	3.53857041755131	650
+Other	Other	SMK4-S132	WT	SMK4	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Other_/_Other	1.90579588036787	0.040253164556962	4.0253164556962	477
+Other	Other	SMK5-S137	WT	SMK5	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Other_/_Other	2.25244847158231	0.0676987500793097	6.76987500793097	1067
+Other	Other	SMK7-S108	WT	SMK7	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Other_/_Other	1.82499312223654	0.0276475117239448	2.76475117239448	395
+Other	Other	SMK8-S113	WT	SMK8	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Other_/_Other	1.52720011906298	0.00910061754190463	0.910061754190463	196
+Other	Other	SMK9-S118	WT	SMK9	Pancreatic	Yes	None	Post	Smoke only	332.25	70.83	Neo-Pancreatic	Other_/_Other	1.98602488200669	0.0276216553778162	2.76216553778162	575

@@ -1,0 +1,17 @@
+SampleID	MouseModel	MouseID	Cancer	SmokeExp	AntibioticExp	TumorImp	Treatment	TumorWeight_avg	TumorWeight_sd	Study	d__Bacteria.p__Actinobacteriota	d__Bacteria.p__Bacteroidota	d__Bacteria.p__Firmicutes	d__Bacteria.p__Patescibacteria	d__Bacteria.p__Proteobacteria	d__Bacteria.p__Verrucomicrobiota	Other
+POSTMC38CT2-S63	WT	MC38-CT2	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	78	8118	14627	3	526	655	9
+POSTMC38CT3-S64	WT	MC38-CT3	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	9	6722	9070	0	143	433	0
+POSTMC38CT4-S65	WT	MC38-CT4	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	60	9087	11791	0	321	1886	9
+POSTMC38CT5-S66	WT	MC38-CT5	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	17	5476	9463	0	471	640	0
+POSTMC38CT6-S67	WT	MC38-CT6	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	18	5616	6330	0	82	783	5
+POSTMC38CT8-S69	WT	MC38-CT8	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	5	3255	7412	0	35	233	0
+POSTMC38SM1D-S70	WT	MC38-SM1	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	576	4426	7380	0	147	914	0
+POSTMC38SM2E-S72	WT	MC38-SM3	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	760	7421	11943	23	211	3065	34
+POSTMC38SM3A-S73	WT	MC38-SM4	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	780	23438	25862	12	555	4193	106
+POSTMC38SM3C-S74	WT	MC38-SM5	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	293	21690	29698	35	356	3674	455
+POSTMC38SM5A-S75	WT	MC38-SM6	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	1277	19382	23373	0	527	4159	123
+POSTMC38SM5C-S76	WT	MC38-SM7	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	1389	24163	25220	0	367	7702	125
+POSTMC38SM6C-S77	WT	MC38-SM8	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	2462	26825	28030	0	383	2913	177
+POSTMC38SM7B-S78	WT	MC38-SM9	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	863	21333	19400	0	284	7979	102
+POSTMC38SM7D-S79	WT	MC38-SM10	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	1187	22283	24242	0	283	1323	20
+POSTMC38SM8C-S80	WT	MC38-SM11	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	533	24873	23442	0	464	3089	109

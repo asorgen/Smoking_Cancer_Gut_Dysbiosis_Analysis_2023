@@ -1,0 +1,51 @@
+SampleID	MouseModel	SmokeExposure	FMTstatus	TumorStatus	FullMouseDescription	TumorWeight_avg	TumorWeight_sd	Study
+ControlDonor1-S84	WT	Smoke-free	Donor	Tumor-naive	Tumor-naive Smoke-free Donor	NA	NA	Smoke-FMT
+ControlDonor2-S85	WT	Smoke-free	Donor	Tumor-naive	Tumor-naive Smoke-free Donor	NA	NA	Smoke-FMT
+ControlDonor3-S86	WT	Smoke-free	Donor	Tumor-naive	Tumor-naive Smoke-free Donor	NA	NA	Smoke-FMT
+ControlDonor4-S87	WT	Smoke-free	Donor	Tumor-naive	Tumor-naive Smoke-free Donor	NA	NA	Smoke-FMT
+ControlDonor5-S88	WT	Smoke-free	Donor	Tumor-naive	Tumor-naive Smoke-free Donor	NA	NA	Smoke-FMT
+ControlDonor6-S89	WT	Smoke-free	Donor	Tumor-naive	Tumor-naive Smoke-free Donor	NA	NA	Smoke-FMT
+ControlDonor7-S90	WT	Smoke-free	Donor	Tumor-naive	Tumor-naive Smoke-free Donor	NA	NA	Smoke-FMT
+ControlDonor8-S91	WT	Smoke-free	Donor	Tumor-naive	Tumor-naive Smoke-free Donor	NA	NA	Smoke-FMT
+PostcntrFMT1-S116	WT	Smoke-free feces	Recipient	Post-tumor	Post-tumor Smoke-free feces Recipient	151.34	21.65	Smoke-FMT
+PostcntrFMT2-S117	WT	Smoke-free feces	Recipient	Post-tumor	Post-tumor Smoke-free feces Recipient	151.34	21.65	Smoke-FMT
+PostcntrFMT3-S118	WT	Smoke-free feces	Recipient	Post-tumor	Post-tumor Smoke-free feces Recipient	151.34	21.65	Smoke-FMT
+PostcntrFMT4-S119	WT	Smoke-free feces	Recipient	Post-tumor	Post-tumor Smoke-free feces Recipient	151.34	21.65	Smoke-FMT
+PostcntrFMT5-S120	WT	Smoke-free feces	Recipient	Post-tumor	Post-tumor Smoke-free feces Recipient	151.34	21.65	Smoke-FMT
+PostcntrFMT6-S121	WT	Smoke-free feces	Recipient	Post-tumor	Post-tumor Smoke-free feces Recipient	151.34	21.65	Smoke-FMT
+PostcntrFMT7-S122	WT	Smoke-free feces	Recipient	Post-tumor	Post-tumor Smoke-free feces Recipient	151.34	21.65	Smoke-FMT
+PostcntrFMT8-S123	WT	Smoke-free feces	Recipient	Post-tumor	Post-tumor Smoke-free feces Recipient	151.34	21.65	Smoke-FMT
+PostsmkFMT1-S124	WT	Smoke-exposed feces	Recipient	Post-tumor	Post-tumor Smoke-exposed feces Recipient	270.28	56.2	Smoke-FMT
+PostsmkFMT2-S125	WT	Smoke-exposed feces	Recipient	Post-tumor	Post-tumor Smoke-exposed feces Recipient	270.28	56.2	Smoke-FMT
+PostsmkFMT3-S126	WT	Smoke-exposed feces	Recipient	Post-tumor	Post-tumor Smoke-exposed feces Recipient	270.28	56.2	Smoke-FMT
+PostsmkFMT4-S127	WT	Smoke-exposed feces	Recipient	Post-tumor	Post-tumor Smoke-exposed feces Recipient	270.28	56.2	Smoke-FMT
+PostsmkFMT5-S128	WT	Smoke-exposed feces	Recipient	Post-tumor	Post-tumor Smoke-exposed feces Recipient	270.28	56.2	Smoke-FMT
+PostsmkFMT6-S129	WT	Smoke-exposed feces	Recipient	Post-tumor	Post-tumor Smoke-exposed feces Recipient	270.28	56.2	Smoke-FMT
+PostsmkFMT7-S130	WT	Smoke-exposed feces	Recipient	Post-tumor	Post-tumor Smoke-exposed feces Recipient	270.28	56.2	Smoke-FMT
+PostsmkFMT8-S131	WT	Smoke-exposed feces	Recipient	Post-tumor	Post-tumor Smoke-exposed feces Recipient	270.28	56.2	Smoke-FMT
+PostsmkFMT9-S132	WT	Smoke-exposed feces	Recipient	Post-tumor	Post-tumor Smoke-exposed feces Recipient	270.28	56.2	Smoke-FMT
+PostsmkFMT10-S133	WT	Smoke-exposed feces	Recipient	Post-tumor	Post-tumor Smoke-exposed feces Recipient	270.28	56.2	Smoke-FMT
+PrecntrlFMT1-S100	WT	Smoke-free feces	Recipient	Pre-tumor	Pre-tumor Smoke-free feces Recipient	NA	NA	Smoke-FMT
+PrecntrlFMT2-S101	WT	Smoke-free feces	Recipient	Pre-tumor	Pre-tumor Smoke-free feces Recipient	NA	NA	Smoke-FMT
+PrecntrlFMT3-S102	WT	Smoke-free feces	Recipient	Pre-tumor	Pre-tumor Smoke-free feces Recipient	NA	NA	Smoke-FMT
+PrecntrlFMT4-S103	WT	Smoke-free feces	Recipient	Pre-tumor	Pre-tumor Smoke-free feces Recipient	NA	NA	Smoke-FMT
+PrecntrlFMT5-S104	WT	Smoke-free feces	Recipient	Pre-tumor	Pre-tumor Smoke-free feces Recipient	NA	NA	Smoke-FMT
+PrecntrlFMT6-S105	WT	Smoke-free feces	Recipient	Pre-tumor	Pre-tumor Smoke-free feces Recipient	NA	NA	Smoke-FMT
+PrecntrlFMT7-S106	WT	Smoke-free feces	Recipient	Pre-tumor	Pre-tumor Smoke-free feces Recipient	NA	NA	Smoke-FMT
+PrecntrlFMT8-S107	WT	Smoke-free feces	Recipient	Pre-tumor	Pre-tumor Smoke-free feces Recipient	NA	NA	Smoke-FMT
+PresmokeFMT1-S108	WT	Smoke-exposed feces	Recipient	Pre-tumor	Pre-tumor Smoke-exposed feces Recipient	NA	NA	Smoke-FMT
+PresmokeFMT2-S109	WT	Smoke-exposed feces	Recipient	Pre-tumor	Pre-tumor Smoke-exposed feces Recipient	NA	NA	Smoke-FMT
+PresmokeFMT3-S110	WT	Smoke-exposed feces	Recipient	Pre-tumor	Pre-tumor Smoke-exposed feces Recipient	NA	NA	Smoke-FMT
+PresmokeFMT4-S111	WT	Smoke-exposed feces	Recipient	Pre-tumor	Pre-tumor Smoke-exposed feces Recipient	NA	NA	Smoke-FMT
+PresmokeFMT5-S112	WT	Smoke-exposed feces	Recipient	Pre-tumor	Pre-tumor Smoke-exposed feces Recipient	NA	NA	Smoke-FMT
+PresmokeFMT6-S113	WT	Smoke-exposed feces	Recipient	Pre-tumor	Pre-tumor Smoke-exposed feces Recipient	NA	NA	Smoke-FMT
+PresmokeFMT7-S114	WT	Smoke-exposed feces	Recipient	Pre-tumor	Pre-tumor Smoke-exposed feces Recipient	NA	NA	Smoke-FMT
+PresmokeFMT8-S115	WT	Smoke-exposed feces	Recipient	Pre-tumor	Pre-tumor Smoke-exposed feces Recipient	NA	NA	Smoke-FMT
+Smokedonor1-S92	WT	Smoke-exposed	Donor	Tumor-naive	Tumor-naive Smoke-exposed Donor	NA	NA	Smoke-FMT
+Smokedonor2-S93	WT	Smoke-exposed	Donor	Tumor-naive	Tumor-naive Smoke-exposed Donor	NA	NA	Smoke-FMT
+Smokedonor3-S94	WT	Smoke-exposed	Donor	Tumor-naive	Tumor-naive Smoke-exposed Donor	NA	NA	Smoke-FMT
+Smokedonor4-S95	WT	Smoke-exposed	Donor	Tumor-naive	Tumor-naive Smoke-exposed Donor	NA	NA	Smoke-FMT
+Smokedonor5-S96	WT	Smoke-exposed	Donor	Tumor-naive	Tumor-naive Smoke-exposed Donor	NA	NA	Smoke-FMT
+Smokedonor6-S97	WT	Smoke-exposed	Donor	Tumor-naive	Tumor-naive Smoke-exposed Donor	NA	NA	Smoke-FMT
+Smokedonor7-S98	WT	Smoke-exposed	Donor	Tumor-naive	Tumor-naive Smoke-exposed Donor	NA	NA	Smoke-FMT
+Smokedonor8-S99	WT	Smoke-exposed	Donor	Tumor-naive	Tumor-naive Smoke-exposed Donor	NA	NA	Smoke-FMT

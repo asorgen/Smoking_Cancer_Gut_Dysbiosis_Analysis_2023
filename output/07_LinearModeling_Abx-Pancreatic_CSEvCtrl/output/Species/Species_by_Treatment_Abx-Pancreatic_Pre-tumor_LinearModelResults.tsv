@@ -1,0 +1,17 @@
+"Taxa"	"pValue"	"R2"	"direction"	"Adj_pValue"
+"d__Bacteria.p__Actinobacteriota.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Bifidobacterium.__"	0.0721226691382448	0.18813642451769	"Control"	0.115396270621192
+"d__Bacteria.p__Bacteroidota.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.__"	0.0323543103340636	0.255522946175012	"Control"	0.0739527093350024
+"d__Bacteria.p__Bacteroidota.c__Bacteroidia.o__Bacteroidales.f__Prevotellaceae.g__Prevotella.__"	0.0266996532139539	0.271195876572143	"Control"	0.0739527093350024
+"d__Bacteria.p__Bacteroidota.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.__"	0.0516995263664203	0.216463404778354	"Control"	0.0919102690958582
+"d__Bacteria.p__Bacteroidota.c__Bacteroidia.o__Bacteroidales.f__Tannerellaceae.g__Parabacteroides.__"	0.0314171656816486	0.257934577627726	"Control"	0.0739527093350024
+"d__Bacteria.p__Campilobacterota.c__Campylobacteria.o__Campylobacterales.f__Helicobacteraceae.g__Helicobacter.__"	0.0204143734699111	0.292731375535027	"Control"	0.0739527093350024
+"d__Bacteria.p__Deferribacterota.c__Deferribacteres.o__Deferribacterales.f__Deferribacteraceae.g__Mucispirillum.__"	0.0290356486440342	0.26437857500229	"Control"	0.0739527093350024
+"d__Bacteria.p__Desulfobacterota.c__Desulfovibrionia.o__Desulfovibrionales.f__Desulfovibrionaceae.g__Desulfovibrio.__"	0.0262273040082635	0.272641416204241	"Control"	0.0739527093350024
+"d__Bacteria.p__Firmicutes.c__Bacilli.o__Erysipelotrichales.f__Erysipelatoclostridiaceae.__.__"	0.0999046171008616	0.160103998916712	"Control"	0.145315806692162
+"d__Bacteria.p__Firmicutes.c__Bacilli.o__Erysipelotrichales.f__Erysipelotrichaceae.g__Erysipelothrix.__"	0.192799521769376	0.103571403837688	"Control"	0.220342310593573
+"d__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Streptococcus.__"	0.0195740920690136	0.296063777284928	"Control"	0.0739527093350024
+"d__Bacteria.p__Firmicutes.c__Clostridia.o__Lachnospirales.f__Lachnospiraceae.__.__"	0.181554271461127	0.108684410850115	"Control"	0.220342310593573
+"d__Bacteria.p__Firmicutes.c__Clostridia.o__Oscillospirales.f__Oscillospiraceae.__.__"	0.173024216418749	0.112792591298484	"CSE"	0.220342310593573
+"d__Bacteria.p__Proteobacteria.c__Gammaproteobacteria.o__Pseudomonadales.f__Pseudomonadaceae.g__Pseudomonas.s__Pseudomonas_aeruginosa"	0.621298749618812	0.0156129304323948	"Control"	0.662718666260066
+"d__Bacteria.p__Verrucomicrobiota.c__Chlamydiae.o__Chlamydiales.f__Chlamydiaceae.g__Chlamydia.__"	0.0375035283736299	0.243334482174723	"Control"	0.0750070567472597
+"Other"	0.991348052105331	7.58238722961039e-06	"same"	0.991348052105331

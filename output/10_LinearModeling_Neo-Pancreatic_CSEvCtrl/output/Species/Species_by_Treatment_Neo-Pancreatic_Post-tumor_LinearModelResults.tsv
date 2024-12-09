@@ -1,0 +1,5 @@
+"Taxa"	"pValue"	"R2"	"direction"	"Adj_pValue"
+"d__Bacteria.p__Actinobacteriota.c__Coriobacteriia.o__Coriobacteriales.f__Eggerthellaceae.g__Adlercreutzia.__"	0.381447157320876	0.045339539343685	"Control"	0.381447157320876
+"d__Bacteria.p__Firmicutes.c__Bacilli.o__Erysipelotrichales.f__Erysipelotrichaceae.__.__"	0.00922582686219236	0.336490428459248	"CSE"	0.0369033074487694
+"d__Bacteria.p__Firmicutes.c__Bacilli.o__RF39.f__RF39.g__RF39.__"	0.0374040077558674	0.230679309357259	"CSE"	0.0748080155117348
+"Other"	0.0964709199456559	0.154057272183925	"Control"	0.128627893260874

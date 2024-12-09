@@ -1,0 +1,47 @@
+SampleID	MouseModel	SmokeExposure	FMTstatus	TumorStatus	FullMouseDescription	TumorWeight_avg	TumorWeight_sd	Study	Unassigned.__.__	d__Bacteria.p__Actinobacteriota.c__Actinobacteria	d__Bacteria.p__Actinobacteriota.c__Coriobacteriia	d__Bacteria.p__Bacteroidota.c__Bacteroidia	d__Bacteria.p__Campilobacterota.c__Campylobacteria	d__Bacteria.p__Deferribacterota.c__Deferribacteres	d__Bacteria.p__Desulfobacterota.c__Desulfovibrionia	d__Bacteria.p__Firmicutes.c__Bacilli	d__Bacteria.p__Firmicutes.c__Clostridia	d__Bacteria.p__Patescibacteria.c__Saccharimonadia	d__Bacteria.p__Proteobacteria.c__Alphaproteobacteria	d__Bacteria.p__Proteobacteria.c__Gammaproteobacteria	d__Bacteria.p__Verrucomicrobiota.c__Chlamydiae	d__Bacteria.p__Verrucomicrobiota.c__Verrucomicrobiae	d__Eukaryota.p__Parabasalia.__
+A2-S3	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	0	5333	1264	42140	2074	170	1266	38876	20248	863	396	411	90	0	12
+A3-S4	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	0	4462	738	34802	1900	170	721	41625	15264	673	277	301	52	0	18
+A4-S5	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	0	8196	1621	27136	3241	350	856	51199	22565	93	0	1103	202	53	309
+A5-S6	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	0	7352	1492	37958	1796	129	886	45079	12712	673	4	433	135	0	0
+A6-S7	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	0	5607	947	32464	2697	164	1504	27150	20734	84	0	644	114	9	57
+A7-S8	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	0	6179	1419	20866	4297	912	1807	21440	26041	223	0	237	99	65	387
+A8-S9	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	0	7878	740	26867	4515	171	697	31717	14047	16	0	325	53	5	34
+B1-S10	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	18	483	1150	36955	1345	183	92	29054	14808	240	0	615	480	6	35
+B10-S19	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	58	25	803	41395	3165	451	855	21323	25378	1366	481	244	1808	11	49
+B2-S11	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	49	221	2118	44965	1928	889	2906	13344	49153	539	355	496	145	330	2247
+B3-S12	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	66	2685	1823	44952	1211	131	96	41992	15269	318	244	1841	285	3	44
+B4-S13	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	0	8444	1022	38722	1439	248	117	34035	11269	67	0	1062	70	7	102
+B5-S14	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	69	6181	1422	39804	1961	498	169	31910	15944	115	8	981	104	29	361
+B6-S15	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	12	2036	1174	28872	3705	228	113	22353	15727	672	4	571	676	7	71
+B7-S16	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	28	4797	1236	46722	3680	481	447	25747	24854	500	16	421	70	60	241
+B8-S17	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	5	5788	1761	45721	2226	713	703	28121	18824	260	40	1471	570	57	1060
+B9-S18	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	21	1096	2572	51879	2102	156	96	27313	12696	41	0	2141	979	12	52
+C1-S20	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	0	3071	2024	34052	0	0	277	15287	33805	0	3312	1740	0	16650	19
+C10-S29	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	945	6839	6817	50923	0	0	2836	64953	29185	0	889	2835	147	13429	8707
+C2-S21	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	0	2843	1812	33916	0	0	168	11717	30699	0	9249	1647	0	22528	13
+C3-S22	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	107	1979	3307	19596	0	0	600	20893	14572	0	1569	1615	82	9852	543
+C4-S23	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	851	2736	4272	42794	0	0	2330	38651	33526	0	465	1087	127	12153	1039
+C5-S24	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	136	4883	5885	42327	0	0	1246	39127	28726	0	4405	4515	153	22811	242
+C6-S25	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	105	5814	5271	40663	0	0	478	39285	26925	0	3119	3202	53	13324	69
+C7-S26	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	0	3441	3513	44702	0	0	369	24010	44213	0	3423	2546	0	25423	20
+C8-S27	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	68	3857	5017	60060	0	0	6669	19907	61756	0	6392	3946	0	35729	5056
+C9-S28	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	0	4953	6798	60680	0	0	5108	29877	52382	0	4083	3009	0	31661	5646
+D1-S30	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	0	0	1922	63028	0	0	0	7078	73771	0	0	347	0	20682	0
+D10-S39	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	0	31	2956	29220	8668	2202	636	49206	77830	870	0	47	111	966	12645
+D2-S31	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	0	0	1262	68722	0	0	0	39521	44005	0	0	893	0	72	0
+D3-S32	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	0	0	2034	71152	0	0	0	45648	43431	0	0	1184	0	135	0
+D4-S33	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	0	7	1725	38763	0	0	0	59482	38196	0	0	392	0	15589	0
+D5-S34	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	0	0	1089	39197	0	0	0	34452	38899	0	0	558	0	9	0
+D6-S35	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	0	0	1085	51248	0	0	0	43855	45384	0	2	726	0	30132	0
+D7-S36	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	34	2196	6717	66841	4398	216	1484	44007	62316	933	769	1018	97	41	358
+D8-S37	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	0	101	839	37327	12021	3697	404	21648	31935	256	0	60	106	288	2475
+D9-S38	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	20	5880	2095	38738	2040	88	622	42782	34460	872	0	372	53	14	92
+E1-S40	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	132	9195	2905	34545	2253	437	251	58012	8603	57	6	1425	42	103	1076
+E10-S49	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	212	8769	3382	28197	1467	117	602	49848	18260	399	130	1122	57	74	838
+E2-S41	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	277	11249	3772	39500	2595	114	500	60246	12717	238	0	2878	95	27	331
+E3-S42	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	0	10714	2293	30289	2556	145	654	52842	22726	336	0	458	56	169	1887
+E5-S44	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	0	7794	2711	29213	88	0	211	48160	16036	29	51	1591	45	0	21
+E6-S45	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	102	6145	2247	22343	1498	354	755	47458	17885	403	5	1047	61	104	1682
+E7-S46	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	111	6798	2552	29124	2329	487	219	43353	10563	436	101	1250	91	18	280
+E8-S47	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	152	7886	2701	25107	6464	1425	2150	39122	39627	338	61	688	72	463	5565
+E9-S48	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	173	10372	2185	28837	3421	504	148	58562	18191	622	359	1166	155	117	1052

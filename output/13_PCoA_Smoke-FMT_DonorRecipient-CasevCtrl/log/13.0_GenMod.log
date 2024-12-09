@@ -1,0 +1,31 @@
+R version 4.0.2 (2020-06-22)
+Loading required package: permute
+Loading required package: lattice
+This is vegan 2.5-6
+Warning message:
+package ‘permute’ was built under R version 4.0.3 
+vegan: Version2.5.6
+Warning message:
+package ‘stringr’ was built under R version 4.0.3 
+stringr: Version 1.4.0
+
+Attaching package: ‘rstatix’
+
+The following object is masked from ‘package:stats’:
+
+    filter
+
+Warning message:
+package ‘rstatix’ was built under R version 4.0.3 
+rstatix: Version 0.6.0
+ggplot2: Version 3.3.2
+Warning message:
+package ‘ggpubr’ was built under R version 4.0.3 
+ggpubr: Version 0.4.0
+Warning message:
+package ‘gridExtra’ was built under R version 4.0.3 
+gridExtra: Version 2.3
+data.table: Version 1.13.0
+
+************* Running in BioLockJ *************
+Created Success flag.

@@ -1,0 +1,591 @@
+Domain	Phylum	SampleID	MouseModel	MouseID	Cancer	SmokeExp	AntibioticExp	TumorImp	Treatment	TumorWeight_avg	TumorWeight_sd	Study	Taxon	NormalizedCounts	RelativeAbundance	PercentAbundance	RawCounts
+Bacteria	Actinobacteriota	P731ABX1-S148	WT	Pan-ABX1	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Actinobacteriota	0.716003343634799	0.00282866379310345	0.282866379310345	42
+Bacteria	Actinobacteriota	P731ABX2-S149	WT	Pan-ABX2	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Actinobacteriota	0.447158031342219	0.000739523418241578	0.0739523418241578	18
+Bacteria	Actinobacteriota	P731ABX3-S150	WT	Pan-ABX3	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Actinobacteriota	0.57978359661681	0.00184380350322666	0.184380350322666	28
+Bacteria	Actinobacteriota	P731ABX4-S151	WT	Pan-ABX4	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Actinobacteriota	0.204119982655925	0.000281148962091748	0.0281148962091748	6
+Bacteria	Actinobacteriota	P731ABX5-S152	WT	Pan-ABX5	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Actinobacteriota	0.732393759822969	0.00157075539054691	0.157075539054691	44
+Bacteria	Actinobacteriota	P731ABX6-S153	WT	Pan-ABX6	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Actinobacteriota	0.57978359661681	0.00149884909801402	0.149884909801402	28
+Bacteria	Actinobacteriota	P731ABX8-S155	WT	Pan-ABX8	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Actinobacteriota	1.58771096501891	0.0348880251712012	3.48880251712012	377
+Bacteria	Actinobacteriota	P731CT1-S131	WT	Pan-CT1	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Actinobacteriota	2.3236645356081	0.0637676752318686	6.37676752318686	2097
+Bacteria	Actinobacteriota	P731CT2-S132	WT	Pan-CT2	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Actinobacteriota	1.89707700320942	0.0214955849889625	2.14955849889625	779
+Bacteria	Actinobacteriota	P731CT3-S133	WT	Pan-CT3	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Actinobacteriota	1.82930377283102	0.0208771544281543	2.08771544281543	665
+Bacteria	Actinobacteriota	P731CT4-S134	WT	Pan-CT4	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Actinobacteriota	1.76937732607614	0.0173178331735379	1.73178331735379	578
+Bacteria	Actinobacteriota	P731CT5-S135	WT	Pan-CT5	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Actinobacteriota	1.50242711998443	0.00881965523165913	0.881965523165913	308
+Bacteria	Actinobacteriota	P731CT6-S136	WT	Pan-CT6	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Actinobacteriota	2.22089224921952	0.0468497576736672	4.68497576736672	1653
+Bacteria	Actinobacteriota	P731CT7-S137	WT	Pan-CT7	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Actinobacteriota	2.02325245963371	0.0288785718233571	2.88785718233571	1045
+Bacteria	Actinobacteriota	P731SA1-S156	WT	Pan-SA1	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Actinobacteriota	1.73078227566639	0.0233380480905233	2.33380480905233	528
+Bacteria	Actinobacteriota	P731SA2-S157	WT	Pan-SA2	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Actinobacteriota	2.01577875638904	0.0397769084782525	3.97769084782525	1027
+Bacteria	Actinobacteriota	P731SA3-S158	WT	Pan-SA3	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Actinobacteriota	1.47712125471966	0.0280464216634429	2.80464216634429	290
+Bacteria	Actinobacteriota	P731SA5-S160	WT	Pan-SA5	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Actinobacteriota	0.278753600952829	0.000902889245585875	0.0902889245585875	9
+Bacteria	Actinobacteriota	P731SA6-S161	WT	Pan-SA6	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Actinobacteriota	1.13353890837022	0.0051698670605613	0.51698670605613	126
+Bacteria	Actinobacteriota	P731SA7-S162	WT	Pan-SA7	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Actinobacteriota	0.230448921378274	0.000398066533977822	0.0398066533977822	7
+Bacteria	Actinobacteriota	P731SA8-S163	WT	Pan-SA8	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Actinobacteriota	0.806179973983887	0.00236313509255612	0.236313509255612	54
+Bacteria	Actinobacteriota	P731SM1-S138	WT	Pan-SM1	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Actinobacteriota	2.22608411597582	0.0497088186356073	4.97088186356073	1673
+Bacteria	Actinobacteriota	P731SM10-S147	WT	Pan-SM10	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Actinobacteriota	1.85853719756964	0.0275052151742254	2.75052151742254	712
+Bacteria	Actinobacteriota	P731SM2-S139	WT	Pan-SM2	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Actinobacteriota	2.05956341790127	0.0404885691902286	4.04885691902286	1137
+Bacteria	Actinobacteriota	P731SM3-S140	WT	Pan-SM3	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Actinobacteriota	2.19368102954128	0.0409617567103909	4.09617567103909	1552
+Bacteria	Actinobacteriota	P731SM4-S141	WT	Pan-SM4	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Actinobacteriota	1.959518376973	0.0335818114051435	3.35818114051435	901
+Bacteria	Actinobacteriota	P731SM5-S142	WT	Pan-SM5	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Actinobacteriota	2.03221570329798	0.0374701503020087	3.74701503020087	1067
+Bacteria	Actinobacteriota	P731SM6-S143	WT	Pan-SM6	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Actinobacteriota	2.02325245963371	0.0446600282063336	4.46600282063336	1045
+Bacteria	Actinobacteriota	P731SM7-S144	WT	Pan-SM7	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Actinobacteriota	1.91539983521227	0.0277920213311455	2.77920213311455	813
+Bacteria	Actinobacteriota	P731SM8-S145	WT	Pan-SM8	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Actinobacteriota	1.8394780473742	0.0483596080102258	4.83596080102258	681
+Bacteria	Actinobacteriota	P731SM9-S146	WT	Pan-SM9	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Actinobacteriota	1.93145787068901	0.0331318206799089	3.31318206799089	844
+Bacteria	Actinobacteriota	S731ABX1-S90	WT	Pan-ABX1	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Bacteria_/_Actinobacteriota	0.959041392321094	0.00444127645575173	0.444127645575173	81
+Bacteria	Actinobacteriota	S731ABX2-S91	WT	Pan-ABX2	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Bacteria_/_Actinobacteriota	1.00432137378264	0.00425392670157068	0.425392670157068	91
+Bacteria	Actinobacteriota	S731ABX3-S92	WT	Pan-ABX3	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Bacteria_/_Actinobacteriota	1.00860017176192	0.00341651812240048	0.341651812240048	92
+Bacteria	Actinobacteriota	S731ABX4-S93	WT	Pan-ABX4	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Bacteria_/_Actinobacteriota	1.53907609879278	0.0144342297448234	1.44342297448234	336
+Bacteria	Actinobacteriota	S731CT1-S34	WT	Pan-CT1	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Actinobacteriota	1.91645394854993	0.0332761718112037	3.32761718112037	815
+Bacteria	Actinobacteriota	S731CT2-S35	WT	Pan-CT2	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Actinobacteriota	2.33223641549144	0.0604459264701727	6.04459264701727	2139
+Bacteria	Actinobacteriota	S731CT3-S36	WT	Pan-CT3	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Actinobacteriota	2.11394335230684	0.0310282621767889	3.10282621767889	1290
+Bacteria	Actinobacteriota	S731CT4-S37	WT	Pan-CT4	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Actinobacteriota	2.25163822044821	0.0592298451681794	5.92298451681794	1775
+Bacteria	Actinobacteriota	S731CT5-S38	WT	Pan-CT5	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Actinobacteriota	2.35621713421974	0.0852531955808604	8.52531955808604	2261
+Bacteria	Actinobacteriota	S731CT6-S39	WT	Pan-CT6	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Actinobacteriota	2.16046853111904	0.0396206126444071	3.96206126444071	1437
+Bacteria	Actinobacteriota	S731CT7-S40	WT	Pan-CT7	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Actinobacteriota	1.99475694458763	0.0267798466593647	2.67798466593647	978
+Bacteria	Actinobacteriota	S731CT8-S41	WT	Pan-CT8	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Actinobacteriota	2.43408963841789	0.0778992805755396	7.78992805755396	2707
+Bacteria	Actinobacteriota	S731CT9-S42	WT	Pan-CT9	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Actinobacteriota	2.14921911265538	0.0369285959220279	3.69285959220279	1400
+Bacteria	Actinobacteriota	S731SA1-S52	WT	Pan-SA1	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Actinobacteriota	1.09342168516224	0.00551497266702143	0.551497266702143	114
+Bacteria	Actinobacteriota	S731SA2-S53	WT	Pan-SA2	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Actinobacteriota	1.02530586526477	0.00372656340980552	0.372656340980552	96
+Bacteria	Actinobacteriota	S731SA3-S54	WT	Pan-SA3	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Actinobacteriota	1	0.00412673666834793	0.412673666834793	90
+Bacteria	Actinobacteriota	S731SA4-S55	WT	Pan-SA4	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Actinobacteriota	0.447158031342219	0.0011892177589852	0.11892177589852	18
+Bacteria	Actinobacteriota	S731SA5-S56	WT	Pan-SA5	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Actinobacteriota	0.763427993562937	0.00245198201879853	0.245198201879853	48
+Bacteria	Actinobacteriota	S731SA6-S57	WT	Pan-SA6	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Actinobacteriota	0.949390006644913	0.00478933010003031	0.478933010003031	79
+Bacteria	Actinobacteriota	S731SM1-S43	WT	Pan-SM1	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Actinobacteriota	2.11859536522376	0.0425684719093788	4.25684719093788	1304
+Bacteria	Actinobacteriota	S731SM2-S44	WT	Pan-SM2	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Actinobacteriota	2.11826472608948	0.0366144940568185	3.66144940568185	1303
+Bacteria	Actinobacteriota	S731SM3-S45	WT	Pan-SM3	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Actinobacteriota	2.08386080086657	0.0413075576005219	4.13075576005219	1203
+Bacteria	Actinobacteriota	S731SM4-S46	WT	Pan-SM4	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Actinobacteriota	1.71683772329952	0.0208189040537788	2.08189040537788	511
+Bacteria	Actinobacteriota	S731SM5-S47	WT	Pan-SM5	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Actinobacteriota	2.16702179579026	0.0433452168746286	4.33452168746286	1459
+Bacteria	Actinobacteriota	S731SM6-S48	WT	Pan-SM6	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Actinobacteriota	2.15320490008428	0.0441217798594848	4.41217798594848	1413
+Bacteria	Actinobacteriota	S731SM7-S49	WT	Pan-SM7	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Actinobacteriota	1.92324401863028	0.037880867416964	3.7880867416964	828
+Bacteria	Actinobacteriota	S731SM8-S50	WT	Pan-SM8	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Actinobacteriota	1.97081161087252	0.036118703631394	3.6118703631394	925
+Bacteria	Actinobacteriota	S731SM9-S51	WT	Pan-SM9	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Actinobacteriota	2.07736790528416	0.0357336710692962	3.57336710692962	1185
+Bacteria	Bacteroidota	P731ABX1-S148	WT	Pan-ABX1	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Bacteroidota	0.491361693834273	0.00141433189655172	0.141433189655172	21
+Bacteria	Bacteroidota	P731ABX2-S149	WT	Pan-ABX2	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Bacteroidota	0.491361693834273	0.000862777321281841	0.0862777321281841	21
+Bacteria	Bacteroidota	P731ABX3-S150	WT	Pan-ABX3	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Bacteroidota	0.832508912706236	0.00381930725668379	0.381930725668379	58
+Bacteria	Bacteroidota	P731ABX4-S151	WT	Pan-ABX4	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Bacteroidota	0.653212513775344	0.00164003561220186	0.164003561220186	35
+Bacteria	Bacteroidota	P731ABX5-S152	WT	Pan-ABX5	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Bacteroidota	0.518513939877887	0.000821076681422248	0.0821076681422248	23
+Bacteria	Bacteroidota	P731ABX6-S153	WT	Pan-ABX6	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Bacteroidota	1.53402610605614	0.017772067876452	1.7772067876452	332
+Bacteria	Bacteroidota	P731ABX8-S155	WT	Pan-ABX8	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Bacteroidota	2.61002102466415	0.376087358874699	37.6087358874699	4064
+Bacteria	Bacteroidota	P731CT1-S131	WT	Pan-CT1	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Bacteroidota	2.97510998968616	0.286848107039684	28.6848107039684	9433
+Bacteria	Bacteroidota	P731CT2-S132	WT	Pan-CT2	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Bacteroidota	2.94502520124246	0.242853200883002	24.2853200883002	8801
+Bacteria	Bacteroidota	P731CT3-S133	WT	Pan-CT3	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Bacteroidota	3.17583060416225	0.470316767651399	47.0316767651399	14981
+Bacteria	Bacteroidota	P731CT4-S134	WT	Pan-CT4	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Bacteroidota	3.14379520384577	0.416916347075743	41.6916347075743	13915
+Bacteria	Bacteroidota	P731CT5-S135	WT	Pan-CT5	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Bacteroidota	2.88930170250631	0.221636790561824	22.1636790561824	7740
+Bacteria	Bacteroidota	P731CT6-S136	WT	Pan-CT6	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Bacteroidota	3.20455406013524	0.453646231896381	45.3646231896381	16006
+Bacteria	Bacteroidota	P731CT7-S137	WT	Pan-CT7	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Bacteroidota	3.12804367382646	0.370834024208257	37.0834024208257	13419
+Bacteria	Bacteroidota	P731SA1-S156	WT	Pan-SA1	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Bacteroidota	2.91067775474271	0.359397100424328	35.9397100424328	8131
+Bacteria	Bacteroidota	P731SA2-S157	WT	Pan-SA2	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Bacteroidota	3.00186346269252	0.38858979821062	38.858979821062	10033
+Bacteria	Bacteroidota	P731SA3-S158	WT	Pan-SA3	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Bacteroidota	2.54752857645978	0.340232108317215	34.0232108317215	3518
+Bacteria	Bacteroidota	P731SA5-S160	WT	Pan-SA5	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Bacteroidota	0.431363764158987	0.00170545746388443	0.170545746388443	17
+Bacteria	Bacteroidota	P731SA6-S161	WT	Pan-SA6	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Bacteroidota	0.278753600952829	0.000369276218611521	0.0369276218611521	9
+Bacteria	Bacteroidota	P731SA7-S162	WT	Pan-SA7	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Bacteroidota	0.531478917042255	0.00136479954506682	0.136479954506682	24
+Bacteria	Bacteroidota	P731SA8-S163	WT	Pan-SA8	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Bacteroidota	2.02938377768521	0.0463874666316573	4.63874666316573	1060
+Bacteria	Bacteroidota	P731SM1-S138	WT	Pan-SM1	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Bacteroidota	3.1003360759337	0.374049203708106	37.4049203708106	12589
+Bacteria	Bacteroidota	P731SM10-S147	WT	Pan-SM10	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Bacteroidota	3.06840851977816	0.451827242524917	45.1827242524917	11696
+Bacteria	Bacteroidota	P731SM2-S139	WT	Pan-SM2	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Bacteroidota	3.04004824154746	0.390143152197137	39.0143152197137	10956
+Bacteria	Bacteroidota	P731SM3-S140	WT	Pan-SM3	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Bacteroidota	3.23651206966283	0.4547230066774	45.47230066774	17229
+Bacteria	Bacteroidota	P731SM4-S141	WT	Pan-SM4	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Bacteroidota	3.06471998444091	0.432240029817369	43.2240029817369	11597
+Bacteria	Bacteroidota	P731SM5-S142	WT	Pan-SM5	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Bacteroidota	3.06576638762275	0.408238516645596	40.8238516645596	11625
+Bacteria	Bacteroidota	P731SM6-S143	WT	Pan-SM6	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Bacteroidota	2.95293766775098	0.383050557716142	38.3050557716142	8963
+Bacteria	Bacteroidota	P731SM7-S144	WT	Pan-SM7	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Bacteroidota	3.04618289074088	0.379858476053738	37.9858476053738	11112
+Bacteria	Bacteroidota	P731SM8-S145	WT	Pan-SM8	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Bacteroidota	2.72230478687433	0.373952563556313	37.3952563556313	5266
+Bacteria	Bacteroidota	P731SM9-S146	WT	Pan-SM9	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Bacteroidota	3.05010896291787	0.440174295359975	44.0174295359975	11213
+Bacteria	Bacteroidota	S731ABX1-S90	WT	Pan-ABX1	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Bacteria_/_Bacteroidota	0.322219294733919	0.00060313630880579	0.060313630880579	11
+Bacteria	Bacteroidota	S731ABX2-S91	WT	Pan-ABX2	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Bacteria_/_Bacteroidota	0.838849090737255	0.00275804038893044	0.275804038893044	59
+Bacteria	Bacteroidota	S731ABX3-S92	WT	Pan-ABX3	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Bacteria_/_Bacteroidota	0.785329835010767	0.00189393939393939	0.189393939393939	51
+Bacteria	Bacteroidota	S731ABX4-S93	WT	Pan-ABX4	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Bacteria_/_Bacteroidota	0.491361693834273	0.000902139359051465	0.0902139359051465	21
+Bacteria	Bacteroidota	S731CT1-S34	WT	Pan-CT1	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Bacteroidota	2.9810026899414	0.39041319614568	39.041319614568	9562
+Bacteria	Bacteroidota	S731CT2-S35	WT	Pan-CT2	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Bacteroidota	3.18576873343361	0.433153417921836	43.3153417921836	15328
+Bacteria	Bacteroidota	S731CT3-S36	WT	Pan-CT3	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Bacteroidota	3.30796644702827	0.488562838244137	48.8562838244137	20312
+Bacteria	Bacteroidota	S731CT4-S37	WT	Pan-CT4	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Bacteroidota	2.89608508542329	0.262346502936466	26.2346502936466	7862
+Bacteria	Bacteroidota	S731CT5-S38	WT	Pan-CT5	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Bacteroidota	3.09394672389058	0.467742543644659	46.7742543644659	12405
+Bacteria	Bacteroidota	S731CT6-S39	WT	Pan-CT6	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Bacteroidota	3.27172546949024	0.515178251399267	51.5178251399267	18685
+Bacteria	Bacteroidota	S731CT7-S40	WT	Pan-CT7	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Bacteroidota	3.20991695300899	0.443729463307777	44.3729463307777	16205
+Bacteria	Bacteroidota	S731CT8-S41	WT	Pan-CT8	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Bacteroidota	3.23741805604624	0.496834532374101	49.6834532374101	17265
+Bacteria	Bacteroidota	S731CT9-S42	WT	Pan-CT9	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Bacteroidota	3.20167017964658	0.419403339400174	41.9403339400174	15900
+Bacteria	Bacteroidota	S731SA1-S52	WT	Pan-SA1	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Bacteroidota	0.924279286061882	0.00357989453824198	0.357989453824198	74
+Bacteria	Bacteroidota	S731SA2-S53	WT	Pan-SA2	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Bacteroidota	0.462397997898956	0.000737549008190676	0.0737549008190676	19
+Bacteria	Bacteroidota	S731SA3-S54	WT	Pan-SA3	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Bacteroidota	1.63144376901317	0.0191663991929937	1.91663991929937	418
+Bacteria	Bacteroidota	S731SA4-S55	WT	Pan-SA4	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Bacteroidota	0.361727836017593	0.000858879492600423	0.0858879492600423	13
+Bacteria	Bacteroidota	S731SA5-S56	WT	Pan-SA5	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Bacteroidota	0.322219294733919	0.000561912545974663	0.0561912545974663	11
+Bacteria	Bacteroidota	S731SA6-S57	WT	Pan-SA6	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Bacteroidota	0.414973347970818	0.000969990906335253	0.0969990906335253	16
+Bacteria	Bacteroidota	S731SM1-S43	WT	Pan-SM1	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Bacteroidota	3.07202920082792	0.385009630137434	38.5009630137434	11794
+Bacteria	Bacteroidota	S731SM2-S44	WT	Pan-SM2	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Bacteroidota	3.17539583139403	0.420546828898193	42.0546828898193	14966
+Bacteria	Bacteroidota	S731SM3-S45	WT	Pan-SM3	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Bacteroidota	3.09243991133114	0.424475500463551	42.4475500463551	12362
+Bacteria	Bacteroidota	S731SM4-S46	WT	Pan-SM4	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Bacteroidota	3.03988979773618	0.446200855571399	44.6200855571399	10952
+Bacteria	Bacteroidota	S731SM5-S47	WT	Pan-SM5	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Bacteroidota	3.11203495117343	0.384224598930481	38.4224598930481	12933
+Bacteria	Bacteroidota	S731SM6-S48	WT	Pan-SM6	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Bacteroidota	3.08461202086525	0.379110070257611	37.9110070257611	12141
+Bacteria	Bacteroidota	S731SM7-S49	WT	Pan-SM7	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Bacteroidota	2.93135615046793	0.390154634458779	39.0154634458779	8528
+Bacteria	Bacteroidota	S731SM8-S50	WT	Pan-SM8	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Bacteroidota	3.0605089756053	0.448457633736822	44.8457633736822	11485
+Bacteria	Bacteroidota	S731SM9-S51	WT	Pan-SM9	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Bacteroidota	3.11444417244525	0.39216573186177	39.216573186177	13005
+Bacteria	Campilobacterota	P731ABX1-S148	WT	Pan-ABX1	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Campilobacterota	0.491361693834273	0.00141433189655172	0.141433189655172	21
+Bacteria	Campilobacterota	P731ABX2-S149	WT	Pan-ABX2	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Campilobacterota	0.322219294733919	0.000451930977814297	0.0451930977814297	11
+Bacteria	Campilobacterota	P731ABX3-S150	WT	Pan-ABX3	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Campilobacterota	0.397940008672038	0.000987751876728566	0.0987751876728566	15
+Bacteria	Campilobacterota	P731ABX4-S151	WT	Pan-ABX4	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	P731ABX5-S152	WT	Pan-ABX5	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	P731ABX6-S153	WT	Pan-ABX6	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Campilobacterota	1.88930170250631	0.0409506985707403	4.09506985707403	765
+Bacteria	Campilobacterota	P731ABX8-S155	WT	Pan-ABX8	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	P731CT1-S131	WT	Pan-CT1	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Campilobacterota	2.75610337158511	0.173118443059146	17.3118443059146	5693
+Bacteria	Campilobacterota	P731CT2-S132	WT	Pan-CT2	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Campilobacterota	2.87823446867504	0.208195364238411	20.8195364238411	7545
+Bacteria	Campilobacterota	P731CT3-S133	WT	Pan-CT3	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Campilobacterota	2.50242711998443	0.0995196684770665	9.95196684770665	3170
+Bacteria	Campilobacterota	P731CT4-S134	WT	Pan-CT4	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Campilobacterota	2.67292869044272	0.14078978906999	14.078978906999	4699
+Bacteria	Campilobacterota	P731CT5-S135	WT	Pan-CT5	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Campilobacterota	2.99532800907741	0.283002119008075	28.3002119008075	9883
+Bacteria	Campilobacterota	P731CT6-S136	WT	Pan-CT6	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Campilobacterota	2.648164778574	0.125782954964147	12.5782954964147	4438
+Bacteria	Campilobacterota	P731CT7-S137	WT	Pan-CT7	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Campilobacterota	2.62438524142026	0.116094622229592	11.6094622229592	4201
+Bacteria	Campilobacterota	P731SA1-S156	WT	Pan-SA1	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	P731SA2-S157	WT	Pan-SA2	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	P731SA3-S158	WT	Pan-SA3	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	P731SA5-S160	WT	Pan-SA5	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Campilobacterota	0.204119982655925	0.000601926163723917	0.0601926163723917	6
+Bacteria	Campilobacterota	P731SA6-S161	WT	Pan-SA6	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	P731SA7-S162	WT	Pan-SA7	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Campilobacterota	0.113943352306837	0.000170599943133352	0.0170599943133352	3
+Bacteria	Campilobacterota	P731SA8-S163	WT	Pan-SA8	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Campilobacterota	0.431363764158987	0.000743949936545447	0.0743949936545447	17
+Bacteria	Campilobacterota	P731SM1-S138	WT	Pan-SM1	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	P731SM10-S147	WT	Pan-SM10	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	P731SM2-S139	WT	Pan-SM2	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	P731SM3-S140	WT	Pan-SM3	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	P731SM4-S141	WT	Pan-SM4	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	P731SM5-S142	WT	Pan-SM5	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	P731SM6-S143	WT	Pan-SM6	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	P731SM7-S144	WT	Pan-SM7	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	P731SM8-S145	WT	Pan-SM8	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	P731SM9-S146	WT	Pan-SM9	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	S731ABX1-S90	WT	Pan-ABX1	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Bacteria_/_Campilobacterota	0.414973347970818	0.000877289176444786	0.0877289176444786	16
+Bacteria	Campilobacterota	S731ABX2-S91	WT	Pan-ABX2	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Bacteria_/_Campilobacterota	0.255272505103306	0.00037397157816006	0.037397157816006	8
+Bacteria	Campilobacterota	S731ABX3-S92	WT	Pan-ABX3	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Bacteria_/_Campilobacterota	2.10311925354571	0.0467171717171717	4.67171717171717	1258
+Bacteria	Campilobacterota	S731ABX4-S93	WT	Pan-ABX4	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	S731CT1-S34	WT	Pan-CT1	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Campilobacterota	2.57749179983723	0.153927813163482	15.3927813163482	3770
+Bacteria	Campilobacterota	S731CT2-S35	WT	Pan-CT2	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Campilobacterota	2.56702636615906	0.103992991776641	10.3992991776641	3680
+Bacteria	Campilobacterota	S731CT3-S36	WT	Pan-CT3	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	S731CT4-S37	WT	Pan-CT4	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Campilobacterota	2.66417170536193	0.153663908168713	15.3663908168713	4605
+Bacteria	Campilobacterota	S731CT5-S38	WT	Pan-CT5	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	S731CT6-S39	WT	Pan-CT6	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	S731CT7-S40	WT	Pan-CT7	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Campilobacterota	0.361727836017593	0.000355969331872946	0.0355969331872946	13
+Bacteria	Campilobacterota	S731CT8-S41	WT	Pan-CT8	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Campilobacterota	0.342422680822206	0.000345323741007194	0.0345323741007194	12
+Bacteria	Campilobacterota	S731CT9-S42	WT	Pan-CT9	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Campilobacterota	2.64058080648965	0.115032576297117	11.5032576297117	4361
+Bacteria	Campilobacterota	S731SA1-S52	WT	Pan-SA1	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	S731SA2-S53	WT	Pan-SA2	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Campilobacterota	0.230448921378274	0.000271728581964986	0.0271728581964986	7
+Bacteria	Campilobacterota	S731SA3-S54	WT	Pan-SA3	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	S731SA4-S55	WT	Pan-SA4	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	S731SA5-S56	WT	Pan-SA5	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	S731SA6-S57	WT	Pan-SA6	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Campilobacterota	0.929418925714293	0.0045468323734465	0.45468323734465	75
+Bacteria	Campilobacterota	S731SM1-S43	WT	Pan-SM1	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Campilobacterota	0.176091259055681	0.000163222668364182	0.0163222668364182	5
+Bacteria	Campilobacterota	S731SM2-S44	WT	Pan-SM2	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Campilobacterota	0.301029995663981	0.000281001489307893	0.0281001489307893	10
+Bacteria	Campilobacterota	S731SM3-S45	WT	Pan-SM3	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	S731SM4-S46	WT	Pan-SM4	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	S731SM5-S47	WT	Pan-SM5	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Campilobacterota	0.230448921378274	0.000207961972667855	0.0207961972667855	7
+Bacteria	Campilobacterota	S731SM6-S48	WT	Pan-SM6	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Campilobacterota	0.278753600952829	0.000281030444964871	0.0281030444964871	9
+Bacteria	Campilobacterota	S731SM7-S49	WT	Pan-SM7	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	S731SM8-S50	WT	Pan-SM8	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	S731SM9-S51	WT	Pan-SM9	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Deferribacterota	P731ABX1-S148	WT	Pan-ABX1	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	P731ABX2-S149	WT	Pan-ABX2	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	P731ABX3-S150	WT	Pan-ABX3	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	P731ABX4-S151	WT	Pan-ABX4	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	P731ABX5-S152	WT	Pan-ABX5	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	P731ABX6-S153	WT	Pan-ABX6	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Deferribacterota	1.44715803134222	0.0144531877308495	1.44531877308495	270
+Bacteria	Deferribacterota	P731ABX8-S155	WT	Pan-ABX8	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	P731CT1-S131	WT	Pan-CT1	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Deferribacterota	1.0899051114394	0.0034362171202676	0.34362171202676	113
+Bacteria	Deferribacterota	P731CT2-S132	WT	Pan-CT2	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Deferribacterota	2.60519726738838	0.110899558498896	11.0899558498896	4019
+Bacteria	Deferribacterota	P731CT3-S133	WT	Pan-CT3	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Deferribacterota	2.06333335895175	0.0360091671114181	3.60091671114181	1147
+Bacteria	Deferribacterota	P731CT4-S134	WT	Pan-CT4	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Deferribacterota	1.81756536955978	0.0193851869606903	1.93851869606903	647
+Bacteria	Deferribacterota	P731CT5-S135	WT	Pan-CT5	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Deferribacterota	2.58512218630682	0.109873432220377	10.9873432220377	3837
+Bacteria	Deferribacterota	P731CT6-S136	WT	Pan-CT6	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Deferribacterota	1.96614173273903	0.0259331689482187	2.59331689482187	915
+Bacteria	Deferribacterota	P731CT7-S137	WT	Pan-CT7	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Deferribacterota	1.69108149212297	0.0132924335378323	1.32924335378323	481
+Bacteria	Deferribacterota	P731SA1-S156	WT	Pan-SA1	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	P731SA2-S157	WT	Pan-SA2	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	P731SA3-S158	WT	Pan-SA3	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	P731SA5-S160	WT	Pan-SA5	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	P731SA6-S161	WT	Pan-SA6	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	P731SA7-S162	WT	Pan-SA7	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	P731SA8-S163	WT	Pan-SA8	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	P731SM1-S138	WT	Pan-SM1	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	P731SM10-S147	WT	Pan-SM10	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	P731SM2-S139	WT	Pan-SM2	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	P731SM3-S140	WT	Pan-SM3	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	P731SM4-S141	WT	Pan-SM4	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	P731SM5-S142	WT	Pan-SM5	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	P731SM6-S143	WT	Pan-SM6	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	P731SM7-S144	WT	Pan-SM7	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	P731SM8-S145	WT	Pan-SM8	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	P731SM9-S146	WT	Pan-SM9	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	S731ABX1-S90	WT	Pan-ABX1	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Bacteria_/_Deferribacterota	0.176091259055681	0.000274152867638995	0.0274152867638995	5
+Bacteria	Deferribacterota	S731ABX2-S91	WT	Pan-ABX2	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	S731ABX3-S92	WT	Pan-ABX3	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Bacteria_/_Deferribacterota	1.37291200297011	0.00839275103980986	0.839275103980986	226
+Bacteria	Deferribacterota	S731ABX4-S93	WT	Pan-ABX4	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	S731CT1-S34	WT	Pan-CT1	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Deferribacterota	2.18780263871842	0.062510207414666	6.2510207414666	1531
+Bacteria	Deferribacterota	S731CT2-S35	WT	Pan-CT2	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Deferribacterota	2.37383114507383	0.066549862944019	6.6549862944019	2355
+Bacteria	Deferribacterota	S731CT3-S36	WT	Pan-CT3	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	S731CT4-S37	WT	Pan-CT4	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Deferribacterota	2.03100428136354	0.0355045381740523	3.55045381740523	1064
+Bacteria	Deferribacterota	S731CT5-S38	WT	Pan-CT5	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	S731CT6-S39	WT	Pan-CT6	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	S731CT7-S40	WT	Pan-CT7	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	S731CT8-S41	WT	Pan-CT8	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	S731CT9-S42	WT	Pan-CT9	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Deferribacterota	1.85913829729453	0.0188072063517185	1.88072063517185	713
+Bacteria	Deferribacterota	S731SA1-S52	WT	Pan-SA1	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	S731SA2-S53	WT	Pan-SA2	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	S731SA3-S54	WT	Pan-SA3	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	S731SA4-S55	WT	Pan-SA4	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	S731SA5-S56	WT	Pan-SA5	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	S731SA6-S57	WT	Pan-SA6	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Deferribacterota	0.146128035678238	0.000242497726583813	0.0242497726583813	4
+Bacteria	Deferribacterota	S731SM1-S43	WT	Pan-SM1	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	S731SM2-S44	WT	Pan-SM2	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	S731SM3-S45	WT	Pan-SM3	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	S731SM4-S46	WT	Pan-SM4	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	S731SM5-S47	WT	Pan-SM5	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	S731SM6-S48	WT	Pan-SM6	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	S731SM7-S49	WT	Pan-SM7	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	S731SM8-S50	WT	Pan-SM8	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	S731SM9-S51	WT	Pan-SM9	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Desulfobacterota	P731ABX1-S148	WT	Pan-ABX1	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	P731ABX2-S149	WT	Pan-ABX2	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	P731ABX3-S150	WT	Pan-ABX3	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	P731ABX4-S151	WT	Pan-ABX4	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	P731ABX5-S152	WT	Pan-ABX5	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	P731ABX6-S153	WT	Pan-ABX6	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	P731ABX8-S155	WT	Pan-ABX8	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0.602059991327962	0.00277623542476402	0.277623542476402	30
+Bacteria	Desulfobacterota	P731CT1-S131	WT	Pan-CT1	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0.681241237375587	0.00115554204044397	0.115554204044397	38
+Bacteria	Desulfobacterota	P731CT2-S132	WT	Pan-CT2	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Desulfobacterota	1.61489721603313	0.0110927152317881	1.10927152317881	402
+Bacteria	Desulfobacterota	P731CT3-S133	WT	Pan-CT3	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Desulfobacterota	2.09131515969722	0.0384265218346781	3.84265218346781	1224
+Bacteria	Desulfobacterota	P731CT4-S134	WT	Pan-CT4	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Desulfobacterota	2.10243370568134	0.0376318312559923	3.76318312559923	1256
+Bacteria	Desulfobacterota	P731CT5-S135	WT	Pan-CT5	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Desulfobacterota	1.55022835305509	0.00987915926922857	0.987915926922857	345
+Bacteria	Desulfobacterota	P731CT6-S136	WT	Pan-CT6	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Desulfobacterota	1.63948648926859	0.0120738032480231	1.20738032480231	426
+Bacteria	Desulfobacterota	P731CT7-S137	WT	Pan-CT7	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Desulfobacterota	1.84010609445676	0.0188470679268225	1.88470679268225	682
+Bacteria	Desulfobacterota	P731SA1-S156	WT	Pan-SA1	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Desulfobacterota	1.26007138798507	0.0076025459688826	0.76025459688826	172
+Bacteria	Desulfobacterota	P731SA2-S157	WT	Pan-SA2	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Desulfobacterota	1.21218760440396	0.0059258685464193	0.59258685464193	153
+Bacteria	Desulfobacterota	P731SA3-S158	WT	Pan-SA3	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0.518513939877887	0.00222437137330754	0.222437137330754	23
+Bacteria	Desulfobacterota	P731SA5-S160	WT	Pan-SA5	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	P731SA6-S161	WT	Pan-SA6	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	P731SA7-S162	WT	Pan-SA7	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	P731SA8-S163	WT	Pan-SA8	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	P731SM1-S138	WT	Pan-SM1	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Desulfobacterota	1.81291335664286	0.0190159258378892	1.90159258378892	640
+Bacteria	Desulfobacterota	P731SM10-S147	WT	Pan-SM10	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Desulfobacterota	1.36921585741014	0.00865332612222823	0.865332612222823	224
+Bacteria	Desulfobacterota	P731SM2-S139	WT	Pan-SM2	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Desulfobacterota	1.78887511577542	0.021544049569119	2.1544049569119	605
+Bacteria	Desulfobacterota	P731SM3-S140	WT	Pan-SM3	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Desulfobacterota	1.13987908640124	0.00337828921322811	0.337828921322811	128
+Bacteria	Desulfobacterota	P731SM4-S141	WT	Pan-SM4	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Desulfobacterota	1.36921585741014	0.00834886321282147	0.834886321282147	224
+Bacteria	Desulfobacterota	P731SM5-S142	WT	Pan-SM5	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Desulfobacterota	1.72181061521255	0.0181556398370558	1.81556398370558	517
+Bacteria	Desulfobacterota	P731SM6-S143	WT	Pan-SM6	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Desulfobacterota	1.1430148002541	0.00551305611350912	0.551305611350912	129
+Bacteria	Desulfobacterota	P731SM7-S144	WT	Pan-SM7	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Desulfobacterota	1.51454775266029	0.010836495402181	1.0836495402181	317
+Bacteria	Desulfobacterota	P731SM8-S145	WT	Pan-SM8	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Desulfobacterota	1.08278537031645	0.00788240306774606	0.788240306774606	111
+Bacteria	Desulfobacterota	P731SM9-S146	WT	Pan-SM9	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0.99563519459755	0.00349375834183874	0.349375834183874	89
+Bacteria	Desulfobacterota	S731ABX1-S90	WT	Pan-ABX1	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	S731ABX2-S91	WT	Pan-ABX2	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	S731ABX3-S92	WT	Pan-ABX3	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	S731ABX4-S93	WT	Pan-ABX4	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	S731CT1-S34	WT	Pan-CT1	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Desulfobacterota	1.90417436828416	0.0323370896619304	3.23370896619304	792
+Bacteria	Desulfobacterota	S731CT2-S35	WT	Pan-CT2	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Desulfobacterota	1.43616264704076	0.00743210783621104	0.743210783621104	263
+Bacteria	Desulfobacterota	S731CT3-S36	WT	Pan-CT3	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	S731CT4-S37	WT	Pan-CT4	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Desulfobacterota	1.65224634100332	0.0146489588894821	1.46489588894821	439
+Bacteria	Desulfobacterota	S731CT5-S38	WT	Pan-CT5	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	S731CT6-S39	WT	Pan-CT6	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	S731CT7-S40	WT	Pan-CT7	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	S731CT8-S41	WT	Pan-CT8	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	S731CT9-S42	WT	Pan-CT9	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Desulfobacterota	1.41664050733828	0.00662076969744929	0.662076969744929	251
+Bacteria	Desulfobacterota	S731SA1-S52	WT	Pan-SA1	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	S731SA2-S53	WT	Pan-SA2	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	S731SA3-S54	WT	Pan-SA3	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	S731SA4-S55	WT	Pan-SA4	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	S731SA5-S56	WT	Pan-SA5	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	S731SA6-S57	WT	Pan-SA6	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	S731SM1-S43	WT	Pan-SM1	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	S731SM2-S44	WT	Pan-SM2	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	S731SM3-S45	WT	Pan-SM3	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	S731SM4-S46	WT	Pan-SM4	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	S731SM5-S47	WT	Pan-SM5	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	S731SM6-S48	WT	Pan-SM6	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	S731SM7-S49	WT	Pan-SM7	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	S731SM8-S50	WT	Pan-SM8	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	S731SM9-S51	WT	Pan-SM9	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Firmicutes	P731ABX1-S148	WT	Pan-ABX1	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Firmicutes	1.01703333929878	0.00633081896551724	0.633081896551724	94
+Bacteria	Firmicutes	P731ABX2-S149	WT	Pan-ABX2	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Firmicutes	1.27875360095283	0.00739523418241578	0.739523418241578	180
+Bacteria	Firmicutes	P731ABX3-S150	WT	Pan-ABX3	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Firmicutes	1.50379068305718	0.0203476886606085	2.03476886606085	309
+Bacteria	Firmicutes	P731ABX4-S151	WT	Pan-ABX4	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Firmicutes	0.819543935541869	0.00262405697952298	0.262405697952298	56
+Bacteria	Firmicutes	P731ABX5-S152	WT	Pan-ABX5	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Firmicutes	1.46239799789896	0.00999571612166215	0.999571612166215	280
+Bacteria	Firmicutes	P731ABX6-S153	WT	Pan-ABX6	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Firmicutes	1.95568775031351	0.0478025801616616	4.78025801616616	893
+Bacteria	Firmicutes	P731ABX8-S155	WT	Pan-ABX8	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Firmicutes	2.58838376837873	0.357764205071257	35.7764205071257	3866
+Bacteria	Firmicutes	P731CT1-S131	WT	Pan-CT1	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Firmicutes	3.16722869417599	0.446616998631595	44.6616998631595	14687
+Bacteria	Firmicutes	P731CT2-S132	WT	Pan-CT2	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Firmicutes	3.11846313977537	0.36219646799117	36.219646799117	13126
+Bacteria	Firmicutes	P731CT3-S133	WT	Pan-CT3	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Firmicutes	3.01573687447745	0.32521269582143	32.521269582143	10359
+Bacteria	Firmicutes	P731CT4-S134	WT	Pan-CT4	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Firmicutes	3.07430434400144	0.355225311601151	35.5225311601151	11856
+Bacteria	Firmicutes	P731CT5-S135	WT	Pan-CT5	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Firmicutes	3.07653121925381	0.341246205830136	34.1246205830136	11917
+Bacteria	Firmicutes	P731CT6-S136	WT	Pan-CT6	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Firmicutes	3.0381033103059	0.309129042314996	30.9129042314996	10907
+Bacteria	Firmicutes	P731CT7-S137	WT	Pan-CT7	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Firmicutes	3.19956321176724	0.437268556900459	43.7268556900459	15823
+Bacteria	Firmicutes	P731SA1-S156	WT	Pan-SA1	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Firmicutes	2.95908911436739	0.401829915134371	40.1829915134371	9091
+Bacteria	Firmicutes	P731SA2-S157	WT	Pan-SA2	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Firmicutes	2.96866970172039	0.359967465819745	35.9967465819745	9294
+Bacteria	Firmicutes	P731SA3-S158	WT	Pan-SA3	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Firmicutes	2.65619406217919	0.437234042553191	43.7234042553191	4521
+Bacteria	Firmicutes	P731SA5-S160	WT	Pan-SA5	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Firmicutes	0.491361693834273	0.00210674157303371	0.210674157303371	21
+Bacteria	Firmicutes	P731SA6-S161	WT	Pan-SA6	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Firmicutes	1.00860017176192	0.00377482356802889	0.377482356802889	92
+Bacteria	Firmicutes	P731SA7-S162	WT	Pan-SA7	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Firmicutes	1.02938377768521	0.00551606482797839	0.551606482797839	97
+Bacteria	Firmicutes	P731SA8-S163	WT	Pan-SA8	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Firmicutes	1.82801506422398	0.0290140475252724	2.90140475252724	663
+Bacteria	Firmicutes	P731SM1-S138	WT	Pan-SM1	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Firmicutes	3.19083574753207	0.460779652959353	46.0779652959353	15508
+Bacteria	Firmicutes	P731SM10-S147	WT	Pan-SM10	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Firmicutes	3.05392315054858	0.436992969172526	43.6992969172526	11312
+Bacteria	Firmicutes	P731SM2-S139	WT	Pan-SM2	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Firmicutes	3.12165831249807	0.47087102058258	47.087102058258	13223
+Bacteria	Firmicutes	P731SM3-S140	WT	Pan-SM3	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Firmicutes	3.17032039987338	0.390403547203674	39.0403547203674	14792
+Bacteria	Firmicutes	P731SM4-S141	WT	Pan-SM4	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Firmicutes	3.031771907514	0.400633619083116	40.0633619083116	10749
+Bacteria	Firmicutes	P731SM5-S142	WT	Pan-SM5	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Firmicutes	3.10605484009379	0.44795617361989	44.795617361989	12756
+Bacteria	Firmicutes	P731SM6-S143	WT	Pan-SM6	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Firmicutes	2.98452731334379	0.41198341809479	41.198341809479	9640
+Bacteria	Firmicutes	P731SM7-S144	WT	Pan-SM7	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Firmicutes	3.14075937087037	0.472361809045226	47.2361809045226	13818
+Bacteria	Firmicutes	P731SM8-S145	WT	Pan-SM8	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Firmicutes	2.85363738195859	0.506249112341997	50.6249112341997	7129
+Bacteria	Firmicutes	P731SM9-S146	WT	Pan-SM9	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Firmicutes	3.07397481986666	0.465062416581613	46.5062416581613	11847
+Bacteria	Firmicutes	S731ABX1-S90	WT	Pan-ABX1	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Bacteria_/_Firmicutes	0.851258348719075	0.00334466498519575	0.334466498519575	61
+Bacteria	Firmicutes	S731ABX2-S91	WT	Pan-ABX2	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Bacteria_/_Firmicutes	0.740362689494244	0.00210359012715034	0.210359012715034	45
+Bacteria	Firmicutes	S731ABX3-S92	WT	Pan-ABX3	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Bacteria_/_Firmicutes	1.19312459835446	0.00542186571598336	0.542186571598336	146
+Bacteria	Firmicutes	S731ABX4-S93	WT	Pan-ABX4	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Bacteria_/_Firmicutes	0.322219294733919	0.000472549188074577	0.0472549188074577	11
+Bacteria	Firmicutes	S731CT1-S34	WT	Pan-CT1	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Firmicutes	2.86451108105839	0.298464804834232	29.8464804834232	7310
+Bacteria	Firmicutes	S731CT2-S35	WT	Pan-CT2	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Firmicutes	3.02796085978545	0.301099273744595	30.1099273744595	10655
+Bacteria	Firmicutes	S731CT3-S36	WT	Pan-CT3	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Firmicutes	3.29181268746712	0.470715574263379	47.0715574263379	19570
+Bacteria	Firmicutes	S731CT4-S37	WT	Pan-CT4	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Firmicutes	3.1419825155528	0.462393219434063	46.2393219434063	13857
+Bacteria	Firmicutes	S731CT5-S38	WT	Pan-CT5	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Firmicutes	3.0421027680373	0.415067305154406	41.5067305154406	11008
+Bacteria	Firmicutes	S731CT6-S39	WT	Pan-CT6	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Firmicutes	3.19556758065973	0.432269982629794	43.2269982629794	15678
+Bacteria	Firmicutes	S731CT7-S40	WT	Pan-CT7	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Firmicutes	3.27475805435201	0.515224534501643	51.5224534501643	18816
+Bacteria	Firmicutes	S731CT8-S41	WT	Pan-CT8	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Firmicutes	3.15727539645404	0.413064748201439	41.3064748201439	14354
+Bacteria	Firmicutes	S731CT9-S42	WT	Pan-CT9	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Firmicutes	3.16064857443616	0.381577906148611	38.1577906148611	14466
+Bacteria	Firmicutes	S731SA1-S52	WT	Pan-SA1	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Firmicutes	0.544068044350276	0.00120942383048716	0.120942383048716	25
+Bacteria	Firmicutes	S731SA2-S53	WT	Pan-SA2	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Firmicutes	1.22271647114758	0.00609448390978611	0.609448390978611	157
+Bacteria	Firmicutes	S731SA3-S54	WT	Pan-SA3	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Firmicutes	1.32428245529769	0.00921637855931038	0.921637855931038	201
+Bacteria	Firmicutes	S731SA4-S55	WT	Pan-SA4	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Firmicutes	0.633468455579587	0.00218023255813953	0.218023255813953	33
+Bacteria	Firmicutes	S731SA5-S56	WT	Pan-SA5	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Firmicutes	0.851258348719075	0.00311606048222313	0.311606048222313	61
+Bacteria	Firmicutes	S731SA6-S57	WT	Pan-SA6	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Firmicutes	0.653212513775344	0.00212185510760837	0.212185510760837	35
+Bacteria	Firmicutes	S731SM1-S43	WT	Pan-SM1	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Firmicutes	3.19259532756921	0.508308033819737	50.8308033819737	15571
+Bacteria	Firmicutes	S731SM2-S44	WT	Pan-SM2	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Firmicutes	3.23751860463311	0.485261471885801	48.5261471885801	17269
+Bacteria	Firmicutes	S731SM3-S45	WT	Pan-SM3	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Firmicutes	3.11257148986498	0.444631390996807	44.4631390996807	12949
+Bacteria	Firmicutes	S731SM4-S46	WT	Pan-SM4	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Firmicutes	3.02081688702891	0.427011611326136	42.7011611326136	10481
+Bacteria	Firmicutes	S731SM5-S47	WT	Pan-SM5	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Firmicutes	3.26495941769054	0.546524064171123	54.6524064171123	18396
+Bacteria	Firmicutes	S731SM6-S48	WT	Pan-SM6	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Firmicutes	3.19824458622824	0.492583918813427	49.2583918813427	15775
+Bacteria	Firmicutes	S731SM7-S49	WT	Pan-SM7	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Firmicutes	2.98627895590599	0.442812700155549	44.2812700155549	9679
+Bacteria	Firmicutes	S731SM8-S50	WT	Pan-SM8	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Firmicutes	3.09008161803882	0.480085903943772	48.0085903943772	12295
+Bacteria	Firmicutes	S731SM9-S51	WT	Pan-SM9	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Firmicutes	3.24912494930317	0.534859176165491	53.4859176165491	17737
+Bacteria	Patescibacteria	P731ABX1-S148	WT	Pan-ABX1	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	P731ABX2-S149	WT	Pan-ABX2	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	P731ABX3-S150	WT	Pan-ABX3	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	P731ABX4-S151	WT	Pan-ABX4	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	P731ABX5-S152	WT	Pan-ABX5	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Patescibacteria	0.0791812460476248	7.13979722975867e-05	0.00713979722975867	2
+Bacteria	Patescibacteria	P731ABX6-S153	WT	Pan-ABX6	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	P731ABX8-S155	WT	Pan-ABX8	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Patescibacteria	0.785329835010767	0.00471960022209883	0.471960022209883	51
+Bacteria	Patescibacteria	P731CT1-S131	WT	Pan-CT1	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Patescibacteria	1.47712125471966	0.00881861030865136	0.881861030865136	290
+Bacteria	Patescibacteria	P731CT2-S132	WT	Pan-CT2	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Patescibacteria	1.33445375115093	0.00568432671081678	0.568432671081678	206
+Bacteria	Patescibacteria	P731CT3-S133	WT	Pan-CT3	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Patescibacteria	0.763427993562937	0.00150692242488934	0.150692242488934	48
+Bacteria	Patescibacteria	P731CT4-S134	WT	Pan-CT4	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Patescibacteria	0.690196080028514	0.00116850431447747	0.116850431447747	39
+Bacteria	Patescibacteria	P731CT5-S135	WT	Pan-CT5	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Patescibacteria	0.690196080028514	0.00111677452608671	0.111677452608671	39
+Bacteria	Patescibacteria	P731CT6-S136	WT	Pan-CT6	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Patescibacteria	1.6170003411209	0.0114502735028201	1.14502735028201	404
+Bacteria	Patescibacteria	P731CT7-S137	WT	Pan-CT7	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Patescibacteria	1.07554696139253	0.00301221466865639	0.301221466865639	109
+Bacteria	Patescibacteria	P731SA1-S156	WT	Pan-SA1	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Patescibacteria	1.04532297878666	0.00446428571428571	0.446428571428571	101
+Bacteria	Patescibacteria	P731SA2-S157	WT	Pan-SA2	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Patescibacteria	1.57863920996807	0.0142918006119524	1.42918006119524	369
+Bacteria	Patescibacteria	P731SA3-S158	WT	Pan-SA3	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Patescibacteria	1.01703333929878	0.00909090909090909	0.909090909090909	94
+Bacteria	Patescibacteria	P731SA5-S160	WT	Pan-SA5	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	P731SA6-S161	WT	Pan-SA6	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	P731SA7-S162	WT	Pan-SA7	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	P731SA8-S163	WT	Pan-SA8	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	P731SM1-S138	WT	Pan-SM1	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Patescibacteria	1.78675142214556	0.0178868552412646	1.78868552412646	602
+Bacteria	Patescibacteria	P731SM10-S147	WT	Pan-SM10	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Patescibacteria	1.77378644498119	0.022560457390095	2.2560457390095	584
+Bacteria	Patescibacteria	P731SM2-S139	WT	Pan-SM2	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Patescibacteria	1.60205999132796	0.013887899722242	1.3887899722242	390
+Bacteria	Patescibacteria	P731SM3-S140	WT	Pan-SM3	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Patescibacteria	1.60852603357719	0.0104515822534245	1.04515822534245	396
+Bacteria	Patescibacteria	P731SM4-S141	WT	Pan-SM4	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Patescibacteria	1.24303804868629	0.00614983227730153	0.614983227730153	165
+Bacteria	Patescibacteria	P731SM5-S142	WT	Pan-SM5	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Patescibacteria	1.72591163229505	0.0183312262958281	1.83312262958281	522
+Bacteria	Patescibacteria	P731SM6-S143	WT	Pan-SM6	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Patescibacteria	1.38201704257487	0.00987221676140006	0.987221676140006	231
+Bacteria	Patescibacteria	P731SM7-S144	WT	Pan-SM7	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Patescibacteria	1.35983548233989	0.00748641165008717	0.748641165008717	219
+Bacteria	Patescibacteria	P731SM8-S145	WT	Pan-SM8	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Patescibacteria	1.40823996531185	0.0174691095014913	1.74691095014913	246
+Bacteria	Patescibacteria	P731SM9-S146	WT	Pan-SM9	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Patescibacteria	1.53907609879278	0.0131899191332339	1.31899191332339	336
+Bacteria	Patescibacteria	S731ABX1-S90	WT	Pan-ABX1	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	S731ABX2-S91	WT	Pan-ABX2	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	S731ABX3-S92	WT	Pan-ABX3	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	S731ABX4-S93	WT	Pan-ABX4	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	S731CT1-S34	WT	Pan-CT1	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Patescibacteria	0.8750612633917	0.00265392781316348	0.265392781316348	65
+Bacteria	Patescibacteria	S731CT2-S35	WT	Pan-CT2	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Patescibacteria	0.612783856719735	0.000876027919857575	0.0876027919857575	31
+Bacteria	Patescibacteria	S731CT3-S36	WT	Pan-CT3	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	S731CT4-S37	WT	Pan-CT4	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Patescibacteria	1.36172783601759	0.00734116390816871	0.734116390816871	220
+Bacteria	Patescibacteria	S731CT5-S38	WT	Pan-CT5	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	S731CT6-S39	WT	Pan-CT6	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	S731CT7-S40	WT	Pan-CT7	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	S731CT8-S41	WT	Pan-CT8	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	S731CT9-S42	WT	Pan-CT9	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Patescibacteria	1.69635638873333	0.0128458758671626	1.28458758671626	487
+Bacteria	Patescibacteria	S731SA1-S52	WT	Pan-SA1	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	S731SA2-S53	WT	Pan-SA2	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	S731SA3-S54	WT	Pan-SA3	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	S731SA4-S55	WT	Pan-SA4	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	S731SA5-S56	WT	Pan-SA5	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	S731SA6-S57	WT	Pan-SA6	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	S731SM1-S43	WT	Pan-SM1	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	S731SM2-S44	WT	Pan-SM2	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	S731SM3-S45	WT	Pan-SM3	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	S731SM4-S46	WT	Pan-SM4	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	S731SM5-S47	WT	Pan-SM5	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Patescibacteria	0.361727836017593	0.000386215092097445	0.0386215092097445	13
+Bacteria	Patescibacteria	S731SM6-S48	WT	Pan-SM6	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Patescibacteria	0.380211241711606	0.000437158469945355	0.0437158469945355	14
+Bacteria	Patescibacteria	S731SM7-S49	WT	Pan-SM7	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	S731SM8-S50	WT	Pan-SM8	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	S731SM9-S51	WT	Pan-SM9	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Proteobacteria	P731ABX1-S148	WT	Pan-ABX1	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Proteobacteria	3.09597092234371	0.839372306034483	83.9372306034483	12463
+Bacteria	Proteobacteria	P731ABX2-S149	WT	Pan-ABX2	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Proteobacteria	3.36027145440294	0.941372226787182	94.1372226787182	22913
+Bacteria	Proteobacteria	P731ABX3-S150	WT	Pan-ABX3	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Proteobacteria	3.12952877385878	0.886671934676676	88.6671934676676	13465
+Bacteria	Proteobacteria	P731ABX4-S151	WT	Pan-ABX4	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Proteobacteria	3.25051758561048	0.833794105243428	83.3794105243428	17794
+Bacteria	Proteobacteria	P731ABX5-S152	WT	Pan-ABX5	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Proteobacteria	3.40491919924631	0.906575753248608	90.6575753248608	25395
+Bacteria	Proteobacteria	P731ABX6-S153	WT	Pan-ABX6	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Proteobacteria	3.14832496303882	0.752689898827686	75.2689898827686	14061
+Bacteria	Proteobacteria	P731ABX8-S155	WT	Pan-ABX8	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Proteobacteria	2.07990446766672	0.110309087543957	11.0309087543957	1192
+Bacteria	Proteobacteria	P731CT1-S131	WT	Pan-CT1	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Proteobacteria	1.15836249209525	0.00407480614261822	0.407480614261822	134
+Bacteria	Proteobacteria	P731CT2-S132	WT	Pan-CT2	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Proteobacteria	0.278753600952829	0.000248344370860927	0.0248344370860927	9
+Bacteria	Proteobacteria	P731CT3-S133	WT	Pan-CT3	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Proteobacteria	1.08635983067475	0.00351615232474178	0.351615232474178	112
+Bacteria	Proteobacteria	P731CT4-S134	WT	Pan-CT4	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Proteobacteria	1.13672056715641	0.00380512943432407	0.380512943432407	127
+Bacteria	Proteobacteria	P731CT5-S135	WT	Pan-CT5	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Proteobacteria	0.531478917042255	0.000687245862207205	0.0687245862207205	24
+Bacteria	Proteobacteria	P731CT6-S136	WT	Pan-CT6	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Proteobacteria	1.43616264704076	0.00745401468129127	0.745401468129127	263
+Bacteria	Proteobacteria	P731CT7-S137	WT	Pan-CT7	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Proteobacteria	0.397940008672038	0.000414524954402255	0.0414524954402255	15
+Bacteria	Proteobacteria	P731SA1-S156	WT	Pan-SA1	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Proteobacteria	2.41363499719856	0.114126591230552	11.4126591230552	2582
+Bacteria	Proteobacteria	P731SA2-S157	WT	Pan-SA2	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Proteobacteria	2.57484119506338	0.145125682636818	14.5125682636818	3747
+Bacteria	Proteobacteria	P731SA3-S158	WT	Pan-SA3	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Proteobacteria	2.17753649992986	0.14458413926499	14.458413926499	1495
+Bacteria	Proteobacteria	P731SA5-S160	WT	Pan-SA5	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Proteobacteria	2.92701086897565	0.847010433386838	84.7010433386838	8443
+Bacteria	Proteobacteria	P731SA6-S161	WT	Pan-SA6	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Proteobacteria	3.28768978393608	0.79537994419826	79.537994419826	19385
+Bacteria	Proteobacteria	P731SA7-S162	WT	Pan-SA7	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Proteobacteria	3.12548126570059	0.758601080466306	75.8601080466306	13340
+Bacteria	Proteobacteria	P731SA8-S163	WT	Pan-SA8	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Proteobacteria	3.23021893988738	0.743118463086955	74.3118463086955	16981
+Bacteria	Proteobacteria	P731SM1-S138	WT	Pan-SM1	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Proteobacteria	0.832508912706236	0.00172331827905871	0.172331827905871	58
+Bacteria	Proteobacteria	P731SM10-S147	WT	Pan-SM10	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Proteobacteria	0.838849090737255	0.00227922429112261	0.227922429112261	59
+Bacteria	Proteobacteria	P731SM2-S139	WT	Pan-SM2	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Proteobacteria	0.612783856719735	0.0011039099779218	0.11039099779218	31
+Bacteria	Proteobacteria	P731SM3-S140	WT	Pan-SM3	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Proteobacteria	1.11058971029925	0.00314075325292301	0.314075325292301	119
+Bacteria	Proteobacteria	P731SM4-S141	WT	Pan-SM4	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Proteobacteria	0.913813852383717	0.00268356317554976	0.268356317554976	72
+Bacteria	Proteobacteria	P731SM5-S142	WT	Pan-SM5	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Proteobacteria	0.361727836017593	0.000456524792807979	0.0456524792807979	13
+Bacteria	Proteobacteria	P731SM6-S143	WT	Pan-SM6	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Proteobacteria	1.03342375548695	0.00418821317150306	0.418821317150306	98
+Bacteria	Proteobacteria	P731SM7-S144	WT	Pan-SM7	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Proteobacteria	0.832508912706236	0.00198270262879021	0.198270262879021	58
+Bacteria	Proteobacteria	P731SM8-S145	WT	Pan-SM8	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Proteobacteria	1.04921802267018	0.00724328930549638	0.724328930549638	102
+Bacteria	Proteobacteria	P731SM9-S146	WT	Pan-SM9	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Proteobacteria	0.832508912706236	0.00227683127895109	0.227683127895109	58
+Bacteria	Proteobacteria	S731ABX1-S90	WT	Pan-ABX1	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Bacteria_/_Proteobacteria	3.17084820364331	0.812040793946705	81.2040793946705	14810
+Bacteria	Proteobacteria	S731ABX2-S91	WT	Pan-ABX2	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Bacteria_/_Proteobacteria	3.2481204598836	0.827225130890052	82.7225130890052	17696
+Bacteria	Proteobacteria	S731ABX3-S92	WT	Pan-ABX3	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Bacteria_/_Proteobacteria	3.32945890005972	0.792595068330362	79.2595068330362	21343
+Bacteria	Proteobacteria	S731ABX4-S93	WT	Pan-ABX4	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Bacteria_/_Proteobacteria	3.25263461571239	0.768150184723773	76.8150184723773	17881
+Bacteria	Proteobacteria	S731CT1-S34	WT	Pan-CT1	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Proteobacteria	1.10380372095596	0.00477707006369427	0.477707006369427	117
+Bacteria	Proteobacteria	S731CT2-S35	WT	Pan-CT2	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Proteobacteria	1.87852179550121	0.0210811880068952	2.10811880068952	746
+Bacteria	Proteobacteria	S731CT3-S36	WT	Pan-CT3	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Proteobacteria	1.49554433754645	0.00728803367408298	0.728803367408298	303
+Bacteria	Proteobacteria	S731CT4-S37	WT	Pan-CT4	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Proteobacteria	0.698970004336019	0.00133475707421249	0.133475707421249	40
+Bacteria	Proteobacteria	S731CT5-S38	WT	Pan-CT5	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Proteobacteria	1.9329808219232	0.0319369556200747	3.19369556200747	847
+Bacteria	Proteobacteria	S731CT6-S39	WT	Pan-CT6	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Proteobacteria	1.65127801399814	0.0120764289062285	1.20764289062285	438
+Bacteria	Proteobacteria	S731CT7-S40	WT	Pan-CT7	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Proteobacteria	1.71432975974523	0.0139101861993428	1.39101861993428	508
+Bacteria	Proteobacteria	S731CT8-S41	WT	Pan-CT8	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Proteobacteria	1.62531245096167	0.0118561151079137	1.18561151079137	412
+Bacteria	Proteobacteria	S731CT9-S42	WT	Pan-CT9	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Proteobacteria	0.963787827345555	0.00216296061829021	0.216296061829021	82
+Bacteria	Proteobacteria	S731SA1-S52	WT	Pan-SA1	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Proteobacteria	3.18918139718074	0.747375550287843	74.7375550287843	15449
+Bacteria	Proteobacteria	S731SA2-S53	WT	Pan-SA2	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Proteobacteria	3.2848366376424	0.747564147354528	74.7564147354528	19258
+Bacteria	Proteobacteria	S731SA3-S54	WT	Pan-SA3	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Proteobacteria	3.20327772089242	0.731762116557385	73.1762116557385	15959
+Bacteria	Proteobacteria	S731SA4-S55	WT	Pan-SA4	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Proteobacteria	3.07371835034612	0.782241014799154	78.2241014799154	11840
+Bacteria	Proteobacteria	S731SA5-S56	WT	Pan-SA5	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Proteobacteria	3.17721895933272	0.767725786677564	76.7725786677564	15029
+Bacteria	Proteobacteria	S731SA6-S57	WT	Pan-SA6	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Proteobacteria	3.06744284277638	0.707487117308275	70.7487117308275	11670
+Bacteria	Proteobacteria	S731SM1-S43	WT	Pan-SM1	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Proteobacteria	1.28330122870355	0.00594130512845624	0.594130512845624	182
+Bacteria	Proteobacteria	S731SM2-S44	WT	Pan-SM2	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Proteobacteria	1.78604121024255	0.0168881895074044	1.68881895074044	601
+Bacteria	Proteobacteria	S731SM3-S45	WT	Pan-SM3	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Proteobacteria	1.51188336097887	0.0108161933866703	1.08161933866703	315
+Bacteria	Proteobacteria	S731SM4-S46	WT	Pan-SM4	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Proteobacteria	1.1846914308176	0.00582603381544103	0.582603381544103	143
+Bacteria	Proteobacteria	S731SM5-S47	WT	Pan-SM5	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Proteobacteria	1.16731733474818	0.0040701128936423	0.40701128936423	137
+Bacteria	Proteobacteria	S731SM6-S48	WT	Pan-SM6	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Proteobacteria	1.48572142648158	0.00924277907884465	0.924277907884465	296
+Bacteria	Proteobacteria	S731SM7-S49	WT	Pan-SM7	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Proteobacteria	1.41161970596323	0.011345960289139	1.1345960289139	248
+Bacteria	Proteobacteria	S731SM8-S50	WT	Pan-SM8	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Proteobacteria	1.47712125471966	0.0113237016790316	1.13237016790316	290
+Bacteria	Proteobacteria	S731SM9-S51	WT	Pan-SM9	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Proteobacteria	1.44404479591808	0.0080815391110307	0.80815391110307	268
+Bacteria	Verrucomicrobiota	P731ABX1-S148	WT	Pan-ABX1	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	0.397940008672038	0.00101023706896552	0.101023706896552	15
+Bacteria	Verrucomicrobiota	P731ABX2-S149	WT	Pan-ABX2	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	0.397940008672038	0.000616269515201315	0.0616269515201315	15
+Bacteria	Verrucomicrobiota	P731ABX3-S150	WT	Pan-ABX3	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	0.414973347970818	0.0010536020018438	0.10536020018438	16
+Bacteria	Verrucomicrobiota	P731ABX4-S151	WT	Pan-ABX4	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	0	0	0	0
+Bacteria	Verrucomicrobiota	P731ABX5-S152	WT	Pan-ABX5	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	0.230448921378274	0.000249892903041554	0.0249892903041554	7
+Bacteria	Verrucomicrobiota	P731ABX6-S153	WT	Pan-ABX6	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	0.806179973983887	0.00289063754616991	0.289063754616991	54
+Bacteria	Verrucomicrobiota	P731ABX8-S155	WT	Pan-ABX8	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	2.0920184707528	0.113455487692023	11.3455487692023	1226
+Bacteria	Verrucomicrobiota	P731CT1-S131	WT	Pan-CT1	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	1.54282542695918	0.0103086513608028	1.03086513608028	339
+Bacteria	Verrucomicrobiota	P731CT2-S132	WT	Pan-CT2	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	2.12188798510368	0.0362582781456954	3.62582781456954	1314
+Bacteria	Verrucomicrobiota	P731CT3-S133	WT	Pan-CT3	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	1.19589965240923	0.00461494992622359	0.461494992622359	147
+Bacteria	Verrucomicrobiota	P731CT4-S134	WT	Pan-CT4	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	1.42975228000241	0.00776006711409396	0.776006711409396	259
+Bacteria	Verrucomicrobiota	P731CT5-S135	WT	Pan-CT5	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	1.9237619608287	0.0237386174904072	2.37386174904072	829
+Bacteria	Verrucomicrobiota	P731CT6-S136	WT	Pan-CT6	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	1.35983548233989	0.00620695519088513	0.620695519088513	219
+Bacteria	Verrucomicrobiota	P731CT7-S137	WT	Pan-CT7	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	1.57403126772772	0.0100867738904549	1.00867738904549	365
+Bacteria	Verrucomicrobiota	P731SA1-S156	WT	Pan-SA1	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	2.26974637313077	0.0818157708628006	8.18157708628006	1851
+Bacteria	Verrucomicrobiota	P731SA2-S157	WT	Pan-SA2	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	1.93399316383124	0.0328827607575816	3.28827607575816	849
+Bacteria	Verrucomicrobiota	P731SA3-S158	WT	Pan-SA3	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	1.50242711998443	0.0297872340425532	2.97872340425532	308
+Bacteria	Verrucomicrobiota	P731SA5-S160	WT	Pan-SA5	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	0	0	0	0
+Bacteria	Verrucomicrobiota	P731SA6-S161	WT	Pan-SA6	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	0	0	0	0
+Bacteria	Verrucomicrobiota	P731SA7-S162	WT	Pan-SA7	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	0.146128035678238	0.00022746659084447	0.022746659084447	4
+Bacteria	Verrucomicrobiota	P731SA8-S163	WT	Pan-SA8	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	0.462397997898956	0.00083147345849197	0.083147345849197	19
+Bacteria	Verrucomicrobiota	P731SM1-S138	WT	Pan-SM1	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	2.4029488293444	0.0748454956025671	7.48454956025671	2519
+Bacteria	Verrucomicrobiota	P731SM10-S147	WT	Pan-SM10	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	2.10071508657308	0.0483272811558371	4.83272811558371	1251
+Bacteria	Verrucomicrobiota	P731SM2-S139	WT	Pan-SM2	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	2.23628527744803	0.0609999287800014	6.09999287800014	1713
+Bacteria	Verrucomicrobiota	P731SM3-S140	WT	Pan-SM3	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	2.56002624891289	0.0955686346960859	9.55686346960859	3621
+Bacteria	Verrucomicrobiota	P731SM4-S141	WT	Pan-SM4	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	2.4900990050633	0.114834140887067	11.4834140887067	3081
+Bacteria	Verrucomicrobiota	P731SM5-S142	WT	Pan-SM5	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	2.28420506770179	0.0672144964180362	6.72144964180362	1914
+Bacteria	Verrucomicrobiota	P731SM6-S143	WT	Pan-SM6	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	2.51388318561109	0.139108508910637	13.9108508910637	3255
+Bacteria	Verrucomicrobiota	P731SM7-S144	WT	Pan-SM7	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	2.44793286559218	0.0955457559908385	9.55457559908385	2795
+Bacteria	Verrucomicrobiota	P731SM8-S145	WT	Pan-SM8	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	1.74585519517373	0.0388439142167306	3.88439142167306	547
+Bacteria	Verrucomicrobiota	P731SM9-S146	WT	Pan-SM9	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	2.02118929906994	0.0408259401742954	4.08259401742954	1040
+Bacteria	Verrucomicrobiota	S731ABX1-S90	WT	Pan-ABX1	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	0	0	0	0
+Bacteria	Verrucomicrobiota	S731ABX2-S91	WT	Pan-ABX2	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	0	0	0	0
+Bacteria	Verrucomicrobiota	S731ABX3-S92	WT	Pan-ABX3	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	0.255272505103306	0.00029708853238265	0.029708853238265	8
+Bacteria	Verrucomicrobiota	S731ABX4-S93	WT	Pan-ABX4	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	0	0	0	0
+Bacteria	Verrucomicrobiota	S731CT1-S34	WT	Pan-CT1	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	1.73239375982297	0.0216397190919484	2.16397190919484	530
+Bacteria	Verrucomicrobiota	S731CT2-S35	WT	Pan-CT2	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	1.30102999566398	0.00536920337977223	0.536920337977223	190
+Bacteria	Verrucomicrobiota	S731CT3-S36	WT	Pan-CT3	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	0.230448921378274	0.000168370414912808	0.0168370414912808	7
+Bacteria	Verrucomicrobiota	S731CT4-S37	WT	Pan-CT4	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	1.06445798922692	0.00353710624666311	0.353710624666311	106
+Bacteria	Verrucomicrobiota	S731CT5-S38	WT	Pan-CT5	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	0	0	0	0
+Bacteria	Verrucomicrobiota	S731CT6-S39	WT	Pan-CT6	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	0	0	0	0
+Bacteria	Verrucomicrobiota	S731CT7-S40	WT	Pan-CT7	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	0	0	0	0
+Bacteria	Verrucomicrobiota	S731CT8-S41	WT	Pan-CT8	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	0	0	0	0
+Bacteria	Verrucomicrobiota	S731CT9-S42	WT	Pan-CT9	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	1.39967372148104	0.00635699401229195	0.635699401229195	241
+Bacteria	Verrucomicrobiota	S731SA1-S52	WT	Pan-SA1	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	0	0	0	0
+Bacteria	Verrucomicrobiota	S731SA2-S53	WT	Pan-SA2	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	0	0	0	0
+Bacteria	Verrucomicrobiota	S731SA3-S54	WT	Pan-SA3	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	0.397940008672038	0.000687789444724655	0.0687789444724655	15
+Bacteria	Verrucomicrobiota	S731SA4-S55	WT	Pan-SA4	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	0	0	0	0
+Bacteria	Verrucomicrobiota	S731SA5-S56	WT	Pan-SA5	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	0	0	0	0
+Bacteria	Verrucomicrobiota	S731SA6-S57	WT	Pan-SA6	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	0	0	0	0
+Bacteria	Verrucomicrobiota	S731SM1-S43	WT	Pan-SM1	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	2.24328614608345	0.0568341331244083	5.68341331244083	1741
+Bacteria	Verrucomicrobiota	S731SM2-S44	WT	Pan-SM2	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	2.16076856186113	0.0404080141624751	4.04080141624751	1438
+Bacteria	Verrucomicrobiota	S731SM3-S45	WT	Pan-SM3	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	2.36248247475117	0.07876935755245	7.876935755245	2294
+Bacteria	Verrucomicrobiota	S731SM4-S46	WT	Pan-SM4	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	2.3923451553612	0.100142595233245	10.0142595233245	2458
+Bacteria	Verrucomicrobiota	S731SM5-S47	WT	Pan-SM5	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	1.83314711191279	0.0199346405228758	1.99346405228758	671
+Bacteria	Verrucomicrobiota	S731SM6-S48	WT	Pan-SM6	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	2.37785241900675	0.0742232630757221	7.42232630757221	2377
+Bacteria	Verrucomicrobiota	S731SM7-S49	WT	Pan-SM7	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	2.39898106665813	0.114191600329399	11.4191600329399	2496
+Bacteria	Verrucomicrobiota	S731SM8-S50	WT	Pan-SM8	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	1.79588001734408	0.0240140570089809	2.40140570089809	615
+Bacteria	Verrucomicrobiota	S731SM9-S51	WT	Pan-SM9	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Bacteria_/_Verrucomicrobiota	1.94694327069783	0.0263856220975816	2.63856220975816	875
+Other	Other	P731ABX1-S148	WT	Pan-ABX1	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Other_/_Other	2.34281731463573	0.147629310344828	14.7629310344828	2192
+Other	Other	P731ABX2-S149	WT	Pan-ABX2	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Other_/_Other	2.07627625540422	0.0485620377978636	4.85620377978636	1182
+Other	Other	P731ABX3-S150	WT	Pan-ABX3	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Other_/_Other	2.1156105116743	0.0852759120242328	8.52759120242328	1295
+Other	Other	P731ABX4-S151	WT	Pan-ABX4	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Other_/_Other	2.53907609879278	0.161660653202755	16.1660653202755	3450
+Other	Other	P731ABX5-S152	WT	Pan-ABX5	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Other_/_Other	2.35621713421973	0.0807154076824218	8.07154076824218	2261
+Other	Other	P731ABX6-S153	WT	Pan-ABX6	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Other_/_Other	2.35945602012099	0.121942080188427	12.1942080188427	2278
+Other	Other	P731ABX8-S155	WT	Pan-ABX8	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	Other_/_Other	0	0	0	0
+Other	Other	P731CT1-S131	WT	Pan-CT1	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Other_/_Other	0.851258348719075	0.00185494906492322	0.185494906492322	61
+Other	Other	P731CT2-S132	WT	Pan-CT2	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Other_/_Other	0.690196080028514	0.00107615894039735	0.107615894039735	39
+Other	Other	P731CT3-S133	WT	Pan-CT3	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Other_/_Other	0	0	0	0
+Other	Other	P731CT4-S134	WT	Pan-CT4	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Other_/_Other	0	0	0	0
+Other	Other	P731CT5-S135	WT	Pan-CT5	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Other_/_Other	0	0	0	0
+Other	Other	P731CT6-S136	WT	Pan-CT6	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Other_/_Other	0.792391689498254	0.0014737975795709	0.14737975795709	52
+Other	Other	P731CT7-S137	WT	Pan-CT7	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	Other_/_Other	0.7481880270062	0.00127120986016692	0.127120986016692	46
+Other	Other	P731SA1-S156	WT	Pan-SA1	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Other_/_Other	1.25042000230889	0.00742574257425743	0.742574257425743	168
+Other	Other	P731SA2-S157	WT	Pan-SA2	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Other_/_Other	1.55266821611219	0.0134397149386111	1.34397149386111	347
+Other	Other	P731SA3-S158	WT	Pan-SA3	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Other_/_Other	1.00432137378264	0.00880077369439072	0.880077369439072	91
+Other	Other	P731SA5-S160	WT	Pan-SA5	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Other_/_Other	2.17084820364331	0.147672552166934	14.7672552166934	1472
+Other	Other	P731SA6-S161	WT	Pan-SA6	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Other_/_Other	2.67851837904011	0.195306088954538	19.5306088954538	4760
+Other	Other	P731SA7-S162	WT	Pan-SA7	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Other_/_Other	2.61489721603313	0.233721922092693	23.3721922092693	4110
+Other	Other	P731SA8-S163	WT	Pan-SA8	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	Other_/_Other	2.60927417240459	0.177541464268522	17.7541464268522	4057
+Other	Other	P731SM1-S138	WT	Pan-SM1	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Other_/_Other	0.886490725172482	0.00199072973615403	0.199072973615403	67
+Other	Other	P731SM10-S147	WT	Pan-SM10	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Other_/_Other	0.763427993562937	0.00185428416904891	0.185428416904891	48
+Other	Other	P731SM2-S139	WT	Pan-SM2	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Other_/_Other	0.568201724066995	0.0009614699807706	0.09614699807706	27
+Other	Other	P731SM3-S140	WT	Pan-SM3	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Other_/_Other	0.792391689498254	0.00137242999287392	0.137242999287392	52
+Other	Other	P731SM4-S141	WT	Pan-SM4	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Other_/_Other	0.707570176097936	0.0015281401416325	0.15281401416325	41
+Other	Other	P731SM5-S142	WT	Pan-SM5	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Other_/_Other	0.857332496431269	0.00217727208877651	0.217727208877651	62
+Other	Other	P731SM6-S143	WT	Pan-SM6	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Other_/_Other	0.681241237375587	0.00162400102568486	0.162400102568486	38
+Other	Other	P731SM7-S144	WT	Pan-SM7	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Other_/_Other	1.11727129565576	0.00413632789799337	0.413632789799337	121
+Other	Other	P731SM8-S145	WT	Pan-SM8	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Other_/_Other	0	0	0	0
+Other	Other	P731SM9-S146	WT	Pan-SM9	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	Other_/_Other	0.755874855672491	0.0018450184501845	0.18450184501845	47
+Other	Other	S731ABX1-S90	WT	Pan-ABX1	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Other_/_Other	2.51375015008182	0.178418686259458	17.8418686259458	3254
+Other	Other	S731ABX2-S91	WT	Pan-ABX2	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Other_/_Other	2.54444013731769	0.163285340314136	16.3285340314136	3493
+Other	Other	S731ABX3-S92	WT	Pan-ABX3	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Other_/_Other	2.58138068870999	0.14126559714795	14.126559714795	3804
+Other	Other	S731ABX4-S93	WT	Pan-ABX4	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	Other_/_Other	2.70234435835577	0.216040896984277	21.6040896984277	5029
+Other	Other	S731CT1-S34	WT	Pan-CT1	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Other_/_Other	0	0	0	0
+Other	Other	S731CT2-S35	WT	Pan-CT2	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Other_/_Other	0	0	0	0
+Other	Other	S731CT3-S36	WT	Pan-CT3	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Other_/_Other	1.01283722470517	0.00223692122669874	0.223692122669874	93
+Other	Other	S731CT4-S37	WT	Pan-CT4	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Other_/_Other	0	0	0	0
+Other	Other	S731CT5-S38	WT	Pan-CT5	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Other_/_Other	0	0	0	0
+Other	Other	S731CT6-S39	WT	Pan-CT6	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Other_/_Other	0.612783856719735	0.000854724420303841	0.0854724420303841	31
+Other	Other	S731CT7-S40	WT	Pan-CT7	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Other_/_Other	0	0	0	0
+Other	Other	S731CT8-S41	WT	Pan-CT8	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Other_/_Other	0	0	0	0
+Other	Other	S731CT9-S42	WT	Pan-CT9	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	Other_/_Other	0.301029995663981	0.000263775685157342	0.0263775685157342	10
+Other	Other	S731SA1-S52	WT	Pan-SA1	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Other_/_Other	2.70061719568206	0.242320158676407	24.2320158676407	5009
+Other	Other	S731SA2-S53	WT	Pan-SA2	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Other_/_Other	2.79476679794082	0.241605527735725	24.1605527735725	6224
+Other	Other	S731SA3-S54	WT	Pan-SA3	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Other_/_Other	2.7106250150608	0.235040579577239	23.5040579577239	5126
+Other	Other	S731SA4-S55	WT	Pan-SA4	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Other_/_Other	2.5108130105125	0.213530655391121	21.3530655391121	3232
+Other	Other	S731SA5-S56	WT	Pan-SA5	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Other_/_Other	2.64708942871655	0.226144258275439	22.6144258275439	4427
+Other	Other	S731SA6-S57	WT	Pan-SA6	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	Other_/_Other	2.6652056284346	0.279842376477721	27.9842376477721	4616
+Other	Other	S731SM1-S43	WT	Pan-SM1	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Other_/_Other	0.662757831681574	0.00117520321222211	0.117520321222211	36
+Other	Other	S731SM2-S44	WT	Pan-SM2	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Other_/_Other	0	0	0	0
+Other	Other	S731SM3-S45	WT	Pan-SM3	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Other_/_Other	0	0	0	0
+Other	Other	S731SM4-S46	WT	Pan-SM4	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Other_/_Other	0	0	0	0
+Other	Other	S731SM5-S47	WT	Pan-SM5	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Other_/_Other	0.732393759822969	0.00130718954248366	0.130718954248366	44
+Other	Other	S731SM6-S48	WT	Pan-SM6	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Other_/_Other	0	0	0	0
+Other	Other	S731SM7-S49	WT	Pan-SM7	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Other_/_Other	0.949390006644913	0.00361423735016927	0.361423735016927	79
+Other	Other	S731SM8-S50	WT	Pan-SM8	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Other_/_Other	0	0	0	0
+Other	Other	S731SM9-S51	WT	Pan-SM9	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	Other_/_Other	1.00860017176192	0.00277425969483143	0.277425969483143	92

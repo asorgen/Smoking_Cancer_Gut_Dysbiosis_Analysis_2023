@@ -1,0 +1,7 @@
+name	size	md5	MATCHED_EXPECTATION
+Genus/Abx-Colon_Genus_adonis_Treatment.txt	537	ffe07d4a85af0ae4562a88fac4517be2	REPORT
+Genus/FigureS3E_Abx-Colon_Genus_Post-tumor_Treatment_PCoA.pdf	34903	620318bbedae6232d32daac4aaa1f018	REPORT
+Phylum/Abx-Colon_Phylum_Post-tumor_Treatment_PCoA.pdf	36188	5a61b77465b12880998039b62b0fc344	REPORT
+Phylum/Abx-Colon_Phylum_adonis_Treatment.txt	533	17044d73b06e5c39ce76c611fc5b3441	REPORT
+Species/Abx-Colon_Species_Post-tumor_Treatment_PCoA.pdf	35104	361d2901cf82776348d408fcb11601fa	REPORT
+Species/Abx-Colon_Species_adonis_Treatment.txt	537	eb403647fb4c630b3d97c7db46602f7f	REPORT

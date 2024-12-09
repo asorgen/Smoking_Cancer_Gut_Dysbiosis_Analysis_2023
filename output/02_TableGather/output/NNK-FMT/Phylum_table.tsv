@@ -1,0 +1,461 @@
+Domain	Phylum	SampleID	MouseModel	SmokeExposure	FMTstatus	TumorStatus	FullMouseDescription	TumorWeight_avg	TumorWeight_sd	Study	Taxon	NormalizedCounts	RelativeAbundance	PercentAbundance	RawCounts
+Bacteria	Actinobacteriota	A2-S3	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Actinobacteriota	2.82000430680832	0.0583129292590006	5.83129292590006	6597
+Bacteria	Actinobacteriota	A3-S4	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Actinobacteriota	2.71683772329952	0.051492795959796	5.1492795959796	5200
+Bacteria	Actinobacteriota	A4-S5	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Actinobacteriota	2.99242095605202	0.0841829953265017	8.41829953265017	9817
+Bacteria	Actinobacteriota	A5-S6	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Actinobacteriota	2.94713951764283	0.0813997367670204	8.13997367670204	8844
+Bacteria	Actinobacteriota	A6-S7	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Actinobacteriota	2.81716857238106	0.0711478755509238	7.11478755509238	6554
+Bacteria	Actinobacteriota	A7-S8	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Actinobacteriota	2.88127050392936	0.0909014775378357	9.09014775378357	7598
+Bacteria	Actinobacteriota	A8-S9	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Actinobacteriota	2.93591013643051	0.0990221874964093	9.90221874964093	8618
+Bacteria	Actinobacteriota	B1-S10	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Actinobacteriota	2.21563756343506	0.0191152887192874	1.91152887192874	1633
+Bacteria	Actinobacteriota	B10-S19	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Actinobacteriota	1.92324401863028	0.00850425726405308	0.850425726405308	828
+Bacteria	Actinobacteriota	B2-S11	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Actinobacteriota	2.37088301677761	0.0199168923176485	1.99168923176485	2339
+Bacteria	Actinobacteriota	B3-S12	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Actinobacteriota	2.65494622658434	0.0406433697572938	4.06433697572938	4508
+Bacteria	Actinobacteriota	B4-S13	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Actinobacteriota	2.97662505205073	0.0980912312698182	9.80912312698182	9466
+Bacteria	Actinobacteriota	B5-S14	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Actinobacteriota	2.88155582979331	0.076647008417763	7.6647008417763	7603
+Bacteria	Actinobacteriota	B6-S15	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Actinobacteriota	2.50785587169583	0.0421536441234406	4.21536441234406	3210
+Bacteria	Actinobacteriota	B7-S16	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Actinobacteriota	2.78125259424846	0.0553186807141089	5.53186807141089	6033
+Bacteria	Actinobacteriota	B8-S17	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Actinobacteriota	2.87846434534147	0.0710427253905515	7.10427253905515	7549
+Bacteria	Actinobacteriota	B9-S18	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Actinobacteriota	2.56561172490206	0.0362794746004115	3.62794746004115	3668
+Bacteria	Actinobacteriota	C1-S20	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Actinobacteriota	2.70799574642293	0.0462265691629316	4.62265691629316	5095
+Bacteria	Actinobacteriota	C10-S29	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Actinobacteriota	3.13564141638667	0.075951901578438	7.5951901578438	13656
+Bacteria	Actinobacteriota	C2-S21	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Actinobacteriota	2.66885164808252	0.0406269909843863	4.06269909843863	4655
+Bacteria	Actinobacteriota	C3-S22	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Actinobacteriota	2.72394797643164	0.0712667853098204	7.12667853098204	5286
+Bacteria	Actinobacteriota	C4-S23	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Actinobacteriota	2.84621336387939	0.0504201680672269	5.04201680672269	7008
+Bacteria	Actinobacteriota	C5-S24	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Actinobacteriota	3.03253817926001	0.069825048309492	6.9825048309492	10768
+Bacteria	Actinobacteriota	C6-S25	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Actinobacteriota	3.04512730656803	0.0801872120024016	8.01872120024016	11085
+Bacteria	Actinobacteriota	C7-S26	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Actinobacteriota	2.84285876244529	0.0458586125032973	4.58586125032973	6954
+Bacteria	Actinobacteriota	C8-S27	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Actinobacteriota	2.94860854987644	0.0436281040899504	4.36281040899504	8874
+Bacteria	Actinobacteriota	C9-S28	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Actinobacteriota	3.07044424997295	0.0591837865334347	5.91837865334347	11751
+Bacteria	Actinobacteriota	D1-S30	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Actinobacteriota	2.28600712207947	0.0115208478193109	1.15208478193109	1922
+Bacteria	Actinobacteriota	D10-S39	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Actinobacteriota	2.47668674294564	0.0172915834505595	1.72915834505595	2987
+Bacteria	Actinobacteriota	D2-S31	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Actinobacteriota	2.1044871113124	0.00816960673248098	0.816960673248098	1262
+Bacteria	Actinobacteriota	D3-S32	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Actinobacteriota	2.31048089146268	0.0124339788732394	1.24339788732394	2034
+Bacteria	Actinobacteriota	D4-S33	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Actinobacteriota	2.24104815067164	0.0112355177290242	1.12355177290242	1732
+Bacteria	Actinobacteriota	D5-S34	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Actinobacteriota	2.04099769242349	0.00953556793107072	0.953556793107072	1089
+Bacteria	Actinobacteriota	D6-S35	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Actinobacteriota	2.03941411917614	0.0062923355293681	0.62923355293681	1085
+Bacteria	Actinobacteriota	D7-S36	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Actinobacteriota	2.950510892986	0.046648557835733	4.6648557835733	8913
+Bacteria	Actinobacteriota	D8-S37	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Actinobacteriota	1.97772360528885	0.00864908632524245	0.864908632524245	940
+Bacteria	Actinobacteriota	D9-S38	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Actinobacteriota	2.9022749204745	0.062287169233653	6.2287169233653	7975
+Bacteria	Actinobacteriota	E1-S40	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Actinobacteriota	3.08314414314305	0.102571927504535	10.2571927504535	12100
+Bacteria	Actinobacteriota	E10-S49	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Actinobacteriota	3.08496928847499	0.107878475798146	10.7878475798146	12151
+Bacteria	Actinobacteriota	E2-S41	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Actinobacteriota	3.17698787480081	0.111923283261803	11.1923283261803	15021
+Bacteria	Actinobacteriota	E3-S42	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Actinobacteriota	3.11451090484887	0.105543744624223	10.5543744624223	13007
+Bacteria	Actinobacteriota	E5-S44	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Actinobacteriota	3.02180927702234	0.0991701989068149	9.91701989068149	10505
+Bacteria	Actinobacteriota	E6-S45	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Actinobacteriota	2.92438267720197	0.0835798300915275	8.35798300915275	8392
+Bacteria	Actinobacteriota	E7-S46	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Actinobacteriota	2.97127584873811	0.0959643648903851	9.59643648903851	9350
+Bacteria	Actinobacteriota	E8-S47	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Actinobacteriota	3.02518293433545	0.0838534406285642	8.38534406285642	10587
+Bacteria	Actinobacteriota	E9-S48	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Actinobacteriota	3.09923161508088	0.100607313399353	10.0607313399353	12557
+Bacteria	Bacteroidota	A2-S3	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Bacteroidota	3.62479757896076	0.372488530995041	37.2488530995041	42140
+Bacteria	Bacteroidota	A3-S4	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Bacteroidota	3.54172897485029	0.344625439421696	34.4625439421696	34802
+Bacteria	Bacteroidota	A4-S5	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Bacteroidota	3.43370584475694	0.232697337392274	23.2697337392274	27136
+Bacteria	Bacteroidota	A5-S6	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Bacteroidota	3.57941772087326	0.349363546834301	34.9363546834301	37958
+Bacteria	Bacteroidota	A6-S7	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Bacteroidota	3.51153578634495	0.352417551401463	35.2417551401463	32464
+Bacteria	Bacteroidota	A7-S8	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Bacteroidota	3.31964728818342	0.249638092959263	24.9638092959263	20866
+Bacteria	Bacteroidota	A8-S9	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Bacteroidota	3.42938079131048	0.308706093231148	30.8706093231148	26867
+Bacteria	Bacteroidota	B1-S10	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Bacteroidota	3.56779071053354	0.432581441899121	43.2581441899121	36955
+Bacteria	Bacteroidota	B10-S19	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Bacteroidota	3.61705278897821	0.425161508992122	42.5161508992122	41395
+Bacteria	Bacteroidota	B2-S11	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Bacteroidota	3.65297117201759	0.382882882882883	38.2882882882883	44965
+Bacteria	Bacteroidota	B3-S12	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Bacteroidota	3.65284562128087	0.405279671102456	40.5279671102456	44952
+Bacteria	Bacteroidota	B4-S13	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Bacteroidota	3.58806992318122	0.401255932519533	40.1255932519533	38722
+Bacteria	Bacteroidota	B5-S14	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Bacteroidota	3.60003581211462	0.401270225313776	40.1270225313776	39804
+Bacteria	Bacteroidota	B6-S15	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Bacteroidota	3.46062726365139	0.379146421536441	37.9146421536441	28872
+Bacteria	Bacteroidota	B7-S16	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Bacteroidota	3.66961436802147	0.42841031001568	42.841031001568	46722
+Bacteria	Bacteroidota	B8-S17	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Bacteroidota	3.66021069820407	0.430274797666102	43.0274797666102	45721
+Bacteria	Bacteroidota	B9-S18	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Bacteroidota	3.71507530109256	0.513125098908055	51.3125098908055	51879
+Bacteria	Bacteroidota	C1-S20	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Bacteroidota	3.53227014460906	0.308951350959008	30.8951350959008	34052
+Bacteria	Bacteroidota	C10-S29	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Bacteroidota	3.70699925726933	0.283223395143439	28.3223395143439	50923
+Bacteria	Bacteroidota	C2-S21	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Bacteroidota	3.53053265774905	0.296005376203318	29.6005376203318	33916
+Bacteria	Bacteroidota	C3-S22	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Bacteroidota	3.29238899830193	0.264196731920401	26.4196731920401	19596
+Bacteria	Bacteroidota	C4-S23	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Bacteroidota	3.63148435538598	0.307888223782664	30.7888223782664	42794
+Bacteria	Bacteroidota	C5-S24	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Bacteroidota	3.62672008066483	0.274469244037506	27.4469244037506	42327
+Bacteria	Bacteroidota	C6-S25	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Bacteroidota	3.60930620671476	0.29414998661738	29.414998661738	40663
+Bacteria	Bacteroidota	C7-S26	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Bacteroidota	3.65042409660785	0.294790292798734	29.4790292798734	44702
+Bacteria	Bacteroidota	C8-S27	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Bacteroidota	3.77865763194736	0.29527878427343	29.527878427343	60060
+Bacteria	Bacteroidota	C9-S28	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Bacteroidota	3.78311713749047	0.30561417469567	30.561417469567	60680
+Bacteria	Bacteroidota	D1-S30	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Bacteroidota	3.7996024258847	0.377802287385811	37.7802287385811	63028
+Bacteria	Bacteroidota	D10-S39	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Bacteroidota	3.46582881535744	0.169153019225092	16.9153019225092	29220
+Bacteria	Bacteroidota	D2-S31	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Bacteroidota	3.8371589814229	0.444874575173976	44.4874575173976	68722
+Bacteria	Bacteroidota	D3-S32	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Bacteroidota	3.85224814538094	0.43495696400626	43.495696400626	71152
+Bacteria	Bacteroidota	D4-S33	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Bacteroidota	3.58852940516094	0.25145633587192	25.145633587192	38763
+Bacteria	Bacteroidota	D5-S34	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Bacteroidota	3.593363612683	0.343219151693461	34.3219151693461	39197
+Bacteria	Bacteroidota	D6-S35	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Bacteroidota	3.70976165674661	0.297207014939222	29.7207014939222	51248
+Bacteria	Bacteroidota	D7-S36	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Bacteroidota	3.82510790810112	0.34983016428792	34.983016428792	66841
+Bacteria	Bacteroidota	D8-S37	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Bacteroidota	3.57213941977837	0.343451537513112	34.3451537513112	37327
+Bacteria	Bacteroidota	D9-S38	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Bacteroidota	3.58824929106479	0.302555531256834	30.2555531256834	38738
+Bacteria	Bacteroidota	E1-S40	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Bacteroidota	3.53851089730499	0.292838614516047	29.2838614516047	34545
+Bacteria	Bacteroidota	E10-S49	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Bacteroidota	3.45035689853649	0.250337369935012	25.0337369935012	28197
+Bacteria	Bacteroidota	E2-S41	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Bacteroidota	3.59670702968145	0.294319265617549	29.4319265617549	39500
+Bacteria	Bacteroidota	E3-S42	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Bacteroidota	3.48142829511456	0.245776465051364	24.5776465051364	30289
+Bacteria	Bacteroidota	E5-S44	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Bacteroidota	3.46572479806533	0.275779059558761	27.5779059558761	29213
+Bacteria	Bacteroidota	E6-S45	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Bacteroidota	3.34933581811725	0.222524325993208	22.2524325993208	22343
+Bacteria	Bacteroidota	E7-S46	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Bacteroidota	3.46440011588987	0.298916167173003	29.8916167173003	29124
+Bacteria	Bacteroidota	E8-S47	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Bacteroidota	3.39996776558859	0.198857876061336	19.8857876061336	25107
+Bacteria	Bacteroidota	E9-S48	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Bacteroidota	3.46010065453885	0.23104348940807	23.104348940807	28837
+Bacteria	Campilobacterota	A2-S3	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Campilobacterota	2.31889771462749	0.0183327293138043	1.83327293138043	2074
+Bacteria	Campilobacterota	A3-S4	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Campilobacterota	2.28103336724773	0.0188146754468485	1.88146754468485	1900
+Bacteria	Campilobacterota	A4-S5	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Campilobacterota	2.51201696949613	0.0277923080221241	2.77923080221241	3241
+Bacteria	Campilobacterota	A5-S6	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Campilobacterota	2.25671774597749	0.0165302948025292	1.65302948025292	1796
+Bacteria	Campilobacterota	A6-S7	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Campilobacterota	2.43248825577051	0.0292776656028138	2.92776656028138	2697
+Bacteria	Campilobacterota	A7-S8	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Campilobacterota	2.6341748717626	0.0514087455883233	5.14087455883233	4297
+Bacteria	Campilobacterota	A8-S9	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Campilobacterota	2.65561858354122	0.0518780664360975	5.18780664360975	4515
+Bacteria	Campilobacterota	B1-S10	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Campilobacterota	2.13193929521042	0.015744068173571	1.5744068173571	1345
+Bacteria	Campilobacterota	B10-S19	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Campilobacterota	2.50174372962799	0.0325072152665797	3.25072152665797	3165
+Bacteria	Campilobacterota	B2-S11	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Campilobacterota	2.28735377271475	0.0164171733169843	1.64171733169843	1928
+Bacteria	Campilobacterota	B3-S12	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Campilobacterota	2.08671566394488	0.0109181723105774	1.09181723105774	1211
+Bacteria	Campilobacterota	B4-S13	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Campilobacterota	2.16106838547117	0.0149116080495741	1.49116080495741	1439
+Bacteria	Campilobacterota	B5-S14	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Campilobacterota	2.29468662427944	0.0197691415897979	1.97691415897979	1961
+Bacteria	Campilobacterota	B6-S15	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Campilobacterota	2.56995881809659	0.0486539724228496	4.86539724228496	3705
+Bacteria	Campilobacterota	B7-S16	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Campilobacterota	2.56702636615906	0.0337432032202753	3.37432032202753	3680
+Bacteria	Campilobacterota	B8-S17	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Campilobacterota	2.34947179921439	0.0209486166007905	2.09486166007905	2226
+Bacteria	Campilobacterota	B9-S18	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Campilobacterota	2.32469391386177	0.0207904731761355	2.07904731761355	2102
+Bacteria	Campilobacterota	C1-S20	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	C10-S29	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	C2-S21	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	C3-S22	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	C4-S23	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	C5-S24	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	C6-S25	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	C7-S26	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	C8-S27	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	C9-S28	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	D1-S30	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	D10-S39	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Campilobacterota	2.93841964579319	0.0501785890021593	5.01785890021593	8668
+Bacteria	Campilobacterota	D2-S31	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	D3-S32	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	D4-S33	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	D5-S34	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	D6-S35	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	D7-S36	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Campilobacterota	2.64424158584373	0.0230181035971675	2.30181035971675	4398
+Bacteria	Campilobacterota	D8-S37	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Campilobacterota	3.08030172679391	0.110607092250787	11.0607092250787	12021
+Bacteria	Campilobacterota	D9-S38	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Campilobacterota	2.31175386105575	0.0159330188384517	1.59330188384517	2040
+Bacteria	Campilobacterota	E1-S40	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Campilobacterota	2.35468455395473	0.0190987233609684	1.90987233609684	2253
+Bacteria	Campilobacterota	E10-S49	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Campilobacterota	2.16938049531195	0.0130242551226961	1.30242551226961	1467
+Bacteria	Campilobacterota	E2-S41	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Campilobacterota	2.41580772763554	0.0193356580829757	1.93356580829757	2595
+Bacteria	Campilobacterota	E3-S42	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Campilobacterota	2.40925665203891	0.0207403560590078	2.07403560590078	2556
+Bacteria	Campilobacterota	E5-S44	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Campilobacterota	0.991226075692495	0.000830745121732481	0.0830745121732481	88
+Bacteria	Campilobacterota	E6-S45	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Campilobacterota	2.17840134153376	0.014919278536357	1.4919278536357	1498
+Bacteria	Campilobacterota	E7-S46	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Campilobacterota	2.36903022180915	0.0239038508908777	2.39038508908777	2329
+Bacteria	Campilobacterota	E8-S47	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Campilobacterota	2.81117269506655	0.0511975668483082	5.11975668483082	6464
+Bacteria	Campilobacterota	E9-S48	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Campilobacterota	2.53542071805617	0.027409223472102	2.7409223472102	3421
+Bacteria	Deferribacterota	A2-S3	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Deferribacterota	1.25527250510331	0.0015026827306397	0.15026827306397	170
+Bacteria	Deferribacterota	A3-S4	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Deferribacterota	1.25527250510331	0.00168341832945487	0.168341832945487	170
+Bacteria	Deferribacterota	A4-S5	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Deferribacterota	1.55630250076729	0.0030013291600566	0.30013291600566	350
+Bacteria	Deferribacterota	A5-S6	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Deferribacterota	1.14301480025409	0.00118730959327743	0.118730959327743	129
+Bacteria	Deferribacterota	A6-S7	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Deferribacterota	1.2405492482826	0.00178032523502464	0.178032523502464	164
+Bacteria	Deferribacterota	A7-S8	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Deferribacterota	1.96473092105363	0.010911048633128	1.0911048633128	912
+Bacteria	Deferribacterota	A8-S9	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Deferribacterota	1.25767857486918	0.00196481713412462	0.196481713412462	171
+Bacteria	Deferribacterota	B1-S10	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Deferribacterota	1.28555730900777	0.00214212972175725	0.214212972175725	183
+Bacteria	Deferribacterota	B10-S19	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Deferribacterota	1.66370092538965	0.00463214978996128	0.463214978996128	451
+Bacteria	Deferribacterota	B2-S11	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Deferribacterota	1.95375969173323	0.00756995180435634	0.756995180435634	889
+Bacteria	Deferribacterota	B3-S12	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Deferribacterota	1.14921911265538	0.00118107396588409	0.118107396588409	131
+Bacteria	Deferribacterota	B4-S13	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Deferribacterota	1.41161970596323	0.00256989492445752	0.256989492445752	248
+Bacteria	Deferribacterota	B5-S14	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Deferribacterota	1.70586371228392	0.00502041433539997	0.502041433539997	498
+Bacteria	Deferribacterota	B6-S15	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Deferribacterota	1.37657695705651	0.0029940906106369	0.29940906106369	228
+Bacteria	Deferribacterota	B7-S16	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Deferribacterota	1.69108149212297	0.0044104567252588	0.44104567252588	481
+Bacteria	Deferribacterota	B8-S17	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Deferribacterota	1.85913829729453	0.00670995670995671	0.670995670995671	713
+Bacteria	Deferribacterota	B9-S18	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Deferribacterota	1.22010808804006	0.00154296565912328	0.154296565912328	156
+Bacteria	Deferribacterota	C1-S20	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	C10-S29	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	C2-S21	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	C3-S22	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	C4-S23	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	C5-S24	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	C6-S25	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	C7-S26	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	C8-S27	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	C9-S28	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	D1-S30	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	D10-S39	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Deferribacterota	2.34478512263266	0.0127472603810285	1.27472603810285	2202
+Bacteria	Deferribacterota	D2-S31	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	D3-S32	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	D4-S33	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	D5-S34	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	D6-S35	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	D7-S36	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Deferribacterota	1.3541084391474	0.00113049349181177	0.113049349181177	216
+Bacteria	Deferribacterota	D8-S37	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Deferribacterota	2.56902258602956	0.0340166724940653	3.40166724940653	3697
+Bacteria	Deferribacterota	D9-S38	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Deferribacterota	0.991226075692495	0.000687306694992033	0.0687306694992033	88
+Bacteria	Deferribacterota	E1-S40	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Deferribacterota	1.65030752313194	0.00370445721648611	0.370445721648611	437
+Bacteria	Deferribacterota	E10-S49	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Deferribacterota	1.10380372095596	0.00103874427358926	0.103874427358926	117
+Bacteria	Deferribacterota	E2-S41	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Deferribacterota	1.09342168516224	0.000849427753934192	0.0849427753934192	114
+Bacteria	Deferribacterota	E3-S42	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Deferribacterota	1.19033169817029	0.00117658514419254	0.117658514419254	145
+Bacteria	Deferribacterota	E5-S44	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Deferribacterota	0	0	0	0
+Bacteria	Deferribacterota	E6-S45	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Deferribacterota	1.56110138364906	0.00352565060204966	0.352565060204966	354
+Bacteria	Deferribacterota	E7-S46	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Deferribacterota	1.69635638873333	0.00499835782905	0.499835782905	487
+Bacteria	Deferribacterota	E8-S47	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Deferribacterota	2.15685190107001	0.011286592320365	1.1286592320365	1425
+Bacteria	Deferribacterota	E9-S48	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Deferribacterota	1.71096311899528	0.00403807326218633	0.403807326218633	504
+Bacteria	Desulfobacterota	A2-S3	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Desulfobacterota	2.10585067438514	0.0111905666881757	1.11905666881757	1266
+Bacteria	Desulfobacterota	A3-S4	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Desulfobacterota	1.86391737695786	0.00713967420904095	0.713967420904095	721
+Bacteria	Desulfobacterota	A4-S5	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Desulfobacterota	1.93751789201735	0.00734039360288128	0.734039360288128	856
+Bacteria	Desulfobacterota	A5-S6	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Desulfobacterota	1.95230800966213	0.00815469999723882	0.815469999723882	886
+Bacteria	Desulfobacterota	A6-S7	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Desulfobacterota	2.18012587516405	0.0163268850821772	1.63268850821772	1504
+Bacteria	Desulfobacterota	A7-S8	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Desulfobacterota	2.25935492730803	0.0216187114912963	2.16187114912963	1807
+Bacteria	Desulfobacterota	A8-S9	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Desulfobacterota	1.8494194137969	0.00800864059932668	0.800864059932668	697
+Bacteria	Desulfobacterota	B1-S10	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Desulfobacterota	1.00860017176192	0.00107691767432605	0.107691767432605	92
+Bacteria	Desulfobacterota	B10-S19	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Desulfobacterota	1.93701610746481	0.00878157000092438	0.878157000092438	855
+Bacteria	Desulfobacterota	B2-S11	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Desulfobacterota	2.46478751964594	0.0247449718149151	2.47449718149151	2906
+Bacteria	Desulfobacterota	B3-S12	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Desulfobacterota	1.02530586526477	0.000865519852861625	0.0865519852861625	96
+Bacteria	Desulfobacterota	B4-S13	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Desulfobacterota	1.10380372095596	0.00121241010549004	0.121241010549004	117
+Bacteria	Desulfobacterota	B5-S14	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Desulfobacterota	1.25285303097989	0.00170371490498513	0.170371490498513	169
+Bacteria	Desulfobacterota	B6-S15	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Desulfobacterota	1.0899051114394	0.00148391332895601	0.148391332895601	113
+Bacteria	Desulfobacterota	B7-S16	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Desulfobacterota	1.65991620006985	0.00409869886941931	0.409869886941931	447
+Bacteria	Desulfobacterota	B8-S17	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Desulfobacterota	1.85308952985187	0.00661584792019575	0.661584792019575	703
+Bacteria	Desulfobacterota	B9-S18	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Desulfobacterota	1.02530586526477	0.000949517328691249	0.0949517328691249	96
+Bacteria	Desulfobacterota	C1-S20	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Desulfobacterota	1.45788189673399	0.00251320111052641	0.251320111052641	277
+Bacteria	Desulfobacterota	C10-S29	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Desulfobacterota	2.45423489574827	0.0157732566546903	1.57732566546903	2836
+Bacteria	Desulfobacterota	C2-S21	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Desulfobacterota	1.25042000230889	0.00146623726860943	0.146623726860943	168
+Bacteria	Desulfobacterota	C3-S22	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Desulfobacterota	1.78532983501077	0.00808930593755056	0.808930593755056	600
+Bacteria	Desulfobacterota	C4-S23	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Desulfobacterota	2.36921585741014	0.0167635547369633	1.67635547369633	2330
+Bacteria	Desulfobacterota	C5-S24	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Desulfobacterota	2.09898963940118	0.00807968148157755	0.807968148157755	1246
+Bacteria	Desulfobacterota	C6-S25	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Desulfobacterota	1.68841982200271	0.0034577796425032	0.34577796425032	478
+Bacteria	Desulfobacterota	C7-S26	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Desulfobacterota	1.57863920996807	0.00243339488261672	0.243339488261672	369
+Bacteria	Desulfobacterota	C8-S27	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Desulfobacterota	2.82471144346473	0.0327874494225692	3.27874494225692	6669
+Bacteria	Desulfobacterota	C9-S28	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Desulfobacterota	2.70910028155117	0.0257263876787324	2.57263876787324	5108
+Bacteria	Desulfobacterota	D1-S30	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	D10-S39	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Desulfobacterota	1.81023251799508	0.00368177002830795	0.368177002830795	636
+Bacteria	Desulfobacterota	D2-S31	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	D3-S32	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	D4-S33	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	D5-S34	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	D6-S35	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	D7-S36	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Desulfobacterota	2.17435059747938	0.00776690899004014	0.776690899004014	1484
+Bacteria	Desulfobacterota	D8-S37	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Desulfobacterota	1.6170003411209	0.00371726688872122	0.371726688872122	404
+Bacteria	Desulfobacterota	D9-S38	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Desulfobacterota	1.80071707828238	0.00485800868505733	0.485800868505733	622
+Bacteria	Desulfobacterota	E1-S40	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Desulfobacterota	1.41664050733828	0.00212773171930895	0.212773171930895	251
+Bacteria	Desulfobacterota	E10-S49	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Desulfobacterota	1.78675142214556	0.00534465002308321	0.534465002308321	602
+Bacteria	Desulfobacterota	E2-S41	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Desulfobacterota	1.70757017609794	0.00372556032427277	0.372556032427277	500
+Bacteria	Desulfobacterota	E3-S42	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Desulfobacterota	1.82216807936802	0.00530680471932359	0.530680471932359	654
+Bacteria	Desulfobacterota	E5-S44	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Desulfobacterota	1.34439227368511	0.00199190023506311	0.199190023506311	211
+Bacteria	Desulfobacterota	E6-S45	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Desulfobacterota	1.88366143515362	0.00751939605804376	0.751939605804376	755
+Bacteria	Desulfobacterota	E7-S46	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Desulfobacterota	1.35983548233989	0.00224772148780688	0.224772148780688	219
+Bacteria	Desulfobacterota	E8-S47	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Desulfobacterota	2.33445375115093	0.0170288936763401	1.70288936763401	2150
+Bacteria	Desulfobacterota	E9-S48	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Desulfobacterota	1.19865708695442	0.00118578341826106	0.118578341826106	148
+Bacteria	Firmicutes	A2-S3	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Firmicutes	3.77183725696583	0.522615375096128	52.2615375096128	59124
+Bacteria	Firmicutes	A3-S4	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Firmicutes	3.75510463373605	0.56334109026093	56.334109026093	56889
+Bacteria	Firmicutes	A4-S5	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Firmicutes	3.86790333138887	0.632542983321185	63.2542983321185	73764
+Bacteria	Firmicutes	A5-S6	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Firmicutes	3.76193535210089	0.531905493837955	53.1905493837955	57791
+Bacteria	Firmicutes	A6-S7	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Firmicutes	3.6802811098633	0.519811546060488	51.9811546060488	47884
+Bacteria	Firmicutes	A7-S8	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Firmicutes	3.67661131445272	0.568056469462224	56.8056469462224	47481
+Bacteria	Firmicutes	A8-S9	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Firmicutes	3.66061886527902	0.525835621789937	52.5835621789937	45764
+Bacteria	Firmicutes	B1-S10	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Firmicutes	3.64218743310942	0.513432206861838	51.3432206861838	43862
+Bacteria	Firmicutes	B10-S19	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Firmicutes	3.66941916486503	0.479658597208385	47.9658597208385	46701
+Bacteria	Firmicutes	B2-S11	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Firmicutes	3.79592865560236	0.532170166385667	53.2170166385667	62497
+Bacteria	Firmicutes	B3-S12	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Firmicutes	3.75793476632776	0.516255544736557	51.6255544736557	57261
+Bacteria	Firmicutes	B4-S13	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Firmicutes	3.65623240032203	0.469461772812999	46.9461772812999	45304
+Bacteria	Firmicutes	B5-S14	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Firmicutes	3.68000898983399	0.482423509249458	48.2423509249458	47854
+Bacteria	Firmicutes	B6-S15	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Firmicutes	3.58081097266095	0.500065659881812	50.0065659881812	38080
+Bacteria	Firmicutes	B7-S16	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Firmicutes	3.70424491842302	0.463978213627486	46.3978213627486	50601
+Bacteria	Firmicutes	B8-S17	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Firmicutes	3.67168184488309	0.441793713532844	44.1793713532844	46945
+Bacteria	Firmicutes	B9-S18	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Firmicutes	3.60226623222853	0.395721237537585	39.5721237537585	40009
+Bacteria	Firmicutes	C1-S20	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Firmicutes	3.69109918196562	0.445408191039576	44.5408191039576	49092
+Bacteria	Firmicutes	C10-S29	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Firmicutes	3.97381109866825	0.523576458025117	52.3576458025117	94138
+Bacteria	Firmicutes	C2-S21	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Firmicutes	3.62763208762763	0.370189999912724	37.0189999912724	42416
+Bacteria	Firmicutes	C3-S22	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Firmicutes	3.54992240412951	0.478145391792051	47.8145391792051	35465
+Bacteria	Firmicutes	C4-S23	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Firmicutes	3.85845899346151	0.519288879935536	51.9288879935536	72177
+Bacteria	Firmicutes	C5-S24	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Firmicutes	3.83163305446394	0.439992477985138	43.9992477985138	67853
+Bacteria	Firmicutes	C6-S25	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Firmicutes	3.82098917641605	0.478953117427065	47.8953117427065	66210
+Bacteria	Firmicutes	C7-S26	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Firmicutes	3.83399446632319	0.449901081508837	44.9901081508837	68223
+Bacteria	Firmicutes	C8-S27	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Firmicutes	3.91207850831921	0.401487701633719	40.1487701633719	81663
+Bacteria	Firmicutes	C9-S28	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Firmicutes	3.91523621838166	0.414296578712774	41.4296578712774	82259
+Bacteria	Firmicutes	D1-S30	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Firmicutes	3.90772836602106	0.484624883113146	48.4624883113146	80849
+Bacteria	Firmicutes	D10-S39	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Firmicutes	4.10396099598793	0.735404618421586	73.5404618421586	127036
+Bacteria	Firmicutes	D2-S31	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Firmicutes	3.92187367586664	0.54070885256514	54.070885256514	83526
+Bacteria	Firmicutes	D3-S32	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Firmicutes	3.94982408412423	0.544545921361502	54.4545921361502	89079
+Bacteria	Firmicutes	D4-S33	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Firmicutes	3.989841218234	0.633639088184543	63.3639088184543	97678
+Bacteria	Firmicutes	D5-S34	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Firmicutes	3.86546524266635	0.642280480543589	64.2280480543589	73351
+Bacteria	Firmicutes	D6-S35	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Firmicutes	3.95060335871235	0.517531548668461	51.7531548668461	89239
+Bacteria	Firmicutes	D7-S36	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Firmicutes	4.02666806691068	0.556469720045848	55.6469720045848	106323
+Bacteria	Firmicutes	D8-S37	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Firmicutes	3.72910806842594	0.493025524005815	49.3025524005815	53583
+Bacteria	Firmicutes	D9-S38	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Firmicutes	3.8879097318214	0.603283451529257	60.3283451529257	77242
+Bacteria	Firmicutes	E1-S40	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Firmicutes	3.82363722203463	0.564696607497075	56.4696607497075	66615
+Bacteria	Firmicutes	E10-S49	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Firmicutes	3.83326188823779	0.604673461415533	60.4673461415533	68108
+Bacteria	Firmicutes	E2-S41	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Firmicutes	3.86316220094177	0.543656115879828	54.3656115879828	72963
+Bacteria	Firmicutes	E3-S42	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Firmicutes	3.87839539511664	0.613187490871322	61.3187490871322	75568
+Bacteria	Firmicutes	E5-S44	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Firmicutes	3.80757561444166	0.606028566303845	60.6028566303845	64196
+Bacteria	Firmicutes	E6-S45	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Firmicutes	3.81526552846654	0.650781320027488	65.0781320027488	65343
+Bacteria	Firmicutes	E7-S46	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Firmicutes	3.73179820737598	0.553370555874867	55.3370555874867	53916
+Bacteria	Firmicutes	E8-S47	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Firmicutes	3.89630019328072	0.62372481307819	62.372481307819	78749
+Bacteria	Firmicutes	E9-S48	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Firmicutes	3.8851519392003	0.614948883120213	61.4948883120213	76753
+Bacteria	Patescibacteria	A2-S3	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Patescibacteria	1.94101424370557	0.00762832468554154	0.762832468554154	863
+Bacteria	Patescibacteria	A3-S4	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Patescibacteria	1.83442070368153	0.00666435609248898	0.666435609248898	673
+Bacteria	Patescibacteria	A4-S5	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Patescibacteria	1.01283722470517	0.000797496033957896	0.0797496033957896	93
+Bacteria	Patescibacteria	A5-S6	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Patescibacteria	1.83442070368153	0.00619425857578073	0.619425857578073	673
+Bacteria	Patescibacteria	A6-S7	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Patescibacteria	0.973127853599699	0.00091187390086628	0.091187390086628	84
+Bacteria	Patescibacteria	A7-S8	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Patescibacteria	1.36735592102602	0.00266794281270563	0.266794281270563	223
+Bacteria	Patescibacteria	A8-S9	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Patescibacteria	0.414973347970818	0.000183842538865462	0.0183842538865462	16
+Bacteria	Patescibacteria	B1-S10	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Patescibacteria	1.39794000867204	0.0028093504547636	0.28093504547636	240
+Bacteria	Patescibacteria	B10-S19	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Patescibacteria	2.13861843389949	0.0140299703172663	1.40299703172663	1366
+Bacteria	Patescibacteria	B2-S11	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Patescibacteria	1.73957234445009	0.00458965581838928	0.458965581838928	539
+Bacteria	Patescibacteria	B3-S12	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Patescibacteria	1.51587384371168	0.00286703451260413	0.286703451260413	318
+Bacteria	Patescibacteria	B4-S13	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Patescibacteria	0.886490725172482	0.000694286128784896	0.0694286128784896	67
+Bacteria	Patescibacteria	B5-S14	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Patescibacteria	1.09691001300806	0.0011593326276526	0.11593326276526	115
+Bacteria	Patescibacteria	B6-S15	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Patescibacteria	1.83378437465648	0.00882468811556139	0.882468811556139	672
+Bacteria	Patescibacteria	B7-S16	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Patescibacteria	1.70757017609794	0.00458467435058088	0.458467435058088	500
+Bacteria	Patescibacteria	B8-S17	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Patescibacteria	1.43136376415899	0.00244682853378506	0.244682853378506	260
+Bacteria	Patescibacteria	B9-S18	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Patescibacteria	0.707570176097936	0.000405523025795221	0.0405523025795221	41
+Bacteria	Patescibacteria	C1-S20	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	C10-S29	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	C2-S21	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	C3-S22	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	C4-S23	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	C5-S24	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	C6-S25	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	C7-S26	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	C8-S27	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	C9-S28	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	D1-S30	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	D10-S39	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Patescibacteria	1.94448267215017	0.00503638352928918	0.503638352928918	870
+Bacteria	Patescibacteria	D2-S31	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	D3-S32	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	D4-S33	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	D5-S34	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	D6-S35	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Patescibacteria	0	0	0	0
+Bacteria	Patescibacteria	D7-S36	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Patescibacteria	1.97451169273733	0.00488310383268696	0.488310383268696	933
+Bacteria	Patescibacteria	D8-S37	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Patescibacteria	1.42488163663107	0.00235549585027879	0.235549585027879	256
+Bacteria	Patescibacteria	D9-S38	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Patescibacteria	1.94546858513182	0.00681058452310288	0.681058452310288	872
+Bacteria	Patescibacteria	E1-S40	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Patescibacteria	0.826074802700826	0.000483190071715579	0.0483190071715579	57
+Bacteria	Patescibacteria	E10-S49	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Patescibacteria	1.61172330800734	0.00354238431762492	0.354238431762492	399
+Bacteria	Patescibacteria	E2-S41	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Patescibacteria	1.39445168082622	0.00177336671435384	0.177336671435384	238
+Bacteria	Patescibacteria	E3-S42	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Patescibacteria	1.53907609879278	0.00272643178240478	0.272643178240478	336
+Bacteria	Patescibacteria	E5-S44	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Patescibacteria	0.591064607026499	0.000273768278752749	0.0273768278752749	29
+Bacteria	Patescibacteria	E6-S45	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Patescibacteria	1.6159500516564	0.00401366438594919	0.401366438594919	403
+Bacteria	Patescibacteria	E7-S46	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Patescibacteria	1.64933485871214	0.00447491583873881	0.447491583873881	436
+Bacteria	Patescibacteria	E8-S47	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Patescibacteria	1.54157924394658	0.00267710049423394	0.267710049423394	338
+Bacteria	Patescibacteria	E9-S48	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Patescibacteria	1.80071707828239	0.00498349517674583	0.498349517674583	622
+Bacteria	Proteobacteria	A2-S3	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Proteobacteria	1.91222205653242	0.00713332331544846	0.713332331544846	807
+Bacteria	Proteobacteria	A3-S4	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Proteobacteria	1.76937732607614	0.00572362232014656	0.572362232014656	578
+Bacteria	Proteobacteria	A4-S5	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Proteobacteria	2.04649516433471	0.00945847446726407	0.945847446726407	1103
+Bacteria	Proteobacteria	A5-S6	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Proteobacteria	1.65030752313194	0.0040221262966065	0.40221262966065	437
+Bacteria	Proteobacteria	A6-S7	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Proteobacteria	1.81557774832427	0.00699103323997481	0.699103323997481	644
+Bacteria	Proteobacteria	A7-S8	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Proteobacteria	1.39269695325967	0.00283543698031944	0.283543698031944	237
+Bacteria	Proteobacteria	A8-S9	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Proteobacteria	1.52504480703685	0.00373430157070469	0.373430157070469	325
+Bacteria	Proteobacteria	B1-S10	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Proteobacteria	1.79588001734408	0.00719896054033174	0.719896054033174	615
+Bacteria	Proteobacteria	B10-S19	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Proteobacteria	1.86628733908419	0.00744636052709962	0.744636052709962	725
+Bacteria	Proteobacteria	B2-S11	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Proteobacteria	1.93500315145365	0.0072463768115942	0.72463768115942	851
+Bacteria	Proteobacteria	B3-S12	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Proteobacteria	2.32118402730231	0.0187980093043384	1.87980093043384	2085
+Bacteria	Proteobacteria	B4-S13	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Proteobacteria	2.03019478535675	0.0110049532652173	1.10049532652173	1062
+Bacteria	Proteobacteria	B5-S14	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Proteobacteria	1.99956548822598	0.00997026059781239	0.997026059781239	989
+Bacteria	Proteobacteria	B6-S15	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Proteobacteria	1.76715586608218	0.00755088640840446	0.755088640840446	575
+Bacteria	Proteobacteria	B7-S16	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Proteobacteria	1.65030752313194	0.00400700538240769	0.400700538240769	437
+Bacteria	Proteobacteria	B8-S17	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Proteobacteria	2.182129214053	0.0142198381328816	1.42198381328816	1511
+Bacteria	Proteobacteria	B9-S18	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Proteobacteria	2.33264041038746	0.0211762145909163	2.11762145909163	2141
+Bacteria	Proteobacteria	C1-S20	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Proteobacteria	2.70432214082224	0.0458364332504673	4.58364332504673	5052
+Bacteria	Proteobacteria	C10-S29	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Proteobacteria	2.57217431361306	0.0207121325042548	2.07121325042548	3724
+Bacteria	Proteobacteria	C2-S21	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Proteobacteria	3.0376654933508	0.0950959599926688	9.50959599926688	10896
+Bacteria	Proteobacteria	C3-S22	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Proteobacteria	2.50433491180246	0.0429272501752683	4.29272501752683	3184
+Bacteria	Proteobacteria	C4-S23	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Proteobacteria	2.19368102954128	0.0111661102797283	1.11661102797283	1552
+Bacteria	Proteobacteria	C5-S24	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Proteobacteria	2.95085145888855	0.0578417004941186	5.78417004941186	8920
+Bacteria	Proteobacteria	C6-S25	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Proteobacteria	2.80147231352147	0.0457251571553614	4.57251571553614	6321
+Bacteria	Proteobacteria	C7-S26	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Proteobacteria	2.77662855342015	0.0393629649169085	3.93629649169085	5969
+Bacteria	Proteobacteria	C8-S27	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Proteobacteria	3.01485642004451	0.0508257088214906	5.08257088214906	10338
+Bacteria	Proteobacteria	C9-S28	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Proteobacteria	2.8513806679656	0.0357187825797906	3.57187825797906	7092
+Bacteria	Proteobacteria	D1-S30	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Proteobacteria	1.55266821611219	0.00207998657299734	0.207998657299734	347
+Bacteria	Proteobacteria	D10-S39	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Proteobacteria	0.755874855672491	0.000272080489513323	0.0272080489513323	47
+Bacteria	Proteobacteria	D2-S31	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Proteobacteria	1.95568775031351	0.00578087069105033	0.578087069105033	893
+Bacteria	Proteobacteria	D3-S32	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Proteobacteria	2.07700432679335	0.00723787167449139	0.723787167449139	1184
+Bacteria	Proteobacteria	D4-S33	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Proteobacteria	1.60422605308447	0.00254291163382072	0.254291163382072	392
+Bacteria	Proteobacteria	D5-S34	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Proteobacteria	1.75434833571102	0.00488599348534202	0.488599348534202	558
+Bacteria	Proteobacteria	D6-S35	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Proteobacteria	1.86805636182304	0.00422195416164053	0.422195416164053	728
+Bacteria	Proteobacteria	D7-S36	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Proteobacteria	2.25454807710897	0.0093527401382761	0.93527401382761	1787
+Bacteria	Proteobacteria	D8-S37	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Proteobacteria	0.845098040014257	0.000552069339909093	0.0552069339909093	60
+Bacteria	Proteobacteria	D9-S38	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Proteobacteria	1.58206336291171	0.00290543284701178	0.290543284701178	372
+Bacteria	Proteobacteria	E1-S40	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Proteobacteria	2.15866398081399	0.0121306139057016	1.21306139057016	1431
+Bacteria	Proteobacteria	E10-S49	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Proteobacteria	2.10105935490812	0.0111154515430235	1.11154515430235	1252
+Bacteria	Proteobacteria	E2-S41	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Proteobacteria	2.4605971888976	0.0214443252265141	2.14443252265141	2878
+Bacteria	Proteobacteria	E3-S42	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Proteobacteria	1.67024585307412	0.00371638617958747	0.371638617958747	458
+Bacteria	Proteobacteria	E5-S44	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Proteobacteria	2.21801004298436	0.0155009487486902	1.55009487486902	1642
+Bacteria	Proteobacteria	E6-S45	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Proteobacteria	2.02612451674545	0.0104773571563736	1.04773571563736	1052
+Bacteria	Proteobacteria	E7-S46	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Proteobacteria	2.13385812520333	0.0138660809590278	1.38660809590278	1351
+Bacteria	Proteobacteria	E8-S47	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Proteobacteria	1.88024177589548	0.0059323913318971	0.59323913318971	749
+Bacteria	Proteobacteria	E9-S48	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Proteobacteria	2.18610837981321	0.012218376438163	1.2218376438163	1525
+Bacteria	Verrucomicrobiota	A2-S3	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Verrucomicrobiota	1	0.000795537916221018	0.0795537916221018	90
+Bacteria	Verrucomicrobiota	A3-S4	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Verrucomicrobiota	0.792391689498254	0.00051492795959796	0.051492795959796	52
+Bacteria	Verrucomicrobiota	A4-S5	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Verrucomicrobiota	1.42324587393681	0.00218668267375552	0.218668267375552	255
+Bacteria	Verrucomicrobiota	A5-S6	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Verrucomicrobiota	1.16136800223497	0.00124253329529034	0.124253329529034	135
+Bacteria	Verrucomicrobiota	A6-S7	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Verrucomicrobiota	1.12385164096709	0.00133524392626848	0.133524392626848	123
+Bacteria	Verrucomicrobiota	A7-S8	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Verrucomicrobiota	1.2405492482826	0.00196207453490459	0.196207453490459	164
+Bacteria	Verrucomicrobiota	A8-S9	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Bacteria_/_Verrucomicrobiota	0.832508912706236	0.000666429203387299	0.0666429203387299	58
+Bacteria	Verrucomicrobiota	B1-S10	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Verrucomicrobiota	1.6954816764902	0.0056889346708963	0.56889346708963	486
+Bacteria	Verrucomicrobiota	B10-S19	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Verrucomicrobiota	2.26221370547642	0.0186826617914403	1.86826617914403	1819
+Bacteria	Verrucomicrobiota	B2-S11	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Verrucomicrobiota	1.68574173860226	0.00404468740952673	0.404468740952673	475
+Bacteria	Verrucomicrobiota	B3-S12	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Verrucomicrobiota	1.47421626407626	0.00259655955858487	0.259655955858487	288
+Bacteria	Verrucomicrobiota	B4-S13	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Verrucomicrobiota	0.939519252618618	0.000797910924125925	0.0797910924125925	77
+Bacteria	Verrucomicrobiota	B5-S14	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Verrucomicrobiota	1.15533603746506	0.00134079338676345	0.134079338676345	133
+Bacteria	Verrucomicrobiota	B6-S15	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Verrucomicrobiota	1.84073323461181	0.00896913985554826	0.896913985554826	683
+Bacteria	Verrucomicrobiota	B7-S16	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Verrucomicrobiota	1.14612803567824	0.00119201533115103	0.119201533115103	130
+Bacteria	Verrucomicrobiota	B8-S17	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Verrucomicrobiota	1.80413943233535	0.00590062111801242	0.590062111801242	627
+Bacteria	Verrucomicrobiota	B9-S18	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Bacteria_/_Verrucomicrobiota	2.00043407747932	0.0098017882576357	0.98017882576357	991
+Bacteria	Verrucomicrobiota	C1-S20	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Verrucomicrobiota	3.22167499707077	0.15106425447749	15.106425447749	16650
+Bacteria	Verrucomicrobiota	C10-S29	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Verrucomicrobiota	3.13309161025471	0.075506957808207	7.5506957808207	13576
+Bacteria	Verrucomicrobiota	C2-S21	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Verrucomicrobiota	3.35291537455385	0.196615435638293	19.6615435638293	22528
+Bacteria	Verrucomicrobiota	C3-S22	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Verrucomicrobiota	2.99756111563359	0.133931941972712	13.3931941972712	9934
+Bacteria	Verrucomicrobiota	C4-S23	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Verrucomicrobiota	3.08955188288645	0.0883504086566133	8.83504086566133	12280
+Bacteria	Verrucomicrobiota	C5-S24	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Verrucomicrobiota	3.36123661673133	0.1489099562945	14.89099562945	22964
+Bacteria	Verrucomicrobiota	C6-S25	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Verrucomicrobiota	3.12668326338829	0.0967671930497182	9.67671930497182	13377
+Bacteria	Verrucomicrobiota	C7-S26	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Verrucomicrobiota	3.405397591265	0.167653653389607	16.7653653389607	25423
+Bacteria	Verrucomicrobiota	C8-S27	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Verrucomicrobiota	3.55314239650321	0.175657936784972	17.5657936784972	35729
+Bacteria	Verrucomicrobiota	C9-S28	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Verrucomicrobiota	3.50066177627452	0.159460289799598	15.9460289799598	31661
+Bacteria	Verrucomicrobiota	D1-S30	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Verrucomicrobiota	3.31580246973704	0.123971995108735	12.3971995108735	20682
+Bacteria	Verrucomicrobiota	D10-S39	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Verrucomicrobiota	2.03622954408629	0.00623469547246488	0.623469547246488	1077
+Bacteria	Verrucomicrobiota	D2-S31	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Verrucomicrobiota	0.913813852383717	0.000466094837352322	0.0466094837352322	72
+Bacteria	Verrucomicrobiota	D3-S32	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Verrucomicrobiota	1.16136800223497	0.000825264084507042	0.0825264084507042	135
+Bacteria	Verrucomicrobiota	D4-S33	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Verrucomicrobiota	3.19309675807227	0.101126146580692	10.1126146580692	15589
+Bacteria	Verrucomicrobiota	D5-S34	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Verrucomicrobiota	0.278753600952829	7.88063465377745e-05	0.00788063465377745	9
+Bacteria	Verrucomicrobiota	D6-S35	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Verrucomicrobiota	3.47917206550173	0.174747146701308	17.4747146701308	30132
+Bacteria	Verrucomicrobiota	D7-S36	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Verrucomicrobiota	1.17026171539496	0.000722259730879744	0.0722259730879744	138
+Bacteria	Verrucomicrobiota	D8-S37	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Verrucomicrobiota	1.6063813651106	0.00362525533206971	0.362525533206971	394
+Bacteria	Verrucomicrobiota	D9-S38	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Bacteria_/_Verrucomicrobiota	0.886490725172482	0.000523290324596207	0.0523290324596207	67
+Bacteria	Verrucomicrobiota	E1-S40	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Verrucomicrobiota	1.19033169817029	0.00122916772629402	0.122916772629402	145
+Bacteria	Verrucomicrobiota	E10-S49	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Verrucomicrobiota	1.14921911265538	0.00116303846017259	0.116303846017259	131
+Bacteria	Verrucomicrobiota	E2-S41	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Verrucomicrobiota	1.12057393120585	0.000909036719122556	0.0909036719122556	122
+Bacteria	Verrucomicrobiota	E3-S42	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Verrucomicrobiota	1.37106786227174	0.00182573556857463	0.182573556857463	225
+Bacteria	Verrucomicrobiota	E5-S44	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Verrucomicrobiota	0.740362689494244	0.000424812846340473	0.0424812846340473	45
+Bacteria	Verrucomicrobiota	E6-S45	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Verrucomicrobiota	1.24303804868629	0.00164331172129433	0.164331172129433	165
+Bacteria	Verrucomicrobiota	E7-S46	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Verrucomicrobiota	1.07554696139253	0.0011187289596847	0.11187289596847	109
+Bacteria	Verrucomicrobiota	E8-S47	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Verrucomicrobiota	1.73639650227664	0.0042374223799265	0.42374223799265	535
+Bacteria	Verrucomicrobiota	E9-S48	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Bacteria_/_Verrucomicrobiota	1.45024910831936	0.00217927763356088	0.217927763356088	272
+Other	Other	A2-S3	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Other_/_Other	0	0	0	0
+Other	Other	A3-S4	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Other_/_Other	0	0	0	0
+Other	Other	A4-S5	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Other_/_Other	0	0	0	0
+Other	Other	A5-S6	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Other_/_Other	0	0	0	0
+Other	Other	A6-S7	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Other_/_Other	0	0	0	0
+Other	Other	A7-S8	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Other_/_Other	0	0	0	0
+Other	Other	A8-S9	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	Other_/_Other	0	0	0	0
+Other	Other	B1-S10	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Other_/_Other	0.447158031342219	0.00021070128410727	0.021070128410727	18
+Other	Other	B10-S19	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Other_/_Other	0.832508912706236	0.000595708842167969	0.0595708842167969	58
+Other	Other	B2-S11	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Other_/_Other	0.770852011642144	0.000417241438035389	0.0417241438035389	49
+Other	Other	B3-S12	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Other_/_Other	0.880813592280791	0.000595044898842367	0.0595044898842367	66
+Other	Other	B4-S13	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Other_/_Other	0	0	0	0
+Other	Other	B5-S14	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Other_/_Other	0.897627091290441	0.000695599576591562	0.0695599576591562	69
+Other	Other	B6-S15	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Other_/_Other	0.342422680822206	0.000157583716349311	0.0157583716349311	12
+Other	Other	B7-S16	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Other_/_Other	0.57978359661681	0.000256741763632529	0.0256741763632529	28
+Other	Other	B8-S17	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Other_/_Other	0.176091259055681	4.70543948804818e-05	0.00470543948804818	5
+Other	Other	B9-S18	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	Other_/_Other	0.491361693834273	0.000207706915651211	0.0207706915651211	21
+Other	Other	C1-S20	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Other_/_Other	0	0	0	0
+Other	Other	C10-S29	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Other_/_Other	1.98000337158375	0.00525589828585413	0.525589828585413	945
+Other	Other	C2-S21	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Other_/_Other	0	0	0	0
+Other	Other	C3-S22	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Other_/_Other	1.06818586174616	0.00144259289219652	0.144259289219652	107
+Other	Other	C4-S23	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Other_/_Other	1.93500315145365	0.00612265454126856	0.612265454126856	851
+Other	Other	C5-S24	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Other_/_Other	1.16435285578444	0.000881891397668175	0.0881891397668175	136
+Other	Other	C6-S25	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Other_/_Other	1.06069784035361	0.000759554105570787	0.0759554105570787	105
+Other	Other	C7-S26	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Other_/_Other	0	0	0	0
+Other	Other	C8-S27	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Other_/_Other	0.89209460269048	0.000334314973869352	0.0334314973869352	68
+Other	Other	C9-S28	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	Other_/_Other	0	0	0	0
+Other	Other	D1-S30	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Other_/_Other	0	0	0	0
+Other	Other	D10-S39	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Other_/_Other	0	0	0	0
+Other	Other	D2-S31	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Other_/_Other	0	0	0	0
+Other	Other	D3-S32	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Other_/_Other	0	0	0	0
+Other	Other	D4-S33	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Other_/_Other	0	0	0	0
+Other	Other	D5-S34	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Other_/_Other	0	0	0	0
+Other	Other	D6-S35	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Other_/_Other	0	0	0	0
+Other	Other	D7-S36	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Other_/_Other	0.643452676486187	0.000177948049637038	0.0177948049637038	34
+Other	Other	D8-S37	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Other_/_Other	0	0	0	0
+Other	Other	D9-S38	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	Other_/_Other	0.477121254719662	0.000156206067043644	0.0156206067043644	20
+Other	Other	E1-S40	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Other_/_Other	1.15228834438306	0.00111896648186766	0.111896648186766	132
+Other	Other	E10-S49	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Other_/_Other	1.34635297445064	0.001882169111119	0.1882169111119	212
+Other	Other	E2-S41	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Other_/_Other	1.45788189673399	0.00206396041964711	0.206396041964711	277
+Other	Other	E3-S42	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Other_/_Other	0	0	0	0
+Other	Other	E5-S44	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Other_/_Other	0	0	0	0
+Other	Other	E6-S45	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Other_/_Other	1.04921802267018	0.00101586542770922	0.101586542770922	102
+Other	Other	E7-S46	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Other_/_Other	1.08278537031645	0.00113925609655965	0.113925609655965	111
+Other	Other	E8-S47	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Other_/_Other	1.20951501454263	0.00120390318083893	0.120390318083893	152
+Other	Other	E9-S48	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	Other_/_Other	1.26245108973043	0.0013860846713457	0.13860846713457	173

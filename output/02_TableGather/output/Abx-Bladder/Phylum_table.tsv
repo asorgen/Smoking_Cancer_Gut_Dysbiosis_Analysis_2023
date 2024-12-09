@@ -1,0 +1,217 @@
+Domain	Phylum	SampleID	MouseModel	MouseID	Cancer	SmokeExp	AntibioticExp	TumorImp	Treatment	TumorWeight_avg	TumorWeight_sd	Study	Taxon	NormalizedCounts	RelativeAbundance	PercentAbundance	RawCounts
+Bacteria	Actinobacteriota	P113ABX1-S180	WT	Bla-ABX1	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Bacteria_/_Actinobacteriota	0.78710609303657	0.00167237722303802	0.167237722303802	41
+Bacteria	Actinobacteriota	P113ABX2-S181	WT	Bla-ABX2	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Bacteria_/_Actinobacteriota	0	0	0	0
+Bacteria	Actinobacteriota	P113ABX3-S182	WT	Bla-ABX3	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Bacteria_/_Actinobacteriota	0	0	0	0
+Bacteria	Actinobacteriota	P113ABX4-S183	WT	Bla-ABX4	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Bacteria_/_Actinobacteriota	0	0	0	0
+Bacteria	Actinobacteriota	P113ABX5-S184	WT	Bla-ABX5	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Bacteria_/_Actinobacteriota	0.511883360978874	0.000557517190113362	0.0557517190113362	18
+Bacteria	Actinobacteriota	P113CT1-S164	WT	Bla-CT1	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Actinobacteriota	2.37794338025578	0.0614817688130334	6.14817688130334	1902
+Bacteria	Actinobacteriota	P113CT2-S165	WT	Bla-CT2	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Actinobacteriota	2.05259776332156	0.0610213404240813	6.10213404240813	895
+Bacteria	Actinobacteriota	P113CT3-S166	WT	Bla-CT3	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Actinobacteriota	2.13433651094868	0.0741400575579005	7.41400575579005	1082
+Bacteria	Actinobacteriota	P113CT4-S167	WT	Bla-CT4	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Actinobacteriota	2.55448916000382	0.0935190635014061	9.35190635014061	2860
+Bacteria	Actinobacteriota	P113CT5-S168	WT	Bla-CT5	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Actinobacteriota	2.58799142643124	0.0901163638484645	9.01163638484645	3090
+Bacteria	Actinobacteriota	P113CT6-S169	WT	Bla-CT6	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Actinobacteriota	2.42406452541749	0.079351983799595	7.9351983799595	2116
+Bacteria	Actinobacteriota	P113CT7-S170	WT	Bla-CT7	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Actinobacteriota	2.45541592449829	0.0824813284025814	8.24813284025814	2275
+Bacteria	Actinobacteriota	P113CT8-S171	WT	Bla-CT8	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Actinobacteriota	2.27818178456752	0.0499091059329037	4.99091059329037	1510
+Bacteria	Actinobacteriota	P113SA1-S185	WT	Bla-SA1	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Actinobacteriota	1.10974723771323	0.00300139011752812	0.300139011752812	95
+Bacteria	Actinobacteriota	P113SA2-S186	WT	Bla-SA2	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Actinobacteriota	0	0	0	0
+Bacteria	Actinobacteriota	P113SA3-S187	WT	Bla-SA3	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Actinobacteriota	0.574031267727719	0.000716705759708105	0.0716705759708105	22
+Bacteria	Actinobacteriota	P113SA4-S188	WT	Bla-SA4	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Actinobacteriota	0.138302698166281	0.000113216091780512	0.0113216091780512	3
+Bacteria	Actinobacteriota	P113SA5-S189	WT	Bla-SA5	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Actinobacteriota	0.494850021680094	0.000802530330925742	0.0802530330925742	17
+Bacteria	Actinobacteriota	P113SA6-S190	WT	Bla-SA6	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Actinobacteriota	0	0	0	0
+Bacteria	Actinobacteriota	P113SM1-S172	WT	Bla-SM1	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Actinobacteriota	1.76993092013695	0.0158074428132468	1.58074428132468	463
+Bacteria	Actinobacteriota	P113SM2-S173	WT	Bla-SM2	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Actinobacteriota	2	0.031015037593985	3.1015037593985	792
+Bacteria	Actinobacteriota	P113SM3-S174	WT	Bla-SM3	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Actinobacteriota	1.8187206282206	0.0220616365568544	2.20616365568544	519
+Bacteria	Actinobacteriota	P113SM4-S175	WT	Bla-SM4	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Actinobacteriota	2.12180597311554	0.0352980688497061	3.52980688497061	1051
+Bacteria	Actinobacteriota	P113SM5-S176	WT	Bla-SM5	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Actinobacteriota	1.74429298312268	0.0131507510405984	1.31507510405984	436
+Bacteria	Actinobacteriota	P113SM6-S177	WT	Bla-SM6	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Actinobacteriota	1.86923171973098	0.0241282432655759	2.41282432655759	584
+Bacteria	Actinobacteriota	P113SM7-S178	WT	Bla-SM7	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Actinobacteriota	1.66861884481674	0.017843175596402	1.7843175596402	365
+Bacteria	Actinobacteriota	P113SM8-S179	WT	Bla-SM8	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Actinobacteriota	2.13273983826088	0.0413756045137023	4.13756045137023	1078
+Bacteria	Bacteroidota	P113ABX1-S180	WT	Bla-ABX1	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Bacteria_/_Bacteroidota	1.55630250076729	0.0114211127426986	1.14211127426986	280
+Bacteria	Bacteroidota	P113ABX2-S181	WT	Bla-ABX2	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Bacteria_/_Bacteroidota	1	0.00219091379362809	0.219091379362809	72
+Bacteria	Bacteroidota	P113ABX3-S182	WT	Bla-ABX3	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Bacteria_/_Bacteroidota	0.176091259055681	0.00019933223700603	0.019933223700603	4
+Bacteria	Bacteroidota	P113ABX4-S183	WT	Bla-ABX4	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Bacteria_/_Bacteroidota	0	0	0	0
+Bacteria	Bacteroidota	P113ABX5-S184	WT	Bla-ABX5	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Bacteria_/_Bacteroidota	0.439332693830263	0.000433624481199281	0.0433624481199281	14
+Bacteria	Bacteroidota	P113CT1-S164	WT	Bla-CT1	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Bacteroidota	3.21258707812389	0.421644685802948	42.1644685802948	13044
+Bacteria	Bacteroidota	P113CT2-S165	WT	Bla-CT2	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Bacteroidota	2.83600745912553	0.373355151019295	37.3355151019295	5476
+Bacteria	Bacteroidota	P113CT3-S166	WT	Bla-CT3	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Bacteroidota	2.78586347564547	0.334246950801699	33.4246950801699	4878
+Bacteria	Bacteroidota	P113CT4-S167	WT	Bla-CT4	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Bacteroidota	3.14856409712134	0.36802694395396	36.802694395396	11255
+Bacteria	Bacteroidota	P113CT5-S168	WT	Bla-CT5	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Bacteroidota	3.21768130594505	0.384904779958587	38.4904779958587	13198
+Bacteria	Bacteroidota	P113CT6-S169	WT	Bla-CT6	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Bacteroidota	3.13711664058277	0.411085277131928	41.1085277131928	10962
+Bacteria	Bacteroidota	P113CT7-S170	WT	Bla-CT7	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Bacteroidota	3.10940979054637	0.372851859908636	37.2851859908636	10284
+Bacteria	Bacteroidota	P113CT8-S171	WT	Bla-CT8	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Bacteroidota	3.18818997723689	0.407568996860023	40.7568996860023	12331
+Bacteria	Bacteroidota	P113SA1-S185	WT	Bla-SA1	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Bacteroidota	0.709693869727792	0.00104258814608871	0.104258814608871	33
+Bacteria	Bacteroidota	P113SA2-S186	WT	Bla-SA2	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Bacteroidota	0	0	0	0
+Bacteria	Bacteroidota	P113SA3-S187	WT	Bla-SA3	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Bacteroidota	0.375663613960885	0.000358352879854053	0.0358352879854053	11
+Bacteria	Bacteroidota	P113SA4-S188	WT	Bla-SA4	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Bacteroidota	0	0	0	0
+Bacteria	Bacteroidota	P113SA5-S189	WT	Bla-SA5	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Bacteroidota	1.73138728316879	0.0199688429400935	1.99688429400935	423
+Bacteria	Bacteroidota	P113SA6-S190	WT	Bla-SA6	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Bacteroidota	0	0	0	0
+Bacteria	Bacteroidota	P113SM1-S172	WT	Bla-SM1	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Bacteroidota	3.04178731897175	0.300443837487197	30.0443837487197	8800
+Bacteria	Bacteroidota	P113SM2-S173	WT	Bla-SM2	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Bacteroidota	3.01771139483371	0.326010338345865	32.6010338345865	8325
+Bacteria	Bacteroidota	P113SM3-S174	WT	Bla-SM3	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Bacteroidota	3.03482891565584	0.368119022316684	36.8119022316684	8660
+Bacteria	Bacteroidota	P113SM4-S175	WT	Bla-SM4	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Bacteroidota	3.18906900939932	0.414979009235936	41.4979009235936	12356
+Bacteria	Bacteroidota	P113SM5-S176	WT	Bla-SM5	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Bacteroidota	3.09091904613167	0.297249200699765	29.7249200699765	9855
+Bacteria	Bacteroidota	P113SM6-S177	WT	Bla-SM6	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Bacteroidota	3.07900025230385	0.396132870599901	39.6132870599901	9588
+Bacteria	Bacteroidota	P113SM7-S178	WT	Bla-SM7	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Bacteroidota	2.98878184345364	0.380719593273367	38.0719593273367	7788
+Bacteria	Bacteroidota	P113SM8-S179	WT	Bla-SM8	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Bacteroidota	3.0442456889568	0.339679127964996	33.9679127964996	8850
+Bacteria	Campilobacterota	P113ABX1-S180	WT	Bla-ABX1	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	P113ABX2-S181	WT	Bla-ABX2	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	P113ABX3-S182	WT	Bla-ABX3	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Bacteria_/_Campilobacterota	0.439332693830263	0.000697662829521104	0.0697662829521104	14
+Bacteria	Campilobacterota	P113ABX4-S183	WT	Bla-ABX4	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	P113ABX5-S184	WT	Bla-ABX5	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Bacteria_/_Campilobacterota	0.966141732739033	0.00204422969708233	0.204422969708233	66
+Bacteria	Campilobacterota	P113CT1-S164	WT	Bla-CT1	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	P113CT2-S165	WT	Bla-CT2	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Campilobacterota	0.210853365314893	0.000340901343151292	0.0340901343151292	5
+Bacteria	Campilobacterota	P113CT3-S166	WT	Bla-CT3	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	P113CT4-S167	WT	Bla-CT4	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	P113CT5-S168	WT	Bla-CT5	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	P113CT6-S169	WT	Bla-CT6	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	P113CT7-S170	WT	Bla-CT7	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	P113CT8-S171	WT	Bla-CT8	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	P113SA1-S185	WT	Bla-SA1	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Campilobacterota	0.676693609624867	0.000947807405535195	0.0947807405535195	30
+Bacteria	Campilobacterota	P113SA2-S186	WT	Bla-SA2	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	P113SA3-S187	WT	Bla-SA3	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	P113SA4-S188	WT	Bla-SA4	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Campilobacterota	0.32735893438633	0.000339648275341535	0.0339648275341535	9
+Bacteria	Campilobacterota	P113SA5-S189	WT	Bla-SA5	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Campilobacterota	0.397940008672038	0.000566491998300524	0.0566491998300524	12
+Bacteria	Campilobacterota	P113SA6-S190	WT	Bla-SA6	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Campilobacterota	0.273001272063738	0.00039849709666401	0.039849709666401	7
+Bacteria	Campilobacterota	P113SM1-S172	WT	Bla-SM1	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	P113SM2-S173	WT	Bla-SM2	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	P113SM3-S174	WT	Bla-SM3	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	P113SM4-S175	WT	Bla-SM4	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	P113SM5-S176	WT	Bla-SM5	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	P113SM6-S177	WT	Bla-SM6	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Campilobacterota	0	0	0	0
+Bacteria	Campilobacterota	P113SM7-S178	WT	Bla-SM7	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Campilobacterota	0.273001272063738	0.000342197888150176	0.0342197888150176	7
+Bacteria	Campilobacterota	P113SM8-S179	WT	Bla-SM8	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Campilobacterota	0.301029995663981	0.000307054578951409	0.0307054578951409	8
+Bacteria	Desulfobacterota	P113ABX1-S180	WT	Bla-ABX1	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	P113ABX2-S181	WT	Bla-ABX2	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	P113ABX3-S182	WT	Bla-ABX3	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	P113ABX4-S183	WT	Bla-ABX4	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	P113ABX5-S184	WT	Bla-ABX5	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	P113CT1-S164	WT	Bla-CT1	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	P113CT2-S165	WT	Bla-CT2	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	P113CT3-S166	WT	Bla-CT3	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	P113CT4-S167	WT	Bla-CT4	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Desulfobacterota	1.46239799789896	0.00732457000850173	0.732457000850173	224
+Bacteria	Desulfobacterota	P113CT5-S168	WT	Bla-CT5	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Desulfobacterota	1.57403126772772	0.00851585056432092	0.851585056432092	292
+Bacteria	Desulfobacterota	P113CT6-S169	WT	Bla-CT6	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	P113CT7-S170	WT	Bla-CT7	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Desulfobacterota	1.19382002601611	0.00424189688927561	0.424189688927561	117
+Bacteria	Desulfobacterota	P113CT8-S171	WT	Bla-CT8	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	P113SA1-S185	WT	Bla-SA1	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	P113SA2-S186	WT	Bla-SA2	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	P113SA3-S187	WT	Bla-SA3	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	P113SA4-S188	WT	Bla-SA4	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	P113SA5-S189	WT	Bla-SA5	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	P113SA6-S190	WT	Bla-SA6	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	P113SM1-S172	WT	Bla-SM1	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	P113SM2-S173	WT	Bla-SM2	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	P113SM3-S174	WT	Bla-SM3	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	P113SM4-S175	WT	Bla-SM4	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	P113SM5-S176	WT	Bla-SM5	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	P113SM6-S177	WT	Bla-SM6	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	P113SM7-S178	WT	Bla-SM7	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Desulfobacterota	P113SM8-S179	WT	Bla-SM8	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Desulfobacterota	0	0	0	0
+Bacteria	Firmicutes	P113ABX1-S180	WT	Bla-ABX1	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Bacteria_/_Firmicutes	1.01072386539177	0.00301843693914178	0.301843693914178	74
+Bacteria	Firmicutes	P113ABX2-S181	WT	Bla-ABX2	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Bacteria_/_Firmicutes	0.653212513775344	0.000852022030855369	0.0852022030855369	28
+Bacteria	Firmicutes	P113ABX3-S182	WT	Bla-ABX3	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Bacteria_/_Firmicutes	0.867762024650201	0.00254148602182688	0.254148602182688	51
+Bacteria	Firmicutes	P113ABX4-S183	WT	Bla-ABX4	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Bacteria_/_Firmicutes	0.0969100130080564	6.44558316413678e-05	0.00644558316413678	2
+Bacteria	Firmicutes	P113ABX5-S184	WT	Bla-ABX5	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Bacteria_/_Firmicutes	1.57112627708431	0.00898222139627083	0.898222139627083	290
+Bacteria	Firmicutes	P113CT1-S164	WT	Bla-CT1	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Firmicutes	3.21679247099304	0.425749935350401	42.5749935350401	13171
+Bacteria	Firmicutes	P113CT2-S165	WT	Bla-CT2	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Firmicutes	2.94896282170591	0.484420808617986	48.4420808617986	7105
+Bacteria	Firmicutes	P113CT3-S166	WT	Bla-CT3	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Firmicutes	2.98193180787035	0.525284363437029	52.5284363437029	7666
+Bacteria	Firmicutes	P113CT4-S167	WT	Bla-CT4	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Firmicutes	3.2935282843383	0.513962461578706	51.3962461578706	15718
+Bacteria	Firmicutes	P113CT5-S168	WT	Bla-CT5	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Firmicutes	3.32405083843124	0.491790370089533	49.1790370089533	16863
+Bacteria	Firmicutes	P113CT6-S169	WT	Bla-CT6	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Firmicutes	3.19340290306242	0.468011700292507	46.8011700292507	12480
+Bacteria	Firmicutes	P113CT7-S170	WT	Bla-CT7	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Firmicutes	3.23388410876589	0.496700746863897	49.6700746863897	13700
+Bacteria	Firmicutes	P113CT8-S171	WT	Bla-CT8	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Firmicutes	3.25872705317575	0.47949099322426	47.949099322426	14507
+Bacteria	Firmicutes	P113SA1-S185	WT	Bla-SA1	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Firmicutes	1.50514997831991	0.00783520788575761	0.783520788575761	248
+Bacteria	Firmicutes	P113SA2-S186	WT	Bla-SA2	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Firmicutes	0	0	0	0
+Bacteria	Firmicutes	P113SA3-S187	WT	Bla-SA3	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Firmicutes	0.419129307741976	0.000423507948918426	0.0423507948918426	13
+Bacteria	Firmicutes	P113SA4-S188	WT	Bla-SA4	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Firmicutes	0.971971276399756	0.00252849271643143	0.252849271643143	67
+Bacteria	Firmicutes	P113SA5-S189	WT	Bla-SA5	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Firmicutes	2.16286299332193	0.0545720625029505	5.45720625029505	1156
+Bacteria	Firmicutes	P113SA6-S190	WT	Bla-SA6	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Firmicutes	0.829303772831025	0.00261869520664921	0.261869520664921	46
+Bacteria	Firmicutes	P113SM1-S172	WT	Bla-SM1	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Firmicutes	3.35056296149162	0.611983612154319	61.1983612154319	17925
+Bacteria	Firmicutes	P113SM2-S173	WT	Bla-SM2	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Firmicutes	3.22608411597582	0.526942355889724	52.6942355889724	13456
+Bacteria	Firmicutes	P113SM3-S174	WT	Bla-SM3	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Firmicutes	3.20621851825481	0.546397449521785	54.6397449521785	12854
+Bacteria	Firmicutes	P113SM4-S175	WT	Bla-SM4	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Firmicutes	3.24714437196595	0.474391267842149	47.4391267842149	14125
+Bacteria	Firmicutes	P113SM5-S176	WT	Bla-SM5	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Firmicutes	3.35886244585219	0.551094890510949	55.1094890510949	18271
+Bacteria	Firmicutes	P113SM6-S177	WT	Bla-SM6	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Firmicutes	3.16879202031418	0.487192199636424	48.7192199636424	11792
+Bacteria	Firmicutes	P113SM7-S178	WT	Bla-SM7	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Firmicutes	3.04785872740746	0.436253421978882	43.6253421978882	8924
+Bacteria	Firmicutes	P113SM8-S179	WT	Bla-SM8	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Firmicutes	3.20988347234121	0.497543563368389	49.7543563368389	12963
+Bacteria	Proteobacteria	P113ABX1-S180	WT	Bla-ABX1	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Bacteria_/_Proteobacteria	3.38727856862532	0.795684450970795	79.5684450970795	19507
+Bacteria	Proteobacteria	P113ABX2-S181	WT	Bla-ABX2	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Bacteria_/_Proteobacteria	3.56389619587502	0.891580196573654	89.1580196573654	29300
+Bacteria	Proteobacteria	P113ABX3-S182	WT	Bla-ABX3	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Bacteria_/_Proteobacteria	3.3336487565147	0.859121941495988	85.9121941495988	17240
+Bacteria	Proteobacteria	P113ABX4-S183	WT	Bla-ABX4	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Bacteria_/_Proteobacteria	3.55592534530989	0.927100454413613	92.7100454413613	28767
+Bacteria	Proteobacteria	P113ABX5-S184	WT	Bla-ABX5	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Bacteria_/_Proteobacteria	3.55661905842938	0.89243015548535	89.243015548535	28813
+Bacteria	Proteobacteria	P113CT1-S164	WT	Bla-CT1	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Proteobacteria	2.37428998767531	0.0609645720196535	6.09645720196535	1886
+Bacteria	Proteobacteria	P113CT2-S165	WT	Bla-CT2	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Proteobacteria	2.02989083493125	0.0578850480670894	5.78850480670894	849
+Bacteria	Proteobacteria	P113CT3-S166	WT	Bla-CT3	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Proteobacteria	2.04630001965297	0.0604357955324106	6.04357955324106	882
+Bacteria	Proteobacteria	P113CT4-S167	WT	Bla-CT4	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Proteobacteria	0.882239848018823	0.00173304558236871	0.173304558236871	53
+Bacteria	Proteobacteria	P113CT5-S168	WT	Bla-CT5	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Proteobacteria	0.640978057358332	0.000787424538481729	0.0787424538481729	27
+Bacteria	Proteobacteria	P113CT6-S169	WT	Bla-CT6	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Proteobacteria	2.03742649794062	0.0324008100202505	3.24008100202505	864
+Bacteria	Proteobacteria	P113CT7-S170	WT	Bla-CT7	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Proteobacteria	1.10551018476997	0.00340801972300776	0.340801972300776	94
+Bacteria	Proteobacteria	P113CT8-S171	WT	Bla-CT8	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Proteobacteria	2.0836817472743	0.0317963972897042	3.17963972897042	962
+Bacteria	Proteobacteria	P113SA1-S185	WT	Bla-SA1	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Proteobacteria	3.54760550673506	0.891602426386958	89.1602426386958	28221
+Bacteria	Proteobacteria	P113SA2-S186	WT	Bla-SA2	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Proteobacteria	3.3522066449124	0.814531462200091	81.4531462200091	17993
+Bacteria	Proteobacteria	P113SA3-S187	WT	Bla-SA3	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Proteobacteria	3.49561370812114	0.815611154547824	81.5611154547824	25036
+Bacteria	Proteobacteria	P113SA4-S188	WT	Bla-SA4	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Proteobacteria	3.42209716313171	0.797645105290965	79.7645105290965	21136
+Bacteria	Proteobacteria	P113SA5-S189	WT	Bla-SA5	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Proteobacteria	3.30338507482474	0.759052070056177	75.9052070056177	16079
+Bacteria	Proteobacteria	P113SA6-S190	WT	Bla-SA6	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Proteobacteria	3.2464062464738	0.802743937151315	80.2743937151315	14101
+Bacteria	Proteobacteria	P113SM1-S172	WT	Bla-SM1	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Proteobacteria	2.11352556056523	0.0351997268692386	3.51997268692386	1031
+Bacteria	Proteobacteria	P113SM2-S173	WT	Bla-SM2	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Proteobacteria	2.23331346114205	0.053297305764411	5.3297305764411	1361
+Bacteria	Proteobacteria	P113SM3-S174	WT	Bla-SM3	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Proteobacteria	1.80020139112672	0.0211264612114772	2.11264612114772	497
+Bacteria	Proteobacteria	P113SM4-S175	WT	Bla-SM4	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Proteobacteria	2.08323379005882	0.0322753988245172	3.22753988245172	961
+Bacteria	Proteobacteria	P113SM5-S176	WT	Bla-SM5	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Proteobacteria	2.13113727377861	0.0323942812330337	3.23942812330337	1074
+Bacteria	Proteobacteria	P113SM6-S177	WT	Bla-SM6	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Proteobacteria	1.95484527772749	0.0294579408362254	2.94579408362254	713
+Bacteria	Proteobacteria	P113SM7-S178	WT	Bla-SM7	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Proteobacteria	2.40802785567056	0.099677356276887	9.9677356276887	2039
+Bacteria	Proteobacteria	P113SM8-S179	WT	Bla-SM8	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Proteobacteria	2.41601607231783	0.0797190450602595	7.97190450602595	2077
+Bacteria	Verrucomicrobiota	P113ABX1-S180	WT	Bla-ABX1	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Bacteria_/_Verrucomicrobiota	0.210853365314893	0.000203948441833904	0.0203948441833904	5
+Bacteria	Verrucomicrobiota	P113ABX2-S181	WT	Bla-ABX2	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Bacteria_/_Verrucomicrobiota	0	0	0	0
+Bacteria	Verrucomicrobiota	P113ABX3-S182	WT	Bla-ABX3	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Bacteria_/_Verrucomicrobiota	0	0	0	0
+Bacteria	Verrucomicrobiota	P113ABX4-S183	WT	Bla-ABX4	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Bacteria_/_Verrucomicrobiota	0	0	0	0
+Bacteria	Verrucomicrobiota	P113ABX5-S184	WT	Bla-ABX5	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Bacteria_/_Verrucomicrobiota	0	0	0	0
+Bacteria	Verrucomicrobiota	P113CT1-S164	WT	Bla-CT1	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Verrucomicrobiota	2.02734960777476	0.0272821308507887	2.72821308507887	844
+Bacteria	Verrucomicrobiota	P113CT2-S165	WT	Bla-CT2	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Verrucomicrobiota	1.53147891704226	0.0179995909183882	1.79995909183882	264
+Bacteria	Verrucomicrobiota	P113CT3-S166	WT	Bla-CT3	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Verrucomicrobiota	1.04139268515822	0.00548170481019597	0.548170481019597	80
+Bacteria	Verrucomicrobiota	P113CT4-S167	WT	Bla-CT4	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Verrucomicrobiota	1.76993092013695	0.0151396246157871	1.51396246157871	463
+Bacteria	Verrucomicrobiota	P113CT5-S168	WT	Bla-CT5	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Verrucomicrobiota	1.97772360528885	0.0219312315903059	2.19312315903059	752
+Bacteria	Verrucomicrobiota	P113CT6-S169	WT	Bla-CT6	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Verrucomicrobiota	1.4983105537896	0.00915022875571889	0.915022875571889	244
+Bacteria	Verrucomicrobiota	P113CT7-S170	WT	Bla-CT7	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Verrucomicrobiota	2.14612803567824	0.0403161482126024	4.03161482126024	1112
+Bacteria	Verrucomicrobiota	P113CT8-S171	WT	Bla-CT8	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Bacteria_/_Verrucomicrobiota	2.06116964320491	0.0301768302759874	3.01768302759874	913
+Bacteria	Verrucomicrobiota	P113SA1-S185	WT	Bla-SA1	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Verrucomicrobiota	0	0	0	0
+Bacteria	Verrucomicrobiota	P113SA2-S186	WT	Bla-SA2	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Verrucomicrobiota	0	0	0	0
+Bacteria	Verrucomicrobiota	P113SA3-S187	WT	Bla-SA3	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Verrucomicrobiota	0	0	0	0
+Bacteria	Verrucomicrobiota	P113SA4-S188	WT	Bla-SA4	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Verrucomicrobiota	0	0	0	0
+Bacteria	Verrucomicrobiota	P113SA5-S189	WT	Bla-SA5	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Verrucomicrobiota	0.88930170250631	0.00254921399235236	0.254921399235236	54
+Bacteria	Verrucomicrobiota	P113SA6-S190	WT	Bla-SA6	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Bacteria_/_Verrucomicrobiota	0	0	0	0
+Bacteria	Verrucomicrobiota	P113SM1-S172	WT	Bla-SM1	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Verrucomicrobiota	2.11519432143459	0.0353362922499146	3.53362922499146	1035
+Bacteria	Verrucomicrobiota	P113SM2-S173	WT	Bla-SM2	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Verrucomicrobiota	2.2894774663446	0.0606986215538847	6.06986215538847	1550
+Bacteria	Verrucomicrobiota	P113SM3-S174	WT	Bla-SM3	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Verrucomicrobiota	2.06725688923815	0.0393623804463337	3.93623804463337	926
+Bacteria	Verrucomicrobiota	P113SM4-S175	WT	Bla-SM4	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Verrucomicrobiota	2.20344086683044	0.0426532325776658	4.26532325776658	1270
+Bacteria	Verrucomicrobiota	P113SM5-S176	WT	Bla-SM5	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Verrucomicrobiota	2.63798978078469	0.104602762864209	10.4602762864209	3468
+Bacteria	Verrucomicrobiota	P113SM6-S177	WT	Bla-SM6	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Verrucomicrobiota	2.26629050832001	0.060692447529334	6.0692447529334	1469
+Bacteria	Verrucomicrobiota	P113SM7-S178	WT	Bla-SM7	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Verrucomicrobiota	2.20547503674089	0.0623777864685178	6.23777864685178	1276
+Bacteria	Verrucomicrobiota	P113SM8-S179	WT	Bla-SM8	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Bacteria_/_Verrucomicrobiota	2.10848045660533	0.0391110769939357	3.91110769939357	1019
+Other	Other	P113ABX1-S180	WT	Bla-ABX1	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Other_/_Other	2.7612698875592	0.187999673682493	18.7999673682493	4609
+Other	Other	P113ABX2-S181	WT	Bla-ABX2	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Other_/_Other	2.63736462667947	0.105376867601862	10.5376867601862	3463
+Other	Other	P113ABX3-S182	WT	Bla-ABX3	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Other_/_Other	2.53876218878135	0.137439577415658	13.7439577415658	2758
+Other	Other	P113ABX4-S183	WT	Bla-ABX4	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Other_/_Other	2.45255306322893	0.0728350897547456	7.28350897547456	2260
+Other	Other	P113ABX5-S184	WT	Bla-ABX5	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	Other_/_Other	2.58728993301124	0.0955522517499845	9.55522517499845	3085
+Other	Other	P113CT1-S164	WT	Bla-CT1	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Other_/_Other	1.0836817472743	0.00287690716317559	0.287690716317559	89
+Other	Other	P113CT2-S165	WT	Bla-CT2	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Other_/_Other	1.00539503188671	0.00497715961000886	0.497715961000886	73
+Other	Other	P113CT3-S166	WT	Bla-CT3	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Other_/_Other	0.243038048686294	0.000411127860764698	0.0411127860764698	6
+Other	Other	P113CT4-S167	WT	Bla-CT4	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Other_/_Other	0.32735893438633	0.000294290759270159	0.0294290759270159	9
+Other	Other	P113CT5-S168	WT	Bla-CT5	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Other_/_Other	0.971971276399756	0.00195397941030651	0.195397941030651	67
+Other	Other	P113CT6-S169	WT	Bla-CT6	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Other_/_Other	0	0	0	0
+Other	Other	P113CT7-S170	WT	Bla-CT7	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Other_/_Other	0	0	0	0
+Other	Other	P113CT8-S171	WT	Bla-CT8	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	Other_/_Other	0.698970004336019	0.00105767641712114	0.105767641712114	32
+Other	Other	P113SA1-S185	WT	Bla-SA1	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Other_/_Other	2.57878242331872	0.0955705800581322	9.55705800581322	3025
+Other	Other	P113SA2-S186	WT	Bla-SA2	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Other_/_Other	2.71022317446352	0.185468537799909	18.5468537799909	4097
+Other	Other	P113SA3-S187	WT	Bla-SA3	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Other_/_Other	2.84680085427948	0.182890278863696	18.2890278863696	5614
+Other	Other	P113SA4-S188	WT	Bla-SA4	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Other_/_Other	2.82044777454011	0.199373537625481	19.9373537625481	5283
+Other	Other	P113SA5-S189	WT	Bla-SA5	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Other_/_Other	2.63472910808133	0.1624887881792	16.24887881792	3442
+Other	Other	P113SA6-S190	WT	Bla-SA6	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	Other_/_Other	2.63093611906419	0.194238870545372	19.4238870545372	3412
+Other	Other	P113SM1-S172	WT	Bla-SM1	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Other_/_Other	0.740362689494244	0.00122908842608399	0.122908842608399	36
+Other	Other	P113SM2-S173	WT	Bla-SM2	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Other_/_Other	0.8750612633917	0.00203634085213033	0.203634085213033	52
+Other	Other	P113SM3-S174	WT	Bla-SM3	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Other_/_Other	0.983400738180538	0.00293304994686504	0.293304994686504	69
+Other	Other	P113SM4-S175	WT	Bla-SM4	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Other_/_Other	0.397940008672038	0.000403022670025189	0.0403022670025189	12
+Other	Other	P113SM5-S176	WT	Bla-SM5	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Other_/_Other	0.860338006570994	0.00150811365144477	0.150811365144477	50
+Other	Other	P113SM6-S177	WT	Bla-SM6	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Other_/_Other	0.916453948549925	0.00239629813254008	0.239629813254008	58
+Other	Other	P113SM7-S178	WT	Bla-SM7	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Other_/_Other	0.909823369650912	0.00278646851779429	0.278646851779429	57
+Other	Other	P113SM8-S179	WT	Bla-SM8	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	Other_/_Other	0.922984815708883	0.00226452751976664	0.226452751976664	59

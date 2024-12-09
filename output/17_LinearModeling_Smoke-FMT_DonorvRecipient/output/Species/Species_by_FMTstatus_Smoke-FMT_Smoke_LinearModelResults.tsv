@@ -1,0 +1,14 @@
+"Taxa"	"pValue"	"R2"	"direction"	"Adj_pValue"
+"d__Bacteria.p__Actinobacteriota.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Bifidobacterium.__"	0.716905618647783	0.00968488050992411	"Recipient"	0.716905618647783
+"d__Bacteria.p__Actinobacteriota.c__Coriobacteriia.o__Coriobacteriales.f__Atopobiaceae.g__Olsenella.__"	1.31258630763991e-05	0.753393587618126	"Recipient"	2.91312901112386e-05
+"d__Bacteria.p__Bacteroidota.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.__"	9.91406604207191e-09	0.910656807594666	"Recipient"	1.28882858546935e-07
+"d__Bacteria.p__Bacteroidota.c__Bacteroidia.o__Bacteroidales.f__Prevotellaceae.g__Prevotella.__"	2.20877313269659e-05	0.734761689495761	"Recipient"	4.10200724643652e-05
+"d__Bacteria.p__Bacteroidota.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.__"	0.0802570754081452	0.202546129386299	"Recipient"	0.0948492709368989
+"d__Bacteria.p__Bacteroidota.c__Bacteroidia.o__Bacteroidales.f__Tannerellaceae.g__Parabacteroides.__"	1.48241490292092e-07	0.868894739381802	"Recipient"	6.42379791265731e-07
+"d__Bacteria.p__Campilobacterota.c__Campylobacteria.o__Campylobacterales.f__Helicobacteraceae.g__Helicobacter.__"	1.34452108205717e-05	0.752561812378453	"Recipient"	2.91312901112386e-05
+"d__Bacteria.p__Desulfobacterota.c__Desulfovibrionia.o__Desulfovibrionales.f__Desulfovibrionaceae.g__Desulfovibrio.__"	4.59950699316583e-06	0.787137312357887	"Recipient"	1.49483977277889e-05
+"d__Bacteria.p__Firmicutes.c__Bacilli.o__Erysipelotrichales.f__Erysipelotrichaceae.g__Erysipelothrix.__"	0.037846011697456	0.273031227637766	"Recipient"	0.0491998152066928
+"d__Bacteria.p__Firmicutes.c__Clostridia.o__Lachnospirales.f__Lachnospiraceae.__.__"	0.394493559571026	0.0522472153247291	"Recipient"	0.427368022868611
+"d__Bacteria.p__Firmicutes.c__Clostridia.o__Oscillospirales.f__Oscillospiraceae.__.__"	4.69346969512969e-05	0.705333146295091	"Donor"	7.62688825458575e-05
+"d__Bacteria.p__Verrucomicrobiota.c__Chlamydiae.o__Chlamydiales.f__Chlamydiaceae.g__Chlamydia.__"	6.00249887009832e-08	0.884652035281149	"Recipient"	3.90162426556391e-07
+"Other"	0.000994806340462731	0.550785150610451	"Donor"	0.0014369424917795

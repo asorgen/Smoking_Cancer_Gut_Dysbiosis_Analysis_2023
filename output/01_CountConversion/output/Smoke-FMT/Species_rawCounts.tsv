@@ -1,0 +1,51 @@
+SampleID	MouseModel	SmokeExposure	FMTstatus	TumorStatus	FullMouseDescription	TumorWeight_avg	TumorWeight_sd	Study	d__Bacteria.p__Actinobacteriota.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Bifidobacterium.__	d__Bacteria.p__Actinobacteriota.c__Coriobacteriia.o__Coriobacteriales.f__Atopobiaceae.g__Olsenella.__	d__Bacteria.p__Bacteroidota.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.__	d__Bacteria.p__Bacteroidota.c__Bacteroidia.o__Bacteroidales.f__Prevotellaceae.g__Prevotella.__	d__Bacteria.p__Bacteroidota.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.__	d__Bacteria.p__Bacteroidota.c__Bacteroidia.o__Bacteroidales.f__Tannerellaceae.g__Parabacteroides.__	d__Bacteria.p__Campilobacterota.c__Campylobacteria.o__Campylobacterales.f__Helicobacteraceae.g__Helicobacter.__	d__Bacteria.p__Desulfobacterota.c__Desulfovibrionia.o__Desulfovibrionales.f__Desulfovibrionaceae.g__Desulfovibrio.__	d__Bacteria.p__Firmicutes.c__Bacilli.o__Erysipelotrichales.f__Erysipelatoclostridiaceae.__.__	d__Bacteria.p__Firmicutes.c__Bacilli.o__Erysipelotrichales.f__Erysipelotrichaceae.g__Erysipelothrix.__	d__Bacteria.p__Firmicutes.c__Clostridia.o__Lachnospirales.f__Lachnospiraceae.__.__	d__Bacteria.p__Firmicutes.c__Clostridia.o__Oscillospirales.f__Oscillospiraceae.__.__	d__Bacteria.p__Verrucomicrobiota.c__Chlamydiae.o__Chlamydiales.f__Chlamydiaceae.g__Chlamydia.__	Other
+ControlDonor1-S84	WT	Smoke-free	Donor	Tumor-naive	Tumor-naive Smoke-free Donor	NA	NA	Smoke-FMT	1083	0	0	0	0	0	4	0	0	0	28	473	0	42551
+ControlDonor2-S85	WT	Smoke-free	Donor	Tumor-naive	Tumor-naive Smoke-free Donor	NA	NA	Smoke-FMT	367	0	0	8	0	0	0	0	0	0	16	248	0	19536
+ControlDonor3-S86	WT	Smoke-free	Donor	Tumor-naive	Tumor-naive Smoke-free Donor	NA	NA	Smoke-FMT	887	9	18	329	0	0	292	5	0	0	112	443	24	38280
+ControlDonor4-S87	WT	Smoke-free	Donor	Tumor-naive	Tumor-naive Smoke-free Donor	NA	NA	Smoke-FMT	791	0	0	0	0	0	0	0	0	0	72	531	0	39579
+ControlDonor5-S88	WT	Smoke-free	Donor	Tumor-naive	Tumor-naive Smoke-free Donor	NA	NA	Smoke-FMT	215	0	0	6	0	0	832	0	0	0	0	1256	0	38350
+ControlDonor6-S89	WT	Smoke-free	Donor	Tumor-naive	Tumor-naive Smoke-free Donor	NA	NA	Smoke-FMT	265	0	19	48	0	9	705	0	0	0	0	1029	0	35063
+ControlDonor7-S90	WT	Smoke-free	Donor	Tumor-naive	Tumor-naive Smoke-free Donor	NA	NA	Smoke-FMT	1121	0	0	0	0	0	0	0	0	0	0	370	0	35760
+ControlDonor8-S91	WT	Smoke-free	Donor	Tumor-naive	Tumor-naive Smoke-free Donor	NA	NA	Smoke-FMT	726	14	0	0	0	0	967	0	0	0	28	470	0	35718
+PostcntrFMT1-S116	WT	Smoke-free feces	Recipient	Post-tumor	Post-tumor Smoke-free feces Recipient	151.34	21.65	Smoke-FMT	846	23	0	0	0	0	1084	0	31	0	19	81	0	43845
+PostcntrFMT2-S117	WT	Smoke-free feces	Recipient	Post-tumor	Post-tumor Smoke-free feces Recipient	151.34	21.65	Smoke-FMT	1202	16	0	0	0	0	574	0	7	0	0	134	0	47331
+PostcntrFMT3-S118	WT	Smoke-free feces	Recipient	Post-tumor	Post-tumor Smoke-free feces Recipient	151.34	21.65	Smoke-FMT	566	16	0	12	0	0	781	0	25	0	0	111	9	24705
+PostcntrFMT4-S119	WT	Smoke-free feces	Recipient	Post-tumor	Post-tumor Smoke-free feces Recipient	151.34	21.65	Smoke-FMT	244	11	0	0	0	0	2363	0	24	0	0	109	0	22511
+PostcntrFMT5-S120	WT	Smoke-free feces	Recipient	Post-tumor	Post-tumor Smoke-free feces Recipient	151.34	21.65	Smoke-FMT	1008	87	0	0	0	0	565	0	8	0	14	230	0	49794
+PostcntrFMT6-S121	WT	Smoke-free feces	Recipient	Post-tumor	Post-tumor Smoke-free feces Recipient	151.34	21.65	Smoke-FMT	921	42	0	0	0	0	1672	0	23	0	50	363	0	51644
+PostcntrFMT7-S122	WT	Smoke-free feces	Recipient	Post-tumor	Post-tumor Smoke-free feces Recipient	151.34	21.65	Smoke-FMT	1090	51	0	0	0	0	824	0	11	0	0	193	0	45637
+PostcntrFMT8-S123	WT	Smoke-free feces	Recipient	Post-tumor	Post-tumor Smoke-free feces Recipient	151.34	21.65	Smoke-FMT	705	102	0	0	0	0	5650	0	33	0	20	303	0	50487
+PostsmkFMT1-S124	WT	Smoke-exposed feces	Recipient	Post-tumor	Post-tumor Smoke-exposed feces Recipient	270.28	56.2	Smoke-FMT	1211	550	612	4000	42	398	6439	170	50	0	479	527	34	37563
+PostsmkFMT10-S133	WT	Smoke-exposed feces	Recipient	Post-tumor	Post-tumor Smoke-exposed feces Recipient	270.28	56.2	Smoke-FMT	2158	323	354	4264	31	150	3628	61	10	0	1105	451	454	41490
+PostsmkFMT2-S125	WT	Smoke-exposed feces	Recipient	Post-tumor	Post-tumor Smoke-exposed feces Recipient	270.28	56.2	Smoke-FMT	1197	296	374	3936	20	199	1525	32	26	0	487	433	187	37531
+PostsmkFMT3-S126	WT	Smoke-exposed feces	Recipient	Post-tumor	Post-tumor Smoke-exposed feces Recipient	270.28	56.2	Smoke-FMT	3538	1210	402	2144	0	71	387	9	59	170	148	64	106	42304
+PostsmkFMT4-S127	WT	Smoke-exposed feces	Recipient	Post-tumor	Post-tumor Smoke-exposed feces Recipient	270.28	56.2	Smoke-FMT	961	414	801	4549	29	425	1452	11	0	0	380	67	26	32930
+PostsmkFMT5-S128	WT	Smoke-exposed feces	Recipient	Post-tumor	Post-tumor Smoke-exposed feces Recipient	270.28	56.2	Smoke-FMT	3010	551	104	4162	0	191	2233	33	0	5	201	249	303	46578
+PostsmkFMT6-S129	WT	Smoke-exposed feces	Recipient	Post-tumor	Post-tumor Smoke-exposed feces Recipient	270.28	56.2	Smoke-FMT	2115	540	622	4722	16	335	5096	86	70	0	340	293	42	43246
+PostsmkFMT7-S130	WT	Smoke-exposed feces	Recipient	Post-tumor	Post-tumor Smoke-exposed feces Recipient	270.28	56.2	Smoke-FMT	823	33	1092	1900	46	418	6235	87	0	0	145	200	408	23779
+PostsmkFMT8-S131	WT	Smoke-exposed feces	Recipient	Post-tumor	Post-tumor Smoke-exposed feces Recipient	270.28	56.2	Smoke-FMT	378	211	530	3185	16	177	4454	26	96	349	206	266	98	34925
+PostsmkFMT9-S132	WT	Smoke-exposed feces	Recipient	Post-tumor	Post-tumor Smoke-exposed feces Recipient	270.28	56.2	Smoke-FMT	2217	134	168	5002	0	76	2756	115	35	0	215	80	667	39052
+PrecntrlFMT1-S100	WT	Smoke-free feces	Recipient	Pre-tumor	Pre-tumor Smoke-free feces Recipient	NA	NA	Smoke-FMT	484	30	22	50	0	6	8200	0	0	0	27	489	0	51914
+PrecntrlFMT2-S101	WT	Smoke-free feces	Recipient	Pre-tumor	Pre-tumor Smoke-free feces Recipient	NA	NA	Smoke-FMT	1290	33	278	310	0	61	4772	9	30	5	22	761	30	48948
+PrecntrlFMT3-S102	WT	Smoke-free feces	Recipient	Pre-tumor	Pre-tumor Smoke-free feces Recipient	NA	NA	Smoke-FMT	519	35	0	20	0	0	1493	0	12	14	15	194	0	40351
+PrecntrlFMT4-S103	WT	Smoke-free feces	Recipient	Pre-tumor	Pre-tumor Smoke-free feces Recipient	NA	NA	Smoke-FMT	896	48	0	42	0	0	1683	0	29	0	28	198	0	40209
+PrecntrlFMT5-S104	WT	Smoke-free feces	Recipient	Pre-tumor	Pre-tumor Smoke-free feces Recipient	NA	NA	Smoke-FMT	857	35	0	0	0	0	6583	0	0	0	115	295	0	53602
+PrecntrlFMT6-S105	WT	Smoke-free feces	Recipient	Pre-tumor	Pre-tumor Smoke-free feces Recipient	NA	NA	Smoke-FMT	1290	37	0	0	0	0	1715	0	41	0	30	1147	0	56034
+PrecntrlFMT7-S106	WT	Smoke-free feces	Recipient	Pre-tumor	Pre-tumor Smoke-free feces Recipient	NA	NA	Smoke-FMT	896	65	0	0	0	0	853	0	27	0	16	309	0	45979
+PrecntrlFMT8-S107	WT	Smoke-free feces	Recipient	Pre-tumor	Pre-tumor Smoke-free feces Recipient	NA	NA	Smoke-FMT	864	56	0	0	0	0	836	0	5	0	64	748	0	44928
+PresmokeFMT1-S108	WT	Smoke-exposed feces	Recipient	Pre-tumor	Pre-tumor Smoke-exposed feces Recipient	NA	NA	Smoke-FMT	948	68	696	912	0	96	3455	86	0	0	94	445	147	25608
+PresmokeFMT2-S109	WT	Smoke-exposed feces	Recipient	Pre-tumor	Pre-tumor Smoke-exposed feces Recipient	NA	NA	Smoke-FMT	761	86	213	1844	0	67	2333	29	0	57	300	542	268	33123
+PresmokeFMT3-S110	WT	Smoke-exposed feces	Recipient	Pre-tumor	Pre-tumor Smoke-exposed feces Recipient	NA	NA	Smoke-FMT	751	44	346	1326	0	156	3800	78	0	0	129	300	74	24222
+PresmokeFMT4-S111	WT	Smoke-exposed feces	Recipient	Pre-tumor	Pre-tumor Smoke-exposed feces Recipient	NA	NA	Smoke-FMT	702	113	508	3088	15	147	3987	98	0	0	237	250	185	27952
+PresmokeFMT5-S112	WT	Smoke-exposed feces	Recipient	Pre-tumor	Pre-tumor Smoke-exposed feces Recipient	NA	NA	Smoke-FMT	1282	30	1887	1531	47	506	5529	97	0	4	94	418	326	28649
+PresmokeFMT6-S113	WT	Smoke-exposed feces	Recipient	Pre-tumor	Pre-tumor Smoke-exposed feces Recipient	NA	NA	Smoke-FMT	1789	17	985	1081	17	393	4085	24	0	20	199	242	162	26505
+PresmokeFMT7-S114	WT	Smoke-exposed feces	Recipient	Pre-tumor	Pre-tumor Smoke-exposed feces Recipient	NA	NA	Smoke-FMT	1596	58	537	1166	0	146	3203	21	0	16	109	197	88	29729
+PresmokeFMT8-S115	WT	Smoke-exposed feces	Recipient	Pre-tumor	Pre-tumor Smoke-exposed feces Recipient	NA	NA	Smoke-FMT	464	83	278	813	0	97	2941	33	0	72	182	135	135	24247
+Smokedonor1-S92	WT	Smoke-exposed	Donor	Tumor-naive	Tumor-naive Smoke-exposed Donor	NA	NA	Smoke-FMT	1044	6	0	0	0	0	818	0	0	0	114	714	0	40937
+Smokedonor2-S93	WT	Smoke-exposed	Donor	Tumor-naive	Tumor-naive Smoke-exposed Donor	NA	NA	Smoke-FMT	217	0	0	0	0	0	13	0	0	0	26	711	0	28386
+Smokedonor3-S94	WT	Smoke-exposed	Donor	Tumor-naive	Tumor-naive Smoke-exposed Donor	NA	NA	Smoke-FMT	1075	11	0	0	0	0	118	0	0	0	109	646	0	37263
+Smokedonor4-S95	WT	Smoke-exposed	Donor	Tumor-naive	Tumor-naive Smoke-exposed Donor	NA	NA	Smoke-FMT	359	4	0	0	0	0	49	0	0	0	248	858	0	29551
+Smokedonor5-S96	WT	Smoke-exposed	Donor	Tumor-naive	Tumor-naive Smoke-exposed Donor	NA	NA	Smoke-FMT	1065	0	0	28	0	0	127	0	0	0	70	1513	0	48560
+Smokedonor6-S97	WT	Smoke-exposed	Donor	Tumor-naive	Tumor-naive Smoke-exposed Donor	NA	NA	Smoke-FMT	1692	0	0	12	0	0	7	0	0	3	33	1179	0	58985
+Smokedonor7-S98	WT	Smoke-exposed	Donor	Tumor-naive	Tumor-naive Smoke-exposed Donor	NA	NA	Smoke-FMT	1017	6	20	468	0	10	432	0	0	5	210	958	17	54973
+Smokedonor8-S99	WT	Smoke-exposed	Donor	Tumor-naive	Tumor-naive Smoke-exposed Donor	NA	NA	Smoke-FMT	1609	20	24	411	0	12	552	14	0	0	440	737	24	52146

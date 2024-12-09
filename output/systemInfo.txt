@@ -1,0 +1,31 @@
+java.awt.graphicsenv: sun.awt.X11GraphicsEnvironment
+java.awt.printerjob: sun.print.PSPrinterJob
+java.class.path: /app/biolockj/dist/BioLockJ.jar
+java.class.version: 52.0
+java.endorsed.dirs: /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/endorsed
+java.ext.dirs: /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext:/usr/java/packages/lib/ext
+java.home: /usr/lib/jvm/java-8-openjdk-amd64/jre
+java.io.tmpdir: /tmp
+java.library.path: /usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+java.runtime.name: OpenJDK Runtime Environment
+java.runtime.version: 1.8.0_292-8u292-b10-0ubuntu1~18.04-b10
+java.specification.name: Java Platform API Specification
+java.specification.vendor: Oracle Corporation
+java.specification.version: 1.8
+java.vendor: Private Build
+java.vendor.url: http://java.oracle.com/
+java.vendor.url.bug: http://bugreport.sun.com/bugreport/
+java.version: 1.8.0_292
+java.vm.info: mixed mode
+java.vm.name: OpenJDK 64-Bit Server VM
+java.vm.specification.name: Java Virtual Machine Specification
+java.vm.specification.vendor: Oracle Corporation
+java.vm.specification.version: 1.8
+java.vm.vendor: Private Build
+java.vm.version: 25.292-b10
+os.arch: amd64
+os.name: Linux
+os.version: 6.10.14-linuxkit
+sun.java.command: biolockj.BioLockJ -docker -projectDir /Users/aliciasorgen/BioLockJ_pipelines -config /Users/aliciasorgen/git/Dudeja_Projects/Smoking_Cancer_Gut_Dysbiosis_Analysis_2023/analysis/BLJ_config_files/mouseSmoke_analysis.properties
+sun.java.launcher: SUN_STANDARD
+sun.os.patch.level: unknown

@@ -1,0 +1,14 @@
+"Taxa"	"pValue"	"R2"	"direction"	"Adj_pValue"
+"d__Bacteria.p__Actinobacteriota.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Bifidobacterium.__"	0.183249238153003	0.122824510713517	"Recipient"	0.401062929322089
+"d__Bacteria.p__Actinobacteriota.c__Coriobacteriia.o__Coriobacteriales.f__Atopobiaceae.g__Olsenella.__"	1.09042324739686e-07	0.874472836186211	"Recipient"	1.41755022161591e-06
+"d__Bacteria.p__Bacteroidota.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.__"	0.490175558989981	0.0346280134925279	"Recipient"	0.640968893456542
+"d__Bacteria.p__Bacteroidota.c__Bacteroidia.o__Bacteroidales.f__Prevotellaceae.g__Prevotella.__"	0.7548147327756	0.00719331299852487	"Recipient"	0.8177159605069
+"d__Bacteria.p__Bacteroidota.c__Bacteroidia.o__Bacteroidales.f__Tannerellaceae.g__Parabacteroides.__"	0.390873904939295	0.0530306401801816	"Recipient"	0.635170095526354
+"d__Bacteria.p__Campilobacterota.c__Campylobacteria.o__Campylobacterales.f__Helicobacteraceae.g__Helicobacter.__"	0.00133245941305384	0.532546307127675	"Recipient"	0.00866098618484993
+"d__Bacteria.p__Desulfobacterota.c__Desulfovibrionia.o__Desulfovibrionales.f__Desulfovibrionaceae.g__Desulfovibrio.__"	0.747915006229911	0.00761665256795706	"Recipient"	0.8177159605069
+"d__Bacteria.p__Firmicutes.c__Bacilli.o__Erysipelotrichales.f__Erysipelatoclostridiaceae.__.__"	0.00271785970836305	0.485192007748443	"Recipient"	0.0117773920695732
+"d__Bacteria.p__Firmicutes.c__Bacilli.o__Erysipelotrichales.f__Erysipelotrichaceae.g__Erysipelothrix.__"	0.185105967379426	0.121855458755552	"Recipient"	0.401062929322089
+"d__Bacteria.p__Firmicutes.c__Clostridia.o__Lachnospirales.f__Lachnospiraceae.__.__"	0.347864459886355	0.0631375054207318	"Recipient"	0.635170095526354
+"d__Bacteria.p__Firmicutes.c__Clostridia.o__Oscillospirales.f__Oscillospiraceae.__.__"	0.493052994966571	0.0341789535995234	"Donor"	0.640968893456542
+"d__Bacteria.p__Verrucomicrobiota.c__Chlamydiae.o__Chlamydiales.f__Chlamydiaceae.g__Chlamydia.__"	0.924497767683083	0.000664604052546578	"Recipient"	0.924497767683083
+"Other"	0.00634322390449676	0.42337055588974	"Recipient"	0.0206154776896145

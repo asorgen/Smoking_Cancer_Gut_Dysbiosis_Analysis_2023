@@ -1,0 +1,28 @@
+SampleID	MouseModel	MouseID	Cancer	SmokeExp	AntibioticExp	TumorImp	Treatment	TumorWeight_avg	TumorWeight_sd	Study	d__Bacteria.p__Actinobacteriota.c__Actinobacteria	d__Bacteria.p__Actinobacteriota.c__Coriobacteriia	d__Bacteria.p__Bacteroidota.c__Bacteroidia	d__Bacteria.p__Campilobacterota.c__Campylobacteria	d__Bacteria.p__Desulfobacterota.c__Desulfovibrionia	d__Bacteria.p__Firmicutes.c__Bacilli	d__Bacteria.p__Firmicutes.c__Clostridia	d__Bacteria.p__Proteobacteria.c__Alphaproteobacteria	d__Bacteria.p__Proteobacteria.c__Gammaproteobacteria	d__Bacteria.p__Verrucomicrobiota.c__Verrucomicrobiae	Other
+P113ABX1-S180	WT	Bla-ABX1	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	37	4	280	0	0	57	17	0	19507	5	4609
+P113ABX2-S181	WT	Bla-ABX2	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	0	0	72	0	0	0	28	0	29300	0	3463
+P113ABX3-S182	WT	Bla-ABX3	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	0	0	4	14	0	23	28	0	17240	0	2758
+P113ABX4-S183	WT	Bla-ABX4	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	0	0	0	0	0	0	2	0	28767	0	2260
+P113ABX5-S184	WT	Bla-ABX5	Bladder	No	Cocktail	Post	Antibiotic only	454.95	152.33	Abx-Bladder	18	0	14	66	0	60	230	0	28813	0	3085
+P113CT1-S164	WT	Bla-CT1	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	1621	281	13044	0	0	8831	4340	0	1886	844	89
+P113CT2-S165	WT	Bla-CT2	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	868	27	5476	5	0	3030	4075	0	849	264	73
+P113CT3-S166	WT	Bla-CT3	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	964	118	4878	0	0	4176	3490	0	882	80	6
+P113CT4-S167	WT	Bla-CT4	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	2564	296	11255	0	224	9452	6266	0	53	463	9
+P113CT5-S168	WT	Bla-CT5	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	2490	600	13198	0	292	9888	6975	0	27	752	67
+P113CT6-S169	WT	Bla-CT6	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	1770	346	10962	0	0	7684	4796	0	864	244	0
+P113CT7-S170	WT	Bla-CT7	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	1875	400	10284	0	117	8313	5387	0	94	1112	0
+P113CT8-S171	WT	Bla-CT8	Bladder	No	None	Post	Control	463.67	170.35	Abx-Bladder	1214	296	12331	0	0	8824	5683	0	962	913	32
+P113SA1-S185	WT	Bla-SA1	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	95	0	33	30	0	72	176	0	28221	0	3025
+P113SA2-S186	WT	Bla-SA2	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	0	0	0	0	0	0	0	0	17993	0	4097
+P113SA3-S187	WT	Bla-SA3	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	22	0	11	0	0	8	5	0	25036	0	5614
+P113SA4-S188	WT	Bla-SA4	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	3	0	0	9	0	22	45	0	21136	0	5283
+P113SA5-S189	WT	Bla-SA5	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	17	0	423	12	0	137	1019	9	16070	54	3442
+P113SA6-S190	WT	Bla-SA6	Bladder	Yes	Cocktail	Post	Smoke+Antibiotic	446.19	113.81	Abx-Bladder	0	0	0	7	0	11	35	0	14101	0	3412
+P113SM1-S172	WT	Bla-SM1	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	374	89	8800	0	0	3903	14022	723	308	1035	36
+P113SM2-S173	WT	Bla-SM2	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	728	64	8325	0	0	4294	9162	644	717	1550	52
+P113SM3-S174	WT	Bla-SM3	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	445	74	8660	0	0	5003	7851	130	367	926	69
+P113SM4-S175	WT	Bla-SM4	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	960	91	12356	0	0	4989	9136	319	642	1270	12
+P113SM5-S176	WT	Bla-SM5	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	356	80	9855	0	0	4132	14139	663	411	3468	50
+P113SM6-S177	WT	Bla-SM6	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	531	53	9588	0	0	3806	7986	588	125	1469	58
+P113SM7-S178	WT	Bla-SM7	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	338	27	7788	7	0	3336	5588	1835	204	1276	57
+P113SM8-S179	WT	Bla-SM8	Bladder	Yes	None	Post	Smoke only	883.58	226.27	Abx-Bladder	1022	56	8850	8	0	5870	7093	1698	379	1019	59

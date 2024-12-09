@@ -1,0 +1,17 @@
+"Taxa"	"pValue"	"R2"	"direction"	"Adj_pValue"
+"d__Bacteria.p__Actinobacteriota.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Bifidobacterium.__"	0.402176948572632	0.047214182115277	"CSE"	0.459630798368722
+"d__Bacteria.p__Bacteroidota.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.__"	3.64137325083374e-06	0.770537672041822	"Control"	1.45654930033349e-05
+"d__Bacteria.p__Bacteroidota.c__Bacteroidia.o__Bacteroidales.f__Prevotellaceae.g__Prevotella.__"	1.97778355290594e-16	0.990037997357857	"Control"	1.58222684232475e-15
+"d__Bacteria.p__Bacteroidota.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.__"	0.00129248997546612	0.509411067281197	"Control"	0.00258497995093224
+"d__Bacteria.p__Bacteroidota.c__Bacteroidia.o__Bacteroidales.f__Tannerellaceae.g__Parabacteroides.__"	1.30576501602609e-06	0.799441362593259	"Control"	6.96408008547247e-06
+"d__Bacteria.p__Campilobacterota.c__Campylobacteria.o__Campylobacterales.f__Helicobacteraceae.g__Helicobacter.__"	8.34791945343524e-18	0.993466365679439	"Control"	1.33566711254964e-16
+"d__Bacteria.p__Deferribacterota.c__Deferribacteres.o__Deferribacterales.f__Deferribacteraceae.g__Mucispirillum.__"	0.00012198358870351	0.637429495690339	"Control"	0.000325289569876025
+"d__Bacteria.p__Desulfobacterota.c__Desulfovibrionia.o__Desulfovibrionales.f__Desulfovibrionaceae.g__Desulfovibrio.__"	1.00389811685143e-05	0.737961931323248	"Control"	3.21247397392456e-05
+"d__Bacteria.p__Firmicutes.c__Bacilli.o__Erysipelotrichales.f__Erysipelatoclostridiaceae.__.__"	0.0625559416697359	0.212496416981436	"Control"	0.0909904606105249
+"d__Bacteria.p__Firmicutes.c__Bacilli.o__Erysipelotrichales.f__Erysipelotrichaceae.g__Erysipelothrix.__"	0.493326421218178	0.0318234185824413	"Control"	0.52621484929939
+"d__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Streptococcus.__"	0.0764352483455748	0.194448868922352	"Control"	0.101913664460766
+"d__Bacteria.p__Firmicutes.c__Clostridia.o__Lachnospirales.f__Lachnospiraceae.__.__"	0.13895866212974	0.14001653316891	"Control"	0.171026045698142
+"d__Bacteria.p__Firmicutes.c__Clostridia.o__Oscillospirales.f__Oscillospiraceae.__.__"	0.00546555796732308	0.412097889239448	"CSE"	0.00874489274771693
+"d__Bacteria.p__Proteobacteria.c__Gammaproteobacteria.o__Pseudomonadales.f__Pseudomonadaceae.g__Pseudomonas.s__Pseudomonas_aeruginosa"	0.00279112990643318	0.459388257452083	"CSE"	0.00496200872254788
+"d__Bacteria.p__Verrucomicrobiota.c__Chlamydiae.o__Chlamydiales.f__Chlamydiaceae.g__Chlamydia.__"	0.000212475755820938	0.610521715976843	"Control"	0.000485658870447857
+"Other"	0.799382479101794	0.00444191768572177	"CSE"	0.799382479101794

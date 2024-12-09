@@ -1,0 +1,47 @@
+SampleID	MouseModel	SmokeExposure	FMTstatus	TumorStatus	FullMouseDescription	TumorWeight_avg	TumorWeight_sd	Study	Unassigned.__	d__Bacteria.p__Actinobacteriota	d__Bacteria.p__Bacteroidota	d__Bacteria.p__Campilobacterota	d__Bacteria.p__Deferribacterota	d__Bacteria.p__Desulfobacterota	d__Bacteria.p__Firmicutes	d__Bacteria.p__Patescibacteria	d__Bacteria.p__Proteobacteria	d__Bacteria.p__Verrucomicrobiota	d__Eukaryota.p__Parabasalia
+A2-S3	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	0	6597	42140	2074	170	1266	59124	863	807	90	12
+A3-S4	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	0	5200	34802	1900	170	721	56889	673	578	52	18
+A4-S5	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	0	9817	27136	3241	350	856	73764	93	1103	255	309
+A5-S6	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	0	8844	37958	1796	129	886	57791	673	437	135	0
+A6-S7	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	0	6554	32464	2697	164	1504	47884	84	644	123	57
+A7-S8	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	0	7598	20866	4297	912	1807	47481	223	237	164	387
+A8-S9	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT	0	8618	26867	4515	171	697	45764	16	325	58	34
+B1-S10	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	18	1633	36955	1345	183	92	43862	240	615	486	35
+B10-S19	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	58	828	41395	3165	451	855	46701	1366	725	1819	49
+B2-S11	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	49	2339	44965	1928	889	2906	62497	539	851	475	2247
+B3-S12	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	66	4508	44952	1211	131	96	57261	318	2085	288	44
+B4-S13	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	0	9466	38722	1439	248	117	45304	67	1062	77	102
+B5-S14	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	69	7603	39804	1961	498	169	47854	115	989	133	361
+B6-S15	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	12	3210	28872	3705	228	113	38080	672	575	683	71
+B7-S16	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	28	6033	46722	3680	481	447	50601	500	437	130	241
+B8-S17	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	5	7549	45721	2226	713	703	46945	260	1511	627	1060
+B9-S18	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT	21	3668	51879	2102	156	96	40009	41	2141	991	52
+C1-S20	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	0	5095	34052	0	0	277	49092	0	5052	16650	19
+C10-S29	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	945	13656	50923	0	0	2836	94138	0	3724	13576	8707
+C2-S21	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	0	4655	33916	0	0	168	42416	0	10896	22528	13
+C3-S22	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	107	5286	19596	0	0	600	35465	0	3184	9934	543
+C4-S23	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	851	7008	42794	0	0	2330	72177	0	1552	12280	1039
+C5-S24	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	136	10768	42327	0	0	1246	67853	0	8920	22964	242
+C6-S25	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	105	11085	40663	0	0	478	66210	0	6321	13377	69
+C7-S26	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	0	6954	44702	0	0	369	68223	0	5969	25423	20
+C8-S27	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	68	8874	60060	0	0	6669	81663	0	10338	35729	5056
+C9-S28	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT	0	11751	60680	0	0	5108	82259	0	7092	31661	5646
+D1-S30	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	0	1922	63028	0	0	0	80849	0	347	20682	0
+D10-S39	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	0	2987	29220	8668	2202	636	127036	870	47	1077	12645
+D2-S31	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	0	1262	68722	0	0	0	83526	0	893	72	0
+D3-S32	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	0	2034	71152	0	0	0	89079	0	1184	135	0
+D4-S33	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	0	1732	38763	0	0	0	97678	0	392	15589	0
+D5-S34	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	0	1089	39197	0	0	0	73351	0	558	9	0
+D6-S35	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	0	1085	51248	0	0	0	89239	0	728	30132	0
+D7-S36	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	34	8913	66841	4398	216	1484	106323	933	1787	138	358
+D8-S37	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	0	940	37327	12021	3697	404	53583	256	60	394	2475
+D9-S38	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT	20	7975	38738	2040	88	622	77242	872	372	67	92
+E1-S40	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	132	12100	34545	2253	437	251	66615	57	1431	145	1076
+E10-S49	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	212	12151	28197	1467	117	602	68108	399	1252	131	838
+E2-S41	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	277	15021	39500	2595	114	500	72963	238	2878	122	331
+E3-S42	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	0	13007	30289	2556	145	654	75568	336	458	225	1887
+E5-S44	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	0	10505	29213	88	0	211	64196	29	1642	45	21
+E6-S45	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	102	8392	22343	1498	354	755	65343	403	1052	165	1682
+E7-S46	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	111	9350	29124	2329	487	219	53916	436	1351	109	280
+E8-S47	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	152	10587	25107	6464	1425	2150	78749	338	749	535	5565
+E9-S48	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT	173	12557	28837	3421	504	148	76753	622	1525	272	1052

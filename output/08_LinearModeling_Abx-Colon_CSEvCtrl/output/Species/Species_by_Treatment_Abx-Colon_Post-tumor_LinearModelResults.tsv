@@ -1,0 +1,7 @@
+"Taxa"	"pValue"	"R2"	"direction"	"Adj_pValue"
+"d__Bacteria.p__Actinobacteriota.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Bifidobacterium.__"	3.10233370135833e-07	0.854457570420078	"CSE"	1.861400220815e-06
+"d__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridia_vadinBB60_group.f__Clostridia_vadinBB60_group.g__Clostridia_vadinBB60_group.__"	0.794950766477567	0.00498709178592588	"CSE"	0.833697090763065
+"d__Bacteria.p__Firmicutes.c__Clostridia.o__Lachnospirales.f__Lachnospiraceae.__.__"	0.726396803038691	0.00902265885254225	"Control"	0.833697090763065
+"d__Bacteria.p__Firmicutes.c__Clostridia.o__Oscillospirales.f__Oscillospiraceae.__.__"	0.833697090763065	0.00325791148504035	"CSE"	0.833697090763065
+"d__Bacteria.p__Firmicutes.c__Clostridia.o__Oscillospirales.f__Ruminococcaceae.__.__"	0.0555220009398555	0.237512572100315	"CSE"	0.111044001879711
+"Other"	0.000975356174040927	0.551993534595085	"CSE"	0.00292606852212278

@@ -1,0 +1,282 @@
+[
+    {
+        "Id": "339a6650c9bcfce472557104f2699366252d0762d147179e2e33c63c2b328608",
+        "Created": "2024-12-09T14:22:05.460085344Z",
+        "Path": "java",
+        "Args": [
+            "-cp",
+            "/app/biolockj/dist/BioLockJ.jar",
+            "biolockj.BioLockJ",
+            "-docker",
+            "-projectDir",
+            "/Users/aliciasorgen/BioLockJ_pipelines",
+            "-config",
+            "/Users/aliciasorgen/git/Dudeja_Projects/Smoking_Cancer_Gut_Dysbiosis_Analysis_2023/analysis/BLJ_config_files/mouseSmoke_analysis.properties"
+        ],
+        "State": {
+            "Status": "running",
+            "Running": true,
+            "Paused": false,
+            "Restarting": false,
+            "OOMKilled": false,
+            "Dead": false,
+            "Pid": 598,
+            "ExitCode": 0,
+            "Error": "",
+            "StartedAt": "2024-12-09T14:22:05.524985761Z",
+            "FinishedAt": "0001-01-01T00:00:00Z"
+        },
+        "Image": "sha256:508d0c6683b046697f6bcd19ac07f95c0a45aaccc402912cb56d9d5a0591eede",
+        "ResolvConfPath": "/var/lib/docker/containers/339a6650c9bcfce472557104f2699366252d0762d147179e2e33c63c2b328608/resolv.conf",
+        "HostnamePath": "/var/lib/docker/containers/339a6650c9bcfce472557104f2699366252d0762d147179e2e33c63c2b328608/hostname",
+        "HostsPath": "/var/lib/docker/containers/339a6650c9bcfce472557104f2699366252d0762d147179e2e33c63c2b328608/hosts",
+        "LogPath": "/var/lib/docker/containers/339a6650c9bcfce472557104f2699366252d0762d147179e2e33c63c2b328608/339a6650c9bcfce472557104f2699366252d0762d147179e2e33c63c2b328608-json.log",
+        "Name": "/nifty_napier",
+        "RestartCount": 0,
+        "Driver": "overlay2",
+        "Platform": "linux",
+        "MountLabel": "",
+        "ProcessLabel": "",
+        "AppArmorProfile": "",
+        "ExecIDs": null,
+        "HostConfig": {
+            "Binds": [
+                "/var/run/docker.sock:/var/run/docker.sock"
+            ],
+            "ContainerIDFile": "",
+            "LogConfig": {
+                "Type": "json-file",
+                "Config": {}
+            },
+            "NetworkMode": "bridge",
+            "PortBindings": {},
+            "RestartPolicy": {
+                "Name": "no",
+                "MaximumRetryCount": 0
+            },
+            "AutoRemove": true,
+            "VolumeDriver": "",
+            "VolumesFrom": null,
+            "ConsoleSize": [
+                0,
+                0
+            ],
+            "CapAdd": null,
+            "CapDrop": null,
+            "CgroupnsMode": "private",
+            "Dns": [],
+            "DnsOptions": [],
+            "DnsSearch": [],
+            "ExtraHosts": null,
+            "GroupAdd": null,
+            "IpcMode": "private",
+            "Cgroup": "",
+            "Links": null,
+            "OomScoreAdj": 0,
+            "PidMode": "",
+            "Privileged": false,
+            "PublishAllPorts": false,
+            "ReadonlyRootfs": false,
+            "SecurityOpt": null,
+            "UTSMode": "",
+            "UsernsMode": "",
+            "ShmSize": 67108864,
+            "Runtime": "runc",
+            "Isolation": "",
+            "CpuShares": 0,
+            "Memory": 0,
+            "NanoCpus": 0,
+            "CgroupParent": "",
+            "BlkioWeight": 0,
+            "BlkioWeightDevice": [],
+            "BlkioDeviceReadBps": [],
+            "BlkioDeviceWriteBps": [],
+            "BlkioDeviceReadIOps": [],
+            "BlkioDeviceWriteIOps": [],
+            "CpuPeriod": 0,
+            "CpuQuota": 0,
+            "CpuRealtimePeriod": 0,
+            "CpuRealtimeRuntime": 0,
+            "CpusetCpus": "",
+            "CpusetMems": "",
+            "Devices": [],
+            "DeviceCgroupRules": null,
+            "DeviceRequests": null,
+            "MemoryReservation": 0,
+            "MemorySwap": 0,
+            "MemorySwappiness": null,
+            "OomKillDisable": null,
+            "PidsLimit": null,
+            "Ulimits": [],
+            "CpuCount": 0,
+            "CpuPercent": 0,
+            "IOMaximumIOps": 0,
+            "IOMaximumBandwidth": 0,
+            "Mounts": [
+                {
+                    "Type": "bind",
+                    "Source": "/Users/aliciasorgen/BioLockJ_pipelines",
+                    "Target": "/mnt/efs/pipelines"
+                },
+                {
+                    "Type": "bind",
+                    "Source": "/Users/aliciasorgen/git/Dudeja_Projects/Smoking_Cancer_Gut_Dysbiosis_Analysis_2023/analysis/BLJ_config_files",
+                    "Target": "/mnt/efs/vol_1"
+                },
+                {
+                    "Type": "bind",
+                    "Source": "/Users/aliciasorgen/git/Dudeja_Projects/Smoking_Cancer_Gut_Dysbiosis_Analysis_2023/analysis/RScripts",
+                    "Target": "/mnt/efs/vol_2"
+                },
+                {
+                    "Type": "bind",
+                    "Source": "/Users/aliciasorgen/git/Dudeja_Projects/Smoking_Cancer_Gut_Dysbiosis_Analysis_2023/analysis/data",
+                    "Target": "/mnt/efs/vol_3"
+                }
+            ],
+            "MaskedPaths": [
+                "/proc/asound",
+                "/proc/acpi",
+                "/proc/kcore",
+                "/proc/keys",
+                "/proc/latency_stats",
+                "/proc/timer_list",
+                "/proc/timer_stats",
+                "/proc/sched_debug",
+                "/proc/scsi",
+                "/sys/firmware",
+                "/sys/devices/virtual/powercap"
+            ],
+            "ReadonlyPaths": [
+                "/proc/bus",
+                "/proc/fs",
+                "/proc/irq",
+                "/proc/sys",
+                "/proc/sysrq-trigger"
+            ]
+        },
+        "GraphDriver": {
+            "Data": {
+                "LowerDir": "/var/lib/docker/overlay2/3ded35242e5226e644e239c095d7ac13fe83c80b74256d0c1c00569fa9d07200-init/diff:/var/lib/docker/overlay2/ab3436f3e41e09a277dc742ff562cd5aeb4f63957c8e35ee74dee712115edef9/diff:/var/lib/docker/overlay2/b14d85fb55fbb4176b1156780bf50605982397e3f190703e358220b992d1e1f1/diff:/var/lib/docker/overlay2/8ad30104ab9c56b581648202939f411da177ffc20c4f71f8b7a86f67470e8c2f/diff:/var/lib/docker/overlay2/3d87b80b19e3ef2cbb40c6ca5cd994af82c96ddbcee2612c5ad636849dbf46ed/diff:/var/lib/docker/overlay2/a794afd009e7445fc9d8a6bcde72c4588713685ae7b290f46ac1671d3f1eb2d9/diff:/var/lib/docker/overlay2/155bf1c477196bc06f3280f99b7762511f0b0cabb3b5b6df40c38d71d39e2022/diff:/var/lib/docker/overlay2/9b5c9c5e3309af9fa2323dcb8e69cc7456e36158ad805fc87163ab153a1005b3/diff:/var/lib/docker/overlay2/ec2c2b6ced0f938d6fd9f144f375666c0643be61247ab2d133bf90088b03e679/diff:/var/lib/docker/overlay2/7ba38ef64b1c0bd6e241d9b135823abdae9ef2015e46ef1da7d46521186672fb/diff:/var/lib/docker/overlay2/b535085c02715026d7dce99c33772532cb7bce12bd6dab8f10a3db4061ede1a3/diff:/var/lib/docker/overlay2/ed15bb4b94ec74a58000b7e5893a3208c8defbeb24c97a085a63f748b9856a95/diff:/var/lib/docker/overlay2/ac44ae0e21b5db278db3c5678081f81940272190be7de52c80ce8fc9934dcef5/diff:/var/lib/docker/overlay2/d3366d29cdbe803cd3344a25f6225485721cb67c08726e128741617b0106a633/diff:/var/lib/docker/overlay2/1fb754ffcdd99e35b05cbc9eb1f00346bbe58e1f2709fb93d513a9ccf9f24362/diff:/var/lib/docker/overlay2/56bcecdfee436f5a140e9e55729d6320e3de970cf64f881a2d743484071932d4/diff:/var/lib/docker/overlay2/54967eec9f7ae5b7c478afd3129e80efa47a22c6fb1be1e1210d70c1b3b3254a/diff:/var/lib/docker/overlay2/389d3e195ff7a669a7a1ef0ed6eca0be838db23e47e2164d162dd72d6ae3cf44/diff:/var/lib/docker/overlay2/716ea91603add3336a2f2251dfe48f0ce585813293d29c439ab0deb3a43a2637/diff:/var/lib/docker/overlay2/6ccf4ce740f30d697294091c42b573c3ec31974bf28492c5a6a6b2ca4b5382e9/diff:/var/lib/docker/overlay2/3d7c1906eb2dc256eb32302edd1dfa27059fefb55c98275929c3b7709b35c4de/diff:/var/lib/docker/overlay2/fd8464ad7ccdcaa412835b0d9fd2db9c317921d50f86a6994a75be1b8a820438/diff:/var/lib/docker/overlay2/3af24c91f781011b9c0977bb743d5de910392556ff8f2841787d33dfb4d5250c/diff:/var/lib/docker/overlay2/56cb4f8e8818e690aa92aae5d6ab6a1f2421a48387dfccc354cec1839d2dbddd/diff",
+                "MergedDir": "/var/lib/docker/overlay2/3ded35242e5226e644e239c095d7ac13fe83c80b74256d0c1c00569fa9d07200/merged",
+                "UpperDir": "/var/lib/docker/overlay2/3ded35242e5226e644e239c095d7ac13fe83c80b74256d0c1c00569fa9d07200/diff",
+                "WorkDir": "/var/lib/docker/overlay2/3ded35242e5226e644e239c095d7ac13fe83c80b74256d0c1c00569fa9d07200/work"
+            },
+            "Name": "overlay2"
+        },
+        "Mounts": [
+            {
+                "Type": "bind",
+                "Source": "/Users/aliciasorgen/BioLockJ_pipelines",
+                "Destination": "/mnt/efs/pipelines",
+                "Mode": "",
+                "RW": true,
+                "Propagation": "rprivate"
+            },
+            {
+                "Type": "bind",
+                "Source": "/Users/aliciasorgen/git/Dudeja_Projects/Smoking_Cancer_Gut_Dysbiosis_Analysis_2023/analysis/BLJ_config_files",
+                "Destination": "/mnt/efs/vol_1",
+                "Mode": "",
+                "RW": true,
+                "Propagation": "rprivate"
+            },
+            {
+                "Type": "bind",
+                "Source": "/Users/aliciasorgen/git/Dudeja_Projects/Smoking_Cancer_Gut_Dysbiosis_Analysis_2023/analysis/RScripts",
+                "Destination": "/mnt/efs/vol_2",
+                "Mode": "",
+                "RW": true,
+                "Propagation": "rprivate"
+            },
+            {
+                "Type": "bind",
+                "Source": "/Users/aliciasorgen/git/Dudeja_Projects/Smoking_Cancer_Gut_Dysbiosis_Analysis_2023/analysis/data",
+                "Destination": "/mnt/efs/vol_3",
+                "Mode": "",
+                "RW": true,
+                "Propagation": "rprivate"
+            },
+            {
+                "Type": "bind",
+                "Source": "/var/run/docker.sock",
+                "Destination": "/var/run/docker.sock",
+                "Mode": "",
+                "RW": true,
+                "Propagation": "rprivate"
+            }
+        ],
+        "Config": {
+            "Hostname": "339a6650c9bc",
+            "Domainname": "",
+            "User": "",
+            "AttachStdin": false,
+            "AttachStdout": true,
+            "AttachStderr": true,
+            "Tty": false,
+            "OpenStdin": false,
+            "StdinOnce": false,
+            "Env": [
+                "PATH=/app/biolockj/script:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "NODE_VERSION=8.11.3",
+                "BIN=/usr/bin",
+                "BLJ=/app/biolockj",
+                "BLJ_MODS=/app/external_modules"
+            ],
+            "Cmd": [
+                "java",
+                "-cp",
+                "/app/biolockj/dist/BioLockJ.jar",
+                "biolockj.BioLockJ",
+                "-docker",
+                "-projectDir",
+                "/Users/aliciasorgen/BioLockJ_pipelines",
+                "-config",
+                "/Users/aliciasorgen/git/Dudeja_Projects/Smoking_Cancer_Gut_Dysbiosis_Analysis_2023/analysis/BLJ_config_files/mouseSmoke_analysis.properties"
+            ],
+            "Image": "biolockjdevteam/biolockj_controller:v1.4.2",
+            "Volumes": null,
+            "WorkingDir": "",
+            "Entrypoint": null,
+            "OnBuild": null,
+            "Labels": {}
+        },
+        "NetworkSettings": {
+            "Bridge": "",
+            "SandboxID": "f84646c73e02d2ff8980593687986b3dd43af95e919f3792dcbb345b70b9ce01",
+            "SandboxKey": "/var/run/docker/netns/f84646c73e02",
+            "Ports": {},
+            "HairpinMode": false,
+            "LinkLocalIPv6Address": "",
+            "LinkLocalIPv6PrefixLen": 0,
+            "SecondaryIPAddresses": null,
+            "SecondaryIPv6Addresses": null,
+            "EndpointID": "631d7346970f2368fd79dd21094393148505159570b677e8a68c71a67baba508",
+            "Gateway": "172.17.0.1",
+            "GlobalIPv6Address": "",
+            "GlobalIPv6PrefixLen": 0,
+            "IPAddress": "172.17.0.2",
+            "IPPrefixLen": 16,
+            "IPv6Gateway": "",
+            "MacAddress": "02:42:ac:11:00:02",
+            "Networks": {
+                "bridge": {
+                    "IPAMConfig": null,
+                    "Links": null,
+                    "Aliases": null,
+                    "MacAddress": "02:42:ac:11:00:02",
+                    "DriverOpts": null,
+                    "NetworkID": "1e442316ad0b5f4efdde5ce653920d27dd5015448ba0785b4ebd3e917556d191",
+                    "EndpointID": "631d7346970f2368fd79dd21094393148505159570b677e8a68c71a67baba508",
+                    "Gateway": "172.17.0.1",
+                    "IPAddress": "172.17.0.2",
+                    "IPPrefixLen": 16,
+                    "IPv6Gateway": "",
+                    "GlobalIPv6Address": "",
+                    "GlobalIPv6PrefixLen": 0,
+                    "DNSNames": null
+                }
+            }
+        }
+    }
+]

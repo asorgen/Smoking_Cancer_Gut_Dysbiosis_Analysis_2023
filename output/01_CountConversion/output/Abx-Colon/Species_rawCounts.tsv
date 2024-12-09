@@ -1,0 +1,17 @@
+SampleID	MouseModel	MouseID	Cancer	SmokeExp	AntibioticExp	TumorImp	Treatment	TumorWeight_avg	TumorWeight_sd	Study	d__Bacteria.p__Actinobacteriota.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Bifidobacterium.__	d__Bacteria.p__Bacteroidota.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.__	d__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridia_vadinBB60_group.f__Clostridia_vadinBB60_group.g__Clostridia_vadinBB60_group.__	d__Bacteria.p__Firmicutes.c__Clostridia.o__Lachnospirales.f__Lachnospiraceae.__.__	d__Bacteria.p__Firmicutes.c__Clostridia.o__Oscillospirales.f__Oscillospiraceae.__.__	d__Bacteria.p__Firmicutes.c__Clostridia.o__Oscillospirales.f__Ruminococcaceae.__.__	Other
+POSTMC38CT2-S63	WT	MC38-CT2	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	53	0	0	110	444	0	23409
+POSTMC38CT3-S64	WT	MC38-CT3	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	0	0	0	20	356	0	16001
+POSTMC38CT4-S65	WT	MC38-CT4	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	45	0	0	25	877	0	22207
+POSTMC38CT5-S66	WT	MC38-CT5	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	0	0	0	55	307	0	15705
+POSTMC38CT6-S67	WT	MC38-CT6	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	18	65	0	113	327	0	12311
+POSTMC38CT8-S69	WT	MC38-CT8	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon	5	0	23	0	267	0	10645
+POSTMC38SM1D-S70	WT	MC38-SM1	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	560	0	0	52	203	0	12628
+POSTMC38SM2E-S72	WT	MC38-SM3	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	760	0	0	50	423	0	22224
+POSTMC38SM3A-S73	WT	MC38-SM4	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	676	0	43	66	1135	10	53016
+POSTMC38SM3C-S74	WT	MC38-SM5	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	181	0	0	17	1066	29	54908
+POSTMC38SM5A-S75	WT	MC38-SM6	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	1156	0	0	16	216	0	47453
+POSTMC38SM5C-S76	WT	MC38-SM7	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	1213	0	0	88	409	23	57233
+POSTMC38SM6C-S77	WT	MC38-SM8	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	2241	0	0	68	247	6	58228
+POSTMC38SM7B-S78	WT	MC38-SM9	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	697	0	0	0	475	0	48789
+POSTMC38SM7D-S79	WT	MC38-SM10	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	1084	0	0	0	389	0	47865
+POSTMC38SM8C-S80	WT	MC38-SM11	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon	433	0	21	46	381	16	51613

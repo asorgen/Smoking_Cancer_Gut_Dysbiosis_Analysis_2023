@@ -1,0 +1,48 @@
+SampleID	MouseModel	SmokeExposure	FMTstatus	TumorStatus	FullMouseDescription	TumorWeight_avg	TumorWeight_sd	Study
+A2-S3	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT
+A3-S4	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT
+A4-S5	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT
+A5-S6	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT
+A6-S7	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT
+A7-S8	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT
+A8-S9	WT	NNK-free feces	Recipient	Post-tumor	Post-tumor NNK-free feces Recipient	357.88	99.15	NNK-FMT
+B1-S10	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT
+B2-S11	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT
+B3-S12	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT
+B4-S13	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT
+B5-S14	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT
+B6-S15	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT
+B7-S16	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT
+B8-S17	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT
+B9-S18	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT
+B10-S19	WT	NNK-exposed feces	Recipient	Post-tumor	Post-tumor NNK-exposed feces Recipient	567.4	92.25	NNK-FMT
+C1-S20	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT
+C2-S21	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT
+C3-S22	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT
+C4-S23	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT
+C5-S24	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT
+C6-S25	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT
+C7-S26	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT
+C8-S27	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT
+C9-S28	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT
+C10-S29	WT	NNK-exposed feces	Recipient	Pre-tumor	Pre-tumor NNK-exposed feces Recipient	NA	NA	NNK-FMT
+D1-S30	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT
+D2-S31	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT
+D3-S32	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT
+D4-S33	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT
+D5-S34	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT
+D6-S35	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT
+D7-S36	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT
+D8-S37	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT
+D9-S38	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT
+D10-S39	WT	NNK-exposed	Donor	Tumor-naive	Tumor-naive NNK-exposed Donor	NA	NA	NNK-FMT
+E1-S40	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT
+E2-S41	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT
+E3-S42	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT
+E4-S43	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT
+E5-S44	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT
+E6-S45	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT
+E7-S46	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT
+E8-S47	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT
+E9-S48	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT
+E10-S49	WT	NNK-free feces	Recipient	Pre-tumor	Pre-tumor NNK-free feces Recipient	NA	NA	NNK-FMT

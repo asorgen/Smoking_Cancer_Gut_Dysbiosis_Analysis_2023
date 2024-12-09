@@ -1,0 +1,28 @@
+java.class.path: /Users/aliciasorgen/biolockJ_versions/BioLockJ-v1.4.2/dist/BioLockJ.jar
+java.class.version: 58.0
+java.home: /Library/Java/JavaVirtualMachines/jdk-14.0.2.jdk/Contents/Home
+java.io.tmpdir: /var/folders/wz/v4_g_x_n2yl_m1rb9w_vxvzc0000gn/T/
+java.library.path: /Users/aliciasorgen/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+java.runtime.name: Java(TM) SE Runtime Environment
+java.runtime.version: 14.0.2+12-46
+java.specification.name: Java Platform API Specification
+java.specification.vendor: Oracle Corporation
+java.specification.version: 14
+java.vendor: Oracle Corporation
+java.vendor.url: https://java.oracle.com/
+java.vendor.url.bug: https://bugreport.java.com/bugreport/
+java.version: 14.0.2
+java.version.date: 2020-07-14
+java.vm.compressedOopsMode: Zero based
+java.vm.info: mixed mode, sharing
+java.vm.name: Java HotSpot(TM) 64-Bit Server VM
+java.vm.specification.name: Java Virtual Machine Specification
+java.vm.specification.vendor: Oracle Corporation
+java.vm.specification.version: 14
+java.vm.vendor: Oracle Corporation
+java.vm.version: 14.0.2+12-46
+os.arch: x86_64
+os.name: Mac OS X
+os.version: 10.16
+sun.java.command: /Users/aliciasorgen/biolockJ_versions/BioLockJ-v1.4.2/dist/BioLockJ.jar -d mouseSmoke_analysis.properties
+sun.java.launcher: SUN_STANDARD

@@ -1,0 +1,11 @@
+"Taxa"	"pValue"	"R2"	"direction"	"Adj_pValue"
+"d__Bacteria.p__Actinobacteriota.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Bifidobacterium.__"	0.00021584247850915	0.635826235479937	"Control"	0.00107921239254575
+"d__Bacteria.p__Actinobacteriota.c__Coriobacteriia.o__Coriobacteriales.f__Atopobiaceae.g__Olsenella.__"	2.19225208006097e-07	0.86143165570448	"Control"	2.19225208006097e-06
+"d__Bacteria.p__Actinobacteriota.c__Coriobacteriia.o__Coriobacteriales.f__Eggerthellaceae.__.__"	0.0976784878936399	0.183658995468158	"CSE"	0.19535697578728
+"d__Bacteria.p__Campilobacterota.c__Campylobacteria.o__Campylobacterales.f__Helicobacteraceae.g__Helicobacter.__"	0.407332047377818	0.0495451873894191	"CSE"	0.493336499126332
+"d__Bacteria.p__Firmicutes.c__Clostridia.__.__.__.__"	0.0585645965438987	0.232494298996928	"CSE"	0.146411491359747
+"d__Bacteria.p__Firmicutes.c__Clostridia.o__Lachnospirales.f__Lachnospiraceae.__.__"	0.944353667108117	0.000360569184581747	"CSE"	0.944353667108117
+"d__Bacteria.p__Firmicutes.c__Clostridia.o__Lachnospirales.f__Lachnospiraceae.g__Tyzzerella.__"	0.154867717185697	0.139057671946602	"CSE"	0.258112861976162
+"d__Bacteria.p__Firmicutes.c__Clostridia.o__Oscillospirales.f__Oscillospiraceae.__.__"	0.00518578906915622	0.438621865445666	"CSE"	0.0172859635638541
+"d__Bacteria.p__Proteobacteria.c__Gammaproteobacteria.o__Pseudomonadales.f__Pseudomonadaceae.g__Pseudomonas.s__Pseudomonas_aeruginosa"	0.184356159551563	0.122245559518752	"Control"	0.263365942216519
+"Other"	0.444002849213699	0.0424388748392144	"CSE"	0.493336499126332

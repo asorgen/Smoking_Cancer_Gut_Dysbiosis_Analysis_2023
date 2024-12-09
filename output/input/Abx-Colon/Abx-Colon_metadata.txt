@@ -1,0 +1,20 @@
+SampleID	MouseModel	MouseID	Cancer	SmokeExp	AntibioticExp	TumorImp	Treatment	TumorWeight_avg	TumorWeight_sd	Study
+POSTMC38CT1-S62	WT	MC38-CT1	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon
+POSTMC38CT2-S63	WT	MC38-CT2	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon
+POSTMC38CT3-S64	WT	MC38-CT3	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon
+POSTMC38CT4-S65	WT	MC38-CT4	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon
+POSTMC38CT5-S66	WT	MC38-CT5	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon
+POSTMC38CT6-S67	WT	MC38-CT6	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon
+POSTMC38CT7-S68	WT	MC38-CT7	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon
+POSTMC38CT8-S69	WT	MC38-CT8	Colon	No	None	Post	Control	171.36	38.83	Abx-Colon
+POSTMC38SM1D-S70	WT	MC38-SM1	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon
+POSTMC38SM2A-S71	WT	MC38-SM2	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon
+POSTMC38SM2E-S72	WT	MC38-SM3	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon
+POSTMC38SM3A-S73	WT	MC38-SM4	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon
+POSTMC38SM3C-S74	WT	MC38-SM5	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon
+POSTMC38SM5A-S75	WT	MC38-SM6	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon
+POSTMC38SM5C-S76	WT	MC38-SM7	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon
+POSTMC38SM6C-S77	WT	MC38-SM8	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon
+POSTMC38SM7B-S78	WT	MC38-SM9	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon
+POSTMC38SM7D-S79	WT	MC38-SM10	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon
+POSTMC38SM8C-S80	WT	MC38-SM11	Colon	Yes	None	Post	Smoke only	309.91	42.72	Abx-Colon

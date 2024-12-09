@@ -1,0 +1,60 @@
+SampleID	MouseModel	MouseID	Cancer	SmokeExp	AntibioticExp	TumorImp	Treatment	TumorWeight_avg	TumorWeight_sd	Study	d__Bacteria.p__Actinobacteriota	d__Bacteria.p__Bacteroidota	d__Bacteria.p__Campilobacterota	d__Bacteria.p__Deferribacterota	d__Bacteria.p__Desulfobacterota	d__Bacteria.p__Firmicutes	d__Bacteria.p__Patescibacteria	d__Bacteria.p__Proteobacteria	d__Bacteria.p__Verrucomicrobiota	Other
+P731ABX1-S148	WT	Pan-ABX1	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	42	21	21	0	0	94	0	12463	15	2192
+P731ABX2-S149	WT	Pan-ABX2	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	18	21	11	0	0	180	0	22913	15	1182
+P731ABX3-S150	WT	Pan-ABX3	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	28	58	15	0	0	309	0	13465	16	1295
+P731ABX4-S151	WT	Pan-ABX4	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	6	35	0	0	0	56	0	17794	0	3450
+P731ABX5-S152	WT	Pan-ABX5	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	44	23	0	0	0	280	2	25395	7	2261
+P731ABX6-S153	WT	Pan-ABX6	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	28	332	765	270	0	893	0	14061	54	2278
+P731ABX8-S155	WT	Pan-ABX8	Pancreatic	No	Cocktail	Post	Antibiotic only	289.01	27.94	Abx-Pancreatic	377	4064	0	0	30	3866	51	1192	1226	0
+P731CT1-S131	WT	Pan-CT1	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	2097	9433	5693	113	38	14687	290	134	339	61
+P731CT2-S132	WT	Pan-CT2	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	779	8801	7545	4019	402	13126	206	9	1314	39
+P731CT3-S133	WT	Pan-CT3	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	665	14981	3170	1147	1224	10359	48	112	147	0
+P731CT4-S134	WT	Pan-CT4	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	578	13915	4699	647	1256	11856	39	127	259	0
+P731CT5-S135	WT	Pan-CT5	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	308	7740	9883	3837	345	11917	39	24	829	0
+P731CT6-S136	WT	Pan-CT6	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	1653	16006	4438	915	426	10907	404	263	219	52
+P731CT7-S137	WT	Pan-CT7	Pancreatic	No	None	Post	Control	450.22	110.04	Abx-Pancreatic	1045	13419	4201	481	682	15823	109	15	365	46
+P731SA1-S156	WT	Pan-SA1	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	528	8131	0	0	172	9091	101	2582	1851	168
+P731SA2-S157	WT	Pan-SA2	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	1027	10033	0	0	153	9294	369	3747	849	347
+P731SA3-S158	WT	Pan-SA3	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	290	3518	0	0	23	4521	94	1495	308	91
+P731SA5-S160	WT	Pan-SA5	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	9	17	6	0	0	21	0	8443	0	1472
+P731SA6-S161	WT	Pan-SA6	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	126	9	0	0	0	92	0	19385	0	4760
+P731SA7-S162	WT	Pan-SA7	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	7	24	3	0	0	97	0	13340	4	4110
+P731SA8-S163	WT	Pan-SA8	Pancreatic	Yes	Cocktail	Post	Smoke+Antibiotic	302.79	34.09	Abx-Pancreatic	54	1060	17	0	0	663	0	16981	19	4057
+P731SM1-S138	WT	Pan-SM1	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	1673	12589	0	0	640	15508	602	58	2519	67
+P731SM10-S147	WT	Pan-SM10	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	712	11696	0	0	224	11312	584	59	1251	48
+P731SM2-S139	WT	Pan-SM2	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	1137	10956	0	0	605	13223	390	31	1713	27
+P731SM3-S140	WT	Pan-SM3	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	1552	17229	0	0	128	14792	396	119	3621	52
+P731SM4-S141	WT	Pan-SM4	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	901	11597	0	0	224	10749	165	72	3081	41
+P731SM5-S142	WT	Pan-SM5	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	1067	11625	0	0	517	12756	522	13	1914	62
+P731SM6-S143	WT	Pan-SM6	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	1045	8963	0	0	129	9640	231	98	3255	38
+P731SM7-S144	WT	Pan-SM7	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	813	11112	0	0	317	13818	219	58	2795	121
+P731SM8-S145	WT	Pan-SM8	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	681	5266	0	0	111	7129	246	102	547	0
+P731SM9-S146	WT	Pan-SM9	Pancreatic	Yes	None	Post	Smoke only	620.21	88.26	Abx-Pancreatic	844	11213	0	0	89	11847	336	58	1040	47
+S731ABX1-S90	WT	Pan-ABX1	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	81	11	16	5	0	61	0	14810	0	3254
+S731ABX2-S91	WT	Pan-ABX2	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	91	59	8	0	0	45	0	17696	0	3493
+S731ABX3-S92	WT	Pan-ABX3	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	92	51	1258	226	0	146	0	21343	8	3804
+S731ABX4-S93	WT	Pan-ABX4	Pancreatic	No	Cocktail	Pre	Antibiotic only	NA	NA	Abx-Pancreatic	336	21	0	0	0	11	0	17881	0	5029
+S731CT1-S34	WT	Pan-CT1	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	815	9562	3770	1531	792	7310	65	117	530	0
+S731CT2-S35	WT	Pan-CT2	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	2139	15328	3680	2355	263	10655	31	746	190	0
+S731CT3-S36	WT	Pan-CT3	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	1290	20312	0	0	0	19570	0	303	7	93
+S731CT4-S37	WT	Pan-CT4	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	1775	7862	4605	1064	439	13857	220	40	106	0
+S731CT5-S38	WT	Pan-CT5	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	2261	12405	0	0	0	11008	0	847	0	0
+S731CT6-S39	WT	Pan-CT6	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	1437	18685	0	0	0	15678	0	438	0	31
+S731CT7-S40	WT	Pan-CT7	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	978	16205	13	0	0	18816	0	508	0	0
+S731CT8-S41	WT	Pan-CT8	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	2707	17265	12	0	0	14354	0	412	0	0
+S731CT9-S42	WT	Pan-CT9	Pancreatic	No	None	Pre	Control	NA	NA	Abx-Pancreatic	1400	15900	4361	713	251	14466	487	82	241	10
+S731SA1-S52	WT	Pan-SA1	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	114	74	0	0	0	25	0	15449	0	5009
+S731SA2-S53	WT	Pan-SA2	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	96	19	7	0	0	157	0	19258	0	6224
+S731SA3-S54	WT	Pan-SA3	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	90	418	0	0	0	201	0	15959	15	5126
+S731SA4-S55	WT	Pan-SA4	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	18	13	0	0	0	33	0	11840	0	3232
+S731SA5-S56	WT	Pan-SA5	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	48	11	0	0	0	61	0	15029	0	4427
+S731SA6-S57	WT	Pan-SA6	Pancreatic	Yes	Cocktail	Pre	Smoke+Antibiotic	NA	NA	Abx-Pancreatic	79	16	75	4	0	35	0	11670	0	4616
+S731SM1-S43	WT	Pan-SM1	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	1304	11794	5	0	0	15571	0	182	1741	36
+S731SM2-S44	WT	Pan-SM2	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	1303	14966	10	0	0	17269	0	601	1438	0
+S731SM3-S45	WT	Pan-SM3	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	1203	12362	0	0	0	12949	0	315	2294	0
+S731SM4-S46	WT	Pan-SM4	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	511	10952	0	0	0	10481	0	143	2458	0
+S731SM5-S47	WT	Pan-SM5	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	1459	12933	7	0	0	18396	13	137	671	44
+S731SM6-S48	WT	Pan-SM6	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	1413	12141	9	0	0	15775	14	296	2377	0
+S731SM7-S49	WT	Pan-SM7	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	828	8528	0	0	0	9679	0	248	2496	79
+S731SM8-S50	WT	Pan-SM8	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	925	11485	0	0	0	12295	0	290	615	0
+S731SM9-S51	WT	Pan-SM9	Pancreatic	Yes	None	Pre	Smoke only	NA	NA	Abx-Pancreatic	1185	13005	0	0	0	17737	0	268	875	92
